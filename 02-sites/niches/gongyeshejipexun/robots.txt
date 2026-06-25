@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gongyeshejipexun-nav.pages.dev/sitemap.xml

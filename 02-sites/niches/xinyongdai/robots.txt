@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xinyongdai-nav.pages.dev/sitemap.xml

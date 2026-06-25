@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jijin-nav.pages.dev/sitemap.xml

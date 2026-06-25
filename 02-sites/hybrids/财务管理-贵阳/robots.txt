@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://财务管理-贵阳-nav.pages.dev/sitemap.xml

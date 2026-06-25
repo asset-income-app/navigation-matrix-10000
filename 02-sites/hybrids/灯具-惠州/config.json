@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "灯具",
+  "cityName": "惠州",
+  "siteTitle": "惠州灯具导航 - 惠州灯具最全网站导航",
+  "siteDescription": "惠州灯具导航站，汇集惠州灯具最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-purple",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "惠州灯具搜索",
+          "url": "https://www.baidu.com/s?wd=惠州灯具",
+          "desc": "搜索惠州灯具相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "惠州本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "惠州本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "灯具经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=灯具",
+          "desc": "灯具视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "灯具经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=灯具工具",
+          "desc": "搜索灯具相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "灯具工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "灯具交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "灯具分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "灯具贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=灯具",
+          "desc": "灯具热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=惠州灯具",
+          "desc": "搜索惠州灯具相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=惠州灯具",
+          "desc": "惠州灯具视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=惠州灯具",
+          "desc": "惠州灯具热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 23.41,
+      "lng": 102.41,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "惠州",
+      "geo.position": "23.41;102.41",
+      "ICBM": "23.41, 102.41",
+      "geo.latitude": 23.41,
+      "geo.longitude": 102.41,
+      "geo.city": "惠州",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "惠州导航",
+      "惠州网站",
+      "惠州网址",
+      "惠州本地服务",
+      "惠州生活指南",
+      "惠州便民服务",
+      "惠州信息查询",
+      "惠州在线服务",
+      "惠州灯具",
+      "灯具惠州"
+    ]
+  }
+}

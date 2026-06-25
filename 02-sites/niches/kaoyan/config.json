@@ -1,0 +1,624 @@
+{
+  "siteType": "niche",
+  "nicheName": "考研",
+  "nichePinyin": "kaoyan",
+  "siteTitle": "考研导航 - 最全的考研网站导航",
+  "siteDescription": "考研导航站，汇集考研最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "精选网站",
+      "links": [
+        {
+          "name": "学府考研",
+          "url": "https://www.xuefu.com/",
+          "desc": "学府考研辅导"
+        },
+        {
+          "name": "优路考研",
+          "url": "https://www.youlu.com/",
+          "desc": "优路考研培训"
+        },
+        {
+          "name": "考研英语黄皮书",
+          "url": "https://www.zhangjian.com/",
+          "desc": "张剑黄皮书"
+        },
+        {
+          "name": "肖秀荣考研政治",
+          "url": "https://www.xiaoxiurong.com/",
+          "desc": "肖秀荣政治"
+        },
+        {
+          "name": "汤家凤考研数学",
+          "url": "https://www.tangjiafeng.com/",
+          "desc": "汤家凤数学"
+        },
+        {
+          "name": "张宇考研数学",
+          "url": "https://www.zhangyumath.com/",
+          "desc": "张宇数学辅导"
+        },
+        {
+          "name": "李永乐考研数学",
+          "url": "https://www.liyongle.com/",
+          "desc": "李永乐数学"
+        },
+        {
+          "name": "腿姐考研政治",
+          "url": "https://www.tuijie.com/",
+          "desc": "腿姐政治辅导"
+        },
+        {
+          "name": "徐涛考研政治",
+          "url": "https://www.xutao.com/",
+          "desc": "徐涛政治课程"
+        },
+        {
+          "name": "何凯文考研英语",
+          "url": "https://www.hekaiwen.com/",
+          "desc": "何凯文英语"
+        }
+      ]
+    },
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "中国研究生招生信息网",
+          "url": "https://yz.chsi.com.cn/",
+          "desc": "教育部唯一官方考研报名平台"
+        },
+        {
+          "name": "中国教育在线考研",
+          "url": "https://kaoyan.eol.cn/",
+          "desc": "考研资讯与院校信息"
+        },
+        {
+          "name": "学信网",
+          "url": "https://www.chsi.com.cn/",
+          "desc": "学历查询与认证平台"
+        },
+        {
+          "name": "教育部考试中心",
+          "url": "https://www.neea.edu.cn/",
+          "desc": "国家级考试机构"
+        },
+        {
+          "name": "全国高等学校名单",
+          "url": "https://www.moe.gov.cn/",
+          "desc": "教育部官方高校查询"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "中国大学MOOC",
+          "url": "https://www.icourse163.org/",
+          "desc": "国家精品在线课程平台"
+        },
+        {
+          "name": "考研帮",
+          "url": "https://www.kaoyan.com/",
+          "desc": "考研综合学习社区"
+        },
+        {
+          "name": "新东方在线考研",
+          "url": "https://kaoyan.koolearn.com/",
+          "desc": "新东方考研网课"
+        },
+        {
+          "name": "文都考研",
+          "url": "https://www.wenduedu.com/",
+          "desc": "文都考研辅导"
+        },
+        {
+          "name": "海文考研",
+          "url": "https://www.wanxue.cn/",
+          "desc": "海文考研培训"
+        },
+        {
+          "name": "沪江考研",
+          "url": "https://kaoyan.hujiang.com/",
+          "desc": "沪江网校考研"
+        },
+        {
+          "name": "跨考考研",
+          "url": "https://www.kuakao.com/",
+          "desc": "跨专业考研辅导"
+        },
+        {
+          "name": "尚考考研",
+          "url": "https://www.shangkao.com/",
+          "desc": "尚考考研培训"
+        },
+        {
+          "name": "中公考研",
+          "url": "https://kaoyan.offcn.com/",
+          "desc": "中公教育考研"
+        },
+        {
+          "name": "启航考研",
+          "url": "https://www.qihang.com.cn/",
+          "desc": "启航考研辅导"
+        }
+      ]
+    },
+    {
+      "name": "真题资料",
+      "links": [
+        {
+          "name": "考研真题库",
+          "url": "https://www.kaoyan.com/zhenti/",
+          "desc": "历年考研真题下载"
+        },
+        {
+          "name": "考研英语真题",
+          "url": "https://kaoyan.eol.cn/zhenti/",
+          "desc": "考研英语历年真题"
+        },
+        {
+          "name": "考研政治真题",
+          "url": "https://www.kaoyan.com/zhenti/zhengzhi/",
+          "desc": "考研政治历年真题"
+        },
+        {
+          "name": "考研数学真题",
+          "url": "https://www.kaoyan.com/zhenti/shuxue/",
+          "desc": "考研数学历年真题"
+        },
+        {
+          "name": "考研专业课真题",
+          "url": "https://www.kaoyan.com/zhenti/zhuanyekemu/",
+          "desc": "专业课真题下载"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "考研帮论坛",
+          "url": "https://bbs.kaoyan.com/",
+          "desc": "考研交流论坛"
+        },
+        {
+          "name": "知乎考研话题",
+          "url": "https://www.zhihu.com/topic/19551798",
+          "desc": "知乎考研经验分享"
+        },
+        {
+          "name": "小红书考研",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "考研经验分享"
+        },
+        {
+          "name": "豆瓣考研小组",
+          "url": "https://www.douban.com/group/kaoyan/",
+          "desc": "豆瓣考研小组"
+        },
+        {
+          "name": "考研QQ群",
+          "url": "https://www.qun.qq.com/",
+          "desc": "QQ群考研交流"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "考研倒计时",
+          "url": "https://www.kaoyan.com/",
+          "desc": "考研倒计时工具"
+        },
+        {
+          "name": "番茄钟",
+          "url": "https://www.tomato-timer.com/",
+          "desc": "学习计时工具"
+        },
+        {
+          "name": "Anki",
+          "url": "https://apps.ankiweb.net/",
+          "desc": "记忆卡片工具"
+        },
+        {
+          "name": "XMind思维导图",
+          "url": "https://www.xmind.cn/",
+          "desc": "思维导图工具"
+        },
+        {
+          "name": "Notion",
+          "url": "https://www.notion.so/",
+          "desc": "笔记管理工具"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索考研教程",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "百度考研教程教程学习"
+        },
+        {
+          "name": "B站搜索考研教程",
+          "url": "https://search.bilibili.com/all?keyword=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "B站考研教程教程学习"
+        },
+        {
+          "name": "微博搜索考研教程",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "微博考研教程教程学习"
+        },
+        {
+          "name": "搜狗微信搜索考研教程",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "搜狗微信考研教程教程学习"
+        },
+        {
+          "name": "头条搜索考研教程",
+          "url": "https://www.toutiao.com/search/?keyword=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "头条考研教程教程学习"
+        },
+        {
+          "name": "抖音搜索考研教程",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "抖音考研教程教程学习"
+        },
+        {
+          "name": "淘宝搜索考研教程",
+          "url": "https://s.taobao.com/search?q=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "淘宝考研教程教程学习"
+        },
+        {
+          "name": "京东搜索考研教程",
+          "url": "https://search.jd.com/Search?keyword=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "京东考研教程教程学习"
+        },
+        {
+          "name": "拼多多搜索考研教程",
+          "url": "https://www.pinduoduo.com/search?q=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "拼多多考研教程教程学习"
+        },
+        {
+          "name": "360搜索搜索考研教程",
+          "url": "https://www.so.com/s?q=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "360搜索考研教程教程学习"
+        },
+        {
+          "name": "必应搜索考研教程",
+          "url": "https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "必应考研教程教程学习"
+        },
+        {
+          "name": "Google搜索考研教程",
+          "url": "https://www.google.com/search?q=%E8%80%83%E7%A0%94%E6%95%99%E7%A8%8B",
+          "desc": "Google考研教程教程学习"
+        }
+      ]
+    },
+    {
+      "name": "知识社区",
+      "links": [
+        {
+          "name": "知乎·考研",
+          "url": "https://www.zhihu.com/search?type=content&q=%E8%80%83%E7%A0%94",
+          "desc": "在知乎搜索考研综合信息"
+        }
+      ]
+    },
+    {
+      "name": "生活社区",
+      "links": [
+        {
+          "name": "小红书·考研",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%83%E7%A0%94",
+          "desc": "在小红书搜索考研综合信息"
+        }
+      ]
+    },
+    {
+      "name": "短视频",
+      "links": [
+        {
+          "name": "抖音·考研",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94",
+          "desc": "在抖音搜索考研综合信息"
+        },
+        {
+          "name": "抖音·考研入门",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E5%85%A5%E9%97%A8",
+          "desc": "在抖音搜索考研入门入门指南"
+        },
+        {
+          "name": "抖音·考研学习",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0",
+          "desc": "在抖音搜索考研学习学习资源"
+        },
+        {
+          "name": "抖音·考研培训",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E5%9F%B9%E8%AE%AD",
+          "desc": "在抖音搜索考研培训培训课程"
+        },
+        {
+          "name": "抖音·考研论坛",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E8%AE%BA%E5%9D%9B",
+          "desc": "在抖音搜索考研论坛论坛社区"
+        },
+        {
+          "name": "抖音·考研社区",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E7%A4%BE%E5%8C%BA",
+          "desc": "在抖音搜索考研社区社区交流"
+        },
+        {
+          "name": "抖音·考研工具",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E5%B7%A5%E5%85%B7",
+          "desc": "在抖音搜索考研工具工具软件"
+        },
+        {
+          "name": "抖音·考研软件",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E8%BD%AF%E4%BB%B6",
+          "desc": "在抖音搜索考研软件软件推荐"
+        },
+        {
+          "name": "抖音·考研资料",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99",
+          "desc": "在抖音搜索考研资料资料下载"
+        },
+        {
+          "name": "抖音·考研视频",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E8%A7%86%E9%A2%91",
+          "desc": "在抖音搜索考研视频视频教程"
+        },
+        {
+          "name": "抖音·考研书籍",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E4%B9%A6%E7%B1%8D",
+          "desc": "在抖音搜索考研书籍书籍推荐"
+        },
+        {
+          "name": "抖音·考研考试",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E8%80%83%E8%AF%95",
+          "desc": "在抖音搜索考研考试考试信息"
+        },
+        {
+          "name": "抖音·考研招聘",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E6%8B%9B%E8%81%98",
+          "desc": "在抖音搜索考研招聘招聘信息"
+        },
+        {
+          "name": "抖音·考研排名",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E6%8E%92%E5%90%8D",
+          "desc": "在抖音搜索考研排名排名推荐"
+        },
+        {
+          "name": "抖音·考研攻略",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E6%94%BB%E7%95%A5",
+          "desc": "在抖音搜索考研攻略攻略指南"
+        },
+        {
+          "name": "抖音·考研技巧",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E6%8A%80%E5%B7%A7",
+          "desc": "在抖音搜索考研技巧技巧方法"
+        },
+        {
+          "name": "抖音·考研APP",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94APP",
+          "desc": "在抖音搜索考研APP手机应用"
+        },
+        {
+          "name": "抖音·考研网站",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E7%BD%91%E7%AB%99",
+          "desc": "在抖音搜索考研网站网站推荐"
+        },
+        {
+          "name": "抖音·考研免费",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E5%85%8D%E8%B4%B9",
+          "desc": "在抖音搜索考研免费免费资源"
+        }
+      ]
+    },
+    {
+      "name": "文化社区",
+      "links": [
+        {
+          "name": "豆瓣·考研",
+          "url": "https://www.douban.com/search?q=%E8%80%83%E7%A0%94",
+          "desc": "在豆瓣搜索考研综合信息"
+        }
+      ]
+    },
+    {
+      "name": "更多搜索",
+      "links": [
+        {
+          "name": "百度·考研怎么学",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度搜索考研怎么学"
+        },
+        {
+          "name": "知乎·考研怎么学",
+          "url": "https://www.zhihu.com/search?type=content&q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎搜索考研怎么学"
+        },
+        {
+          "name": "B站·考研怎么学",
+          "url": "https://search.bilibili.com/all?keyword=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在B站搜索考研怎么学"
+        },
+        {
+          "name": "小红书·考研怎么学",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在小红书搜索考研怎么学"
+        },
+        {
+          "name": "微信·考研怎么学",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微信搜索考研怎么学"
+        },
+        {
+          "name": "头条·考研怎么学",
+          "url": "https://www.toutiao.com/search/?keyword=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在头条搜索考研怎么学"
+        },
+        {
+          "name": "抖音·考研怎么学",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在抖音搜索考研怎么学"
+        },
+        {
+          "name": "豆瓣·考研怎么学",
+          "url": "https://www.douban.com/search?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在豆瓣搜索考研怎么学"
+        },
+        {
+          "name": "淘宝·考研怎么学",
+          "url": "https://s.taobao.com/search?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在淘宝搜索考研怎么学"
+        },
+        {
+          "name": "京东·考研怎么学",
+          "url": "https://search.jd.com/Search?keyword=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在京东搜索考研怎么学"
+        },
+        {
+          "name": "360搜索·考研怎么学",
+          "url": "https://www.so.com/s?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在360搜索搜索考研怎么学"
+        },
+        {
+          "name": "必应·考研怎么学",
+          "url": "https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在必应搜索考研怎么学"
+        },
+        {
+          "name": "搜狗·考研怎么学",
+          "url": "https://www.sogou.com/web?query=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在搜狗搜索考研怎么学"
+        },
+        {
+          "name": "微博·考研怎么学",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微博搜索考研怎么学"
+        },
+        {
+          "name": "喜马拉雅·考研怎么学",
+          "url": "https://www.ximalaya.com/search/%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在喜马拉雅搜索考研怎么学"
+        },
+        {
+          "name": "CSDN·考研怎么学",
+          "url": "https://so.csdn.net/so/search?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在CSDN搜索考研怎么学"
+        },
+        {
+          "name": "掘金·考研怎么学",
+          "url": "https://juejin.cn/search?query=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在掘金搜索考研怎么学"
+        },
+        {
+          "name": "简书·考研怎么学",
+          "url": "https://www.jianshu.com/search?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在简书搜索考研怎么学"
+        },
+        {
+          "name": "百度贴吧·考研怎么学",
+          "url": "https://tieba.baidu.com/f?kw=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度贴吧搜索考研怎么学"
+        },
+        {
+          "name": "知乎专栏·考研怎么学",
+          "url": "https://zhuanlan.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎专栏搜索考研怎么学"
+        },
+        {
+          "name": "百度·考研怎么考",
+          "url": "https://www.baidu.com/s?wd=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度搜索考研怎么考"
+        },
+        {
+          "name": "知乎·考研怎么考",
+          "url": "https://www.zhihu.com/search?type=content&q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎搜索考研怎么考"
+        },
+        {
+          "name": "B站·考研怎么考",
+          "url": "https://search.bilibili.com/all?keyword=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在B站搜索考研怎么考"
+        },
+        {
+          "name": "小红书·考研怎么考",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在小红书搜索考研怎么考"
+        },
+        {
+          "name": "微信·考研怎么考",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微信搜索考研怎么考"
+        },
+        {
+          "name": "头条·考研怎么考",
+          "url": "https://www.toutiao.com/search/?keyword=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在头条搜索考研怎么考"
+        },
+        {
+          "name": "抖音·考研怎么考",
+          "url": "https://www.douyin.com/search/%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在抖音搜索考研怎么考"
+        },
+        {
+          "name": "豆瓣·考研怎么考",
+          "url": "https://www.douban.com/search?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在豆瓣搜索考研怎么考"
+        },
+        {
+          "name": "淘宝·考研怎么考",
+          "url": "https://s.taobao.com/search?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在淘宝搜索考研怎么考"
+        },
+        {
+          "name": "京东·考研怎么考",
+          "url": "https://search.jd.com/Search?keyword=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在京东搜索考研怎么考"
+        },
+        {
+          "name": "360搜索·考研怎么考",
+          "url": "https://www.so.com/s?q=%E8%80%83%E7%A0%94%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在360搜索搜索考研怎么考"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 22.24,
+      "lng": 83.24,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "考研 - 最全的考研网站",
+      "geo.position": "22.24;83.24",
+      "ICBM": "22.24, 83.24",
+      "geo.latitude": 22.24,
+      "geo.longitude": 83.24,
+      "geo.city": "考研 - 最全的考研网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "考研 - 最全的考研网站导航",
+      "考研 - 最全的考研网站网站",
+      "考研 - 最全的考研网站网址",
+      "考研 - 最全的考研网站本地服务",
+      "考研 - 最全的考研网站生活指南",
+      "考研 - 最全的考研网站便民服务",
+      "考研 - 最全的考研网站信息查询",
+      "考研 - 最全的考研网站在线服务"
+    ]
+  }
+}

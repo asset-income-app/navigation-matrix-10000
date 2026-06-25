@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "沧州保险公司导航 - 沧州保险公司最全网站导航",
+  "description": "沧州保险公司导航站，汇集沧州保险公司最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "沧州",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 52.22,
+    "longitude": 93.22
+  },
+  "url": "https://hybrid-沧州.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "沧州"
+  }
+}

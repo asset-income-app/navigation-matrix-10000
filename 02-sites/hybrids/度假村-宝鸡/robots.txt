@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://度假村-宝鸡-nav.pages.dev/sitemap.xml

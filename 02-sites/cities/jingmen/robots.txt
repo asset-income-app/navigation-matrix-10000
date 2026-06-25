@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jingmen-nav.pages.dev/sitemap.xml

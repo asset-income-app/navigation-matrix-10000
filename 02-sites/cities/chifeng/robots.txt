@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chifeng-nav.pages.dev/sitemap.xml

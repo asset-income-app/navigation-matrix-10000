@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://百货-池州.pages.dev/sitemap.xml

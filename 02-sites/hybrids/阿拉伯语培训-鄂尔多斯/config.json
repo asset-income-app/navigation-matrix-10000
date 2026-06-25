@@ -1,0 +1,155 @@
+{
+  "siteType": "hybrid",
+  "cityName": "鄂尔多斯",
+  "nicheName": "阿拉伯语培训",
+  "sitePinyin": "阿拉伯语培训-鄂尔多斯",
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "鄂尔多斯阿拉伯语培训搜索",
+          "url": "https://www.baidu.com/s?wd=鄂尔多斯阿拉伯语培训",
+          "desc": "搜索鄂尔多斯阿拉伯语培训相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "鄂尔多斯本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "鄂尔多斯本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "阿拉伯语培训经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=阿拉伯语培训",
+          "desc": "阿拉伯语培训视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "阿拉伯语培训经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=阿拉伯语培训工具",
+          "desc": "搜索阿拉伯语培训相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "阿拉伯语培训工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "阿拉伯语培训交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "阿拉伯语培训分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "阿拉伯语培训贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=阿拉伯语培训",
+          "desc": "阿拉伯语培训热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=鄂尔多斯阿拉伯语培训",
+          "desc": "搜索鄂尔多斯阿拉伯语培训相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=鄂尔多斯阿拉伯语培训",
+          "desc": "鄂尔多斯阿拉伯语培训视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=鄂尔多斯阿拉伯语培训",
+          "desc": "鄂尔多斯阿拉伯语培训热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 48.7,
+      "lng": 85.7,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "鄂尔多斯",
+      "geo.position": "48.7;85.7",
+      "ICBM": "48.7, 85.7",
+      "geo.latitude": 48.7,
+      "geo.longitude": 85.7,
+      "geo.city": "鄂尔多斯",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "鄂尔多斯导航",
+      "鄂尔多斯网站",
+      "鄂尔多斯网址",
+      "鄂尔多斯本地服务",
+      "鄂尔多斯生活指南",
+      "鄂尔多斯便民服务",
+      "鄂尔多斯信息查询",
+      "鄂尔多斯在线服务",
+      "鄂尔多斯阿拉伯语培训",
+      "阿拉伯语培训鄂尔多斯"
+    ]
+  }
+}

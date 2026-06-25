@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "大数据培训",
+  "cityName": "河源",
+  "siteTitle": "河源大数据培训导航 - 河源大数据培训最全网站导航",
+  "siteDescription": "河源大数据培训导航站，汇集河源大数据培训最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-dark",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "河源大数据培训搜索",
+          "url": "https://www.baidu.com/s?wd=河源大数据培训",
+          "desc": "搜索河源大数据培训相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "河源本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "河源本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "大数据培训经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=大数据培训",
+          "desc": "大数据培训视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "大数据培训经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=大数据培训工具",
+          "desc": "搜索大数据培训相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "大数据培训工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "大数据培训交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "大数据培训分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "大数据培训贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=大数据培训",
+          "desc": "大数据培训热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=河源大数据培训",
+          "desc": "搜索河源大数据培训相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=河源大数据培训",
+          "desc": "河源大数据培训视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=河源大数据培训",
+          "desc": "河源大数据培训热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 26.56,
+      "lng": 81.56,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "河源",
+      "geo.position": "26.56;81.56",
+      "ICBM": "26.56, 81.56",
+      "geo.latitude": 26.56,
+      "geo.longitude": 81.56,
+      "geo.city": "河源",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "河源导航",
+      "河源网站",
+      "河源网址",
+      "河源本地服务",
+      "河源生活指南",
+      "河源便民服务",
+      "河源信息查询",
+      "河源在线服务",
+      "河源大数据培训",
+      "大数据培训河源"
+    ]
+  }
+}

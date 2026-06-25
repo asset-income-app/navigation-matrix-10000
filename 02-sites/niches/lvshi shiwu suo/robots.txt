@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lvshi shiwu suo-nav.pages.dev/sitemap.xml

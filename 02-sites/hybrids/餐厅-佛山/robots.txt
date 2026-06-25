@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://餐厅-佛山-nav.pages.dev/sitemap.xml

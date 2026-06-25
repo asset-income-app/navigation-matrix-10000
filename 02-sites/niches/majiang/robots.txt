@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://majiang-nav.pages.dev/sitemap.xml

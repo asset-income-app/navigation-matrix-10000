@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://muyingyongpin-nav.pages.dev/sitemap.xml

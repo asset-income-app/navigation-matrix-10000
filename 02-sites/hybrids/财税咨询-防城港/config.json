@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "财税咨询",
+  "cityName": "防城港",
+  "siteTitle": "防城港财税咨询导航 - 防城港财税咨询最全网站导航",
+  "siteDescription": "防城港财税咨询导航站，汇集防城港财税咨询最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-purple",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "防城港财税咨询搜索",
+          "url": "https://www.baidu.com/s?wd=防城港财税咨询",
+          "desc": "搜索防城港财税咨询相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "防城港本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "防城港本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "财税咨询经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=财税咨询",
+          "desc": "财税咨询视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "财税咨询经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=财税咨询工具",
+          "desc": "搜索财税咨询相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "财税咨询工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "财税咨询交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "财税咨询分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "财税咨询贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=财税咨询",
+          "desc": "财税咨询热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=防城港财税咨询",
+          "desc": "搜索防城港财税咨询相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=防城港财税咨询",
+          "desc": "防城港财税咨询视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=防城港财税咨询",
+          "desc": "防城港财税咨询热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 24.02,
+      "lng": 83.02,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "防城港",
+      "geo.position": "24.02;83.02",
+      "ICBM": "24.02, 83.02",
+      "geo.latitude": 24.02,
+      "geo.longitude": 83.02,
+      "geo.city": "防城港",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "防城港导航",
+      "防城港网站",
+      "防城港网址",
+      "防城港本地服务",
+      "防城港生活指南",
+      "防城港便民服务",
+      "防城港信息查询",
+      "防城港在线服务",
+      "防城港财税咨询",
+      "财税咨询防城港"
+    ]
+  }
+}

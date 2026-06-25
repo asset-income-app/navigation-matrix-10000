@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yishukaoyan-nav.pages.dev/sitemap.xml

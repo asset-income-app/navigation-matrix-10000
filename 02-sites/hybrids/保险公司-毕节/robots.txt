@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保险公司-毕节-nav.pages.dev/sitemap.xml

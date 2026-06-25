@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://电影-赤峰-nav.pages.dev/sitemap.xml

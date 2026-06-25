@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonghua-nav.pages.dev/sitemap.xml

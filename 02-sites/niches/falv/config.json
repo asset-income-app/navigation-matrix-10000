@@ -1,0 +1,609 @@
+{
+  "siteType": "niche",
+  "nicheName": "法律",
+  "nichePinyin": "falv",
+  "siteTitle": "法律导航 - 最全的法律网站导航",
+  "siteDescription": "法律导航站，汇集法律最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "中国法院网",
+          "url": "https://www.chinacourt.org/",
+          "desc": "最高人民法院官方门户"
+        },
+        {
+          "name": "中国裁判文书网",
+          "url": "https://wenshu.court.gov.cn/",
+          "desc": "裁判文书公开查询"
+        },
+        {
+          "name": "中国执行信息公开网",
+          "url": "http://zxgk.court.gov.cn/",
+          "desc": "失信被执行人查询"
+        },
+        {
+          "name": "国家法律法规数据库",
+          "url": "https://flk.npc.gov.cn/",
+          "desc": "法律法规官方查询"
+        },
+        {
+          "name": "司法部官网",
+          "url": "http://www.moj.gov.cn/",
+          "desc": "司法行政官方信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "中国大学MOOC法学",
+          "url": "https://www.icourse163.org/",
+          "desc": "法学在线课程"
+        },
+        {
+          "name": "瑞达法考",
+          "url": "https://www.ruidaedu.com/",
+          "desc": "法考培训辅导"
+        },
+        {
+          "name": "厚大法考",
+          "url": "https://www.houdaedu.com/",
+          "desc": "法考在线学习"
+        },
+        {
+          "name": "众合法考",
+          "url": "https://www.zhongheedu.com/",
+          "desc": "法考培训老牌机构"
+        },
+        {
+          "name": "觉晓法考",
+          "url": "https://www.juexiaotime.com/",
+          "desc": "法考在线刷题"
+        },
+        {
+          "name": "B站法考",
+          "url": "https://www.bilibili.com/",
+          "desc": "免费法考视频"
+        },
+        {
+          "name": "无讼",
+          "url": "https://www.itslaw.com/",
+          "desc": "法律人学习社区"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "北大法宝",
+          "url": "https://www.pkulaw.com/",
+          "desc": "法律数据库"
+        },
+        {
+          "name": "威科先行",
+          "url": "https://law.wkinfo.com.cn/",
+          "desc": "法律信息检索"
+        },
+        {
+          "name": "无讼案例",
+          "url": "https://www.itslaw.com/",
+          "desc": "案例检索工具"
+        },
+        {
+          "name": "Alpha系统",
+          "url": "https://www.alphalawyer.cn/",
+          "desc": "律所管理工具"
+        },
+        {
+          "name": "法信",
+          "url": "https://www.faxin.cn/",
+          "desc": "法律知识检索"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎法律话题",
+          "url": "https://www.zhihu.com/topic/19551778",
+          "desc": "法律问答社区"
+        },
+        {
+          "name": "无讼阅读",
+          "url": "https://www.itslaw.com/",
+          "desc": "法律人社区"
+        },
+        {
+          "name": "法律博客",
+          "url": "https://www.fabao365.com/",
+          "desc": "法律知识分享"
+        },
+        {
+          "name": "法务圈",
+          "url": "https://www.ifenglaw.com/",
+          "desc": "法务交流社区"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "中国法院网",
+          "url": "https://www.chinacourt.org/",
+          "desc": "法院新闻与动态"
+        },
+        {
+          "name": "法制网",
+          "url": "http://www.legaldaily.com.cn/",
+          "desc": "法治日报官网"
+        },
+        {
+          "name": "澎湃新闻法治",
+          "url": "https://www.thepaper.cn/",
+          "desc": "法治新闻"
+        },
+        {
+          "name": "法律图书馆",
+          "url": "http://www.law-lib.com/",
+          "desc": "法律资讯与论文"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索法律",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%BE%8B",
+          "desc": "百度搜索法律相关信息"
+        },
+        {
+          "name": "B站法律视频",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%BE%8B",
+          "desc": "B站法律视频教程"
+        },
+        {
+          "name": "小红书法律",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%B3%95%E5%BE%8B",
+          "desc": "小红书法律经验分享"
+        },
+        {
+          "name": "微博法律",
+          "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%BE%8B",
+          "desc": "微博法律热门话题"
+        },
+        {
+          "name": "豆瓣法律",
+          "url": "https://www.douban.com/search?q=%E6%B3%95%E5%BE%8B",
+          "desc": "豆瓣法律相关内容"
+        },
+        {
+          "name": "微信法律文章",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B3%95%E5%BE%8B",
+          "desc": "微信公众号法律文章"
+        },
+        {
+          "name": "头条法律",
+          "url": "https://www.toutiao.com/search/?keyword=%E6%B3%95%E5%BE%8B",
+          "desc": "今日头条法律资讯"
+        },
+        {
+          "name": "抖音法律",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B",
+          "desc": "抖音法律短视频"
+        },
+        {
+          "name": "淘宝法律",
+          "url": "https://s.taobao.com/search?q=%E6%B3%95%E5%BE%8B",
+          "desc": "淘宝法律相关商品"
+        },
+        {
+          "name": "京东法律",
+          "url": "https://search.jd.com/Search?keyword=%E6%B3%95%E5%BE%8B",
+          "desc": "京东法律相关商品"
+        },
+        {
+          "name": "拼多多法律",
+          "url": "https://www.pinduoduo.com/search?q=%E6%B3%95%E5%BE%8B",
+          "desc": "拼多多法律相关商品"
+        },
+        {
+          "name": "百度百科法律",
+          "url": "https://baike.baidu.com/item/%E6%B3%95%E5%BE%8B",
+          "desc": "百度百科法律词条"
+        },
+        {
+          "name": "维基百科法律",
+          "url": "https://zh.wikipedia.org/wiki/%E6%B3%95%E5%BE%8B",
+          "desc": "维基百科法律词条"
+        },
+        {
+          "name": "搜狗法律",
+          "url": "https://www.sogou.com/web?query=%E6%B3%95%E5%BE%8B",
+          "desc": "搜狗搜索法律"
+        },
+        {
+          "name": "360搜索搜索法律教程",
+          "url": "https://www.so.com/s?q=%E6%B3%95%E5%BE%8B%E6%95%99%E7%A8%8B",
+          "desc": "360搜索法律教程教程学习"
+        },
+        {
+          "name": "必应搜索法律教程",
+          "url": "https://www.bing.com/search?q=%E6%B3%95%E5%BE%8B%E6%95%99%E7%A8%8B",
+          "desc": "必应法律教程教程学习"
+        },
+        {
+          "name": "Google搜索法律教程",
+          "url": "https://www.google.com/search?q=%E6%B3%95%E5%BE%8B%E6%95%99%E7%A8%8B",
+          "desc": "Google法律教程教程学习"
+        }
+      ]
+    },
+    {
+      "name": "知识社区",
+      "links": [
+        {
+          "name": "知乎·法律",
+          "url": "https://www.zhihu.com/search?type=content&q=%E6%B3%95%E5%BE%8B",
+          "desc": "在知乎搜索法律综合信息"
+        }
+      ]
+    },
+    {
+      "name": "短视频",
+      "links": [
+        {
+          "name": "抖音·法律教程",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E6%95%99%E7%A8%8B",
+          "desc": "在抖音搜索法律教程教程学习"
+        },
+        {
+          "name": "抖音·法律入门",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E5%85%A5%E9%97%A8",
+          "desc": "在抖音搜索法律入门入门指南"
+        },
+        {
+          "name": "抖音·法律学习",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E5%AD%A6%E4%B9%A0",
+          "desc": "在抖音搜索法律学习学习资源"
+        },
+        {
+          "name": "抖音·法律培训",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E5%9F%B9%E8%AE%AD",
+          "desc": "在抖音搜索法律培训培训课程"
+        },
+        {
+          "name": "抖音·法律论坛",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E8%AE%BA%E5%9D%9B",
+          "desc": "在抖音搜索法律论坛论坛社区"
+        },
+        {
+          "name": "抖音·法律社区",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E7%A4%BE%E5%8C%BA",
+          "desc": "在抖音搜索法律社区社区交流"
+        },
+        {
+          "name": "抖音·法律工具",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E5%B7%A5%E5%85%B7",
+          "desc": "在抖音搜索法律工具工具软件"
+        },
+        {
+          "name": "抖音·法律软件",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E8%BD%AF%E4%BB%B6",
+          "desc": "在抖音搜索法律软件软件推荐"
+        },
+        {
+          "name": "抖音·法律资料",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E8%B5%84%E6%96%99",
+          "desc": "在抖音搜索法律资料资料下载"
+        },
+        {
+          "name": "抖音·法律视频",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E8%A7%86%E9%A2%91",
+          "desc": "在抖音搜索法律视频视频教程"
+        },
+        {
+          "name": "抖音·法律书籍",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E4%B9%A6%E7%B1%8D",
+          "desc": "在抖音搜索法律书籍书籍推荐"
+        },
+        {
+          "name": "抖音·法律考试",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E8%80%83%E8%AF%95",
+          "desc": "在抖音搜索法律考试考试信息"
+        },
+        {
+          "name": "抖音·法律招聘",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E6%8B%9B%E8%81%98",
+          "desc": "在抖音搜索法律招聘招聘信息"
+        },
+        {
+          "name": "抖音·法律排名",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E6%8E%92%E5%90%8D",
+          "desc": "在抖音搜索法律排名排名推荐"
+        },
+        {
+          "name": "抖音·法律攻略",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E6%94%BB%E7%95%A5",
+          "desc": "在抖音搜索法律攻略攻略指南"
+        },
+        {
+          "name": "抖音·法律技巧",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E6%8A%80%E5%B7%A7",
+          "desc": "在抖音搜索法律技巧技巧方法"
+        },
+        {
+          "name": "抖音·法律APP",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8BAPP",
+          "desc": "在抖音搜索法律APP手机应用"
+        },
+        {
+          "name": "抖音·法律网站",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E7%BD%91%E7%AB%99",
+          "desc": "在抖音搜索法律网站网站推荐"
+        },
+        {
+          "name": "抖音·法律免费",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E5%85%8D%E8%B4%B9",
+          "desc": "在抖音搜索法律免费免费资源"
+        }
+      ]
+    },
+    {
+      "name": "更多搜索",
+      "links": [
+        {
+          "name": "百度·法律怎么学",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度搜索法律怎么学"
+        },
+        {
+          "name": "知乎·法律怎么学",
+          "url": "https://www.zhihu.com/search?type=content&q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎搜索法律怎么学"
+        },
+        {
+          "name": "B站·法律怎么学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在B站搜索法律怎么学"
+        },
+        {
+          "name": "小红书·法律怎么学",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在小红书搜索法律怎么学"
+        },
+        {
+          "name": "微信·法律怎么学",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微信搜索法律怎么学"
+        },
+        {
+          "name": "头条·法律怎么学",
+          "url": "https://www.toutiao.com/search/?keyword=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在头条搜索法律怎么学"
+        },
+        {
+          "name": "抖音·法律怎么学",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在抖音搜索法律怎么学"
+        },
+        {
+          "name": "豆瓣·法律怎么学",
+          "url": "https://www.douban.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在豆瓣搜索法律怎么学"
+        },
+        {
+          "name": "淘宝·法律怎么学",
+          "url": "https://s.taobao.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在淘宝搜索法律怎么学"
+        },
+        {
+          "name": "京东·法律怎么学",
+          "url": "https://search.jd.com/Search?keyword=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在京东搜索法律怎么学"
+        },
+        {
+          "name": "360搜索·法律怎么学",
+          "url": "https://www.so.com/s?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在360搜索搜索法律怎么学"
+        },
+        {
+          "name": "必应·法律怎么学",
+          "url": "https://www.bing.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在必应搜索法律怎么学"
+        },
+        {
+          "name": "搜狗·法律怎么学",
+          "url": "https://www.sogou.com/web?query=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在搜狗搜索法律怎么学"
+        },
+        {
+          "name": "微博·法律怎么学",
+          "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微博搜索法律怎么学"
+        },
+        {
+          "name": "喜马拉雅·法律怎么学",
+          "url": "https://www.ximalaya.com/search/%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在喜马拉雅搜索法律怎么学"
+        },
+        {
+          "name": "CSDN·法律怎么学",
+          "url": "https://so.csdn.net/so/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在CSDN搜索法律怎么学"
+        },
+        {
+          "name": "掘金·法律怎么学",
+          "url": "https://juejin.cn/search?query=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在掘金搜索法律怎么学"
+        },
+        {
+          "name": "简书·法律怎么学",
+          "url": "https://www.jianshu.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在简书搜索法律怎么学"
+        },
+        {
+          "name": "百度贴吧·法律怎么学",
+          "url": "https://tieba.baidu.com/f?kw=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度贴吧搜索法律怎么学"
+        },
+        {
+          "name": "知乎专栏·法律怎么学",
+          "url": "https://zhuanlan.zhihu.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎专栏搜索法律怎么学"
+        },
+        {
+          "name": "百度·法律怎么考",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度搜索法律怎么考"
+        },
+        {
+          "name": "知乎·法律怎么考",
+          "url": "https://www.zhihu.com/search?type=content&q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎搜索法律怎么考"
+        },
+        {
+          "name": "B站·法律怎么考",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在B站搜索法律怎么考"
+        },
+        {
+          "name": "小红书·法律怎么考",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在小红书搜索法律怎么考"
+        },
+        {
+          "name": "微信·法律怎么考",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微信搜索法律怎么考"
+        },
+        {
+          "name": "头条·法律怎么考",
+          "url": "https://www.toutiao.com/search/?keyword=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在头条搜索法律怎么考"
+        },
+        {
+          "name": "抖音·法律怎么考",
+          "url": "https://www.douyin.com/search/%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在抖音搜索法律怎么考"
+        },
+        {
+          "name": "豆瓣·法律怎么考",
+          "url": "https://www.douban.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在豆瓣搜索法律怎么考"
+        },
+        {
+          "name": "淘宝·法律怎么考",
+          "url": "https://s.taobao.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在淘宝搜索法律怎么考"
+        },
+        {
+          "name": "京东·法律怎么考",
+          "url": "https://search.jd.com/Search?keyword=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在京东搜索法律怎么考"
+        },
+        {
+          "name": "360搜索·法律怎么考",
+          "url": "https://www.so.com/s?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在360搜索搜索法律怎么考"
+        },
+        {
+          "name": "必应·法律怎么考",
+          "url": "https://www.bing.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在必应搜索法律怎么考"
+        },
+        {
+          "name": "搜狗·法律怎么考",
+          "url": "https://www.sogou.com/web?query=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在搜狗搜索法律怎么考"
+        },
+        {
+          "name": "微博·法律怎么考",
+          "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微博搜索法律怎么考"
+        },
+        {
+          "name": "喜马拉雅·法律怎么考",
+          "url": "https://www.ximalaya.com/search/%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在喜马拉雅搜索法律怎么考"
+        },
+        {
+          "name": "CSDN·法律怎么考",
+          "url": "https://so.csdn.net/so/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在CSDN搜索法律怎么考"
+        },
+        {
+          "name": "掘金·法律怎么考",
+          "url": "https://juejin.cn/search?query=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在掘金搜索法律怎么考"
+        },
+        {
+          "name": "简书·法律怎么考",
+          "url": "https://www.jianshu.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在简书搜索法律怎么考"
+        },
+        {
+          "name": "百度贴吧·法律怎么考",
+          "url": "https://tieba.baidu.com/f?kw=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度贴吧搜索法律怎么考"
+        },
+        {
+          "name": "知乎专栏·法律怎么考",
+          "url": "https://zhuanlan.zhihu.com/search?q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎专栏搜索法律怎么考"
+        },
+        {
+          "name": "百度·法律怎么报名",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在百度搜索法律怎么报名"
+        },
+        {
+          "name": "知乎·法律怎么报名",
+          "url": "https://www.zhihu.com/search?type=content&q=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在知乎搜索法律怎么报名"
+        },
+        {
+          "name": "B站·法律怎么报名",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E5%BE%8B%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在B站搜索法律怎么报名"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 25.99,
+      "lng": 74.99,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "法律 - 最全的法律网站",
+      "geo.position": "25.99;74.99",
+      "ICBM": "25.99, 74.99",
+      "geo.latitude": 25.99,
+      "geo.longitude": 74.99,
+      "geo.city": "法律 - 最全的法律网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "法律 - 最全的法律网站导航",
+      "法律 - 最全的法律网站网站",
+      "法律 - 最全的法律网站网址",
+      "法律 - 最全的法律网站本地服务",
+      "法律 - 最全的法律网站生活指南",
+      "法律 - 最全的法律网站便民服务",
+      "法律 - 最全的法律网站信息查询",
+      "法律 - 最全的法律网站在线服务"
+    ]
+  }
+}

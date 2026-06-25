@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pingban-nav.pages.dev/sitemap.xml

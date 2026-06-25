@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://地板-鹤岗-nav.pages.dev/sitemap.xml

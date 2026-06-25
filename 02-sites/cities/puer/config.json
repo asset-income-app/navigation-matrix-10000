@@ -1,0 +1,182 @@
+{
+  "siteType": "city",
+  "cityName": "普洱",
+  "cityPinyin": "puer",
+  "province": "云南",
+  "categories": [
+    {
+      "name": "政务服务",
+      "icon": "🏛️",
+      "links": [
+        {
+          "name": "中国政府网",
+          "url": "https://www.gov.cn/"
+        },
+        {
+          "name": "国家政务服务",
+          "url": "https://www.gov.cn/fuwu/"
+        },
+        {
+          "name": "12345政务服务热线",
+          "url": "tel:12345"
+        }
+      ]
+    },
+    {
+      "name": "社保医保",
+      "icon": "🏥",
+      "links": [
+        {
+          "name": "国家社保公共服务平台",
+          "url": "https://si.12333.gov.cn/"
+        },
+        {
+          "name": "国家医保服务平台",
+          "url": "https://fuwu.nhsa.gov.cn/"
+        },
+        {
+          "name": "12333社保查询",
+          "url": "https://12333.gov.cn/"
+        }
+      ]
+    },
+    {
+      "name": "交通出行",
+      "icon": "🚌",
+      "links": [
+        {
+          "name": "12306火车票",
+          "url": "https://www.12306.cn/"
+        },
+        {
+          "name": "携程旅行",
+          "url": "https://www.ctrip.com/"
+        },
+        {
+          "name": "高德地图",
+          "url": "https://www.amap.com/"
+        }
+      ]
+    },
+    {
+      "name": "教育学习",
+      "icon": "📚",
+      "links": [
+        {
+          "name": "中国教育在线",
+          "url": "https://www.eol.cn/"
+        },
+        {
+          "name": "学信网",
+          "url": "https://www.chsi.com.cn/"
+        },
+        {
+          "name": "中国研究生招生信息网",
+          "url": "https://yz.chsi.com.cn/"
+        }
+      ]
+    },
+    {
+      "name": "生活服务",
+      "icon": "🏠",
+      "links": [
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/"
+        },
+        {
+          "name": "饿了么",
+          "url": "https://www.ele.me/"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/"
+        }
+      ]
+    },
+    {
+      "name": "新闻资讯",
+      "icon": "📰",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/"
+        },
+        {
+          "name": "央视网",
+          "url": "https://www.cctv.com/"
+        }
+      ]
+    },
+    {
+      "name": "购物电商",
+      "icon": "🛒",
+      "links": [
+        {
+          "name": "淘宝",
+          "url": "https://www.taobao.com/"
+        },
+        {
+          "name": "京东",
+          "url": "https://www.jd.com/"
+        },
+        {
+          "name": "拼多多",
+          "url": "https://www.pinduoduo.com/"
+        }
+      ]
+    },
+    {
+      "name": "娱乐休闲",
+      "icon": "🎮",
+      "links": [
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/"
+        },
+        {
+          "name": "B站",
+          "url": "https://www.bilibili.com/"
+        },
+        {
+          "name": "爱奇艺",
+          "url": "https://www.iqiyi.com/"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 25.43,
+      "lng": 92.43,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "普洱",
+      "geo.position": "25.43;92.43",
+      "ICBM": "25.43, 92.43",
+      "geo.latitude": 25.43,
+      "geo.longitude": 92.43,
+      "geo.city": "普洱",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "普洱导航",
+      "普洱网站",
+      "普洱网址",
+      "普洱本地服务",
+      "普洱生活指南",
+      "普洱便民服务",
+      "普洱信息查询",
+      "普洱在线服务"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wuxi-nav.pages.dev/sitemap.xml

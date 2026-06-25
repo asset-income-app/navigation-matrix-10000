@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://殡葬-宝鸡-nav.pages.dev/sitemap.xml

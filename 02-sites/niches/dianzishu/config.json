@@ -1,0 +1,614 @@
+{
+  "siteType": "niche",
+  "nicheName": "电子书",
+  "nichePinyin": "dianzishu",
+  "siteTitle": "电子书导航 - 最全的电子书网站导航",
+  "siteDescription": "电子书导航站，汇集电子书最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "微信读书",
+          "url": "https://weread.qq.com/",
+          "desc": "腾讯在线阅读平台"
+        },
+        {
+          "name": "豆瓣读书",
+          "url": "https://book.douban.com/",
+          "desc": "图书评分与推荐"
+        },
+        {
+          "name": "国家图书馆",
+          "url": "http://www.nlc.cn/",
+          "desc": "国家数字图书馆"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "微信读书",
+          "url": "https://weread.qq.com/",
+          "desc": "在线阅读平台"
+        },
+        {
+          "name": "Kindle商店",
+          "url": "https://www.amazon.cn/",
+          "desc": "电子书购买"
+        },
+        {
+          "name": "Z-Library",
+          "url": "https://zh.z-lib.org/",
+          "desc": "电子书资源"
+        },
+        {
+          "name": "鸠摩搜书",
+          "url": "https://www.jiumodiary.com/",
+          "desc": "电子书搜索引擎"
+        },
+        {
+          "name": "读不舍手",
+          "url": "https://www.dubushou.com/",
+          "desc": "电子书下载"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "Kindle",
+          "url": "https://www.amazon.cn/",
+          "desc": "电子书阅读器"
+        },
+        {
+          "name": "微信读书APP",
+          "url": "https://weread.qq.com/",
+          "desc": "手机阅读APP"
+        },
+        {
+          "name": "Calibre",
+          "url": "https://calibre-ebook.com/",
+          "desc": "电子书管理工具"
+        },
+        {
+          "name": "静读天下",
+          "url": "https://www.moondownload.com/",
+          "desc": "Android阅读器"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "豆瓣读书",
+          "url": "https://book.douban.com/",
+          "desc": "读书交流社区"
+        },
+        {
+          "name": "知乎读书话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "读书经验问答"
+        },
+        {
+          "name": "小红书读书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "读书笔记分享"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "豆瓣读书",
+          "url": "https://book.douban.com/",
+          "desc": "图书资讯与推荐"
+        },
+        {
+          "name": "当当网",
+          "url": "https://www.dangdang.com/",
+          "desc": "图书电商资讯"
+        },
+        {
+          "name": "中华读书报",
+          "url": "https://www.gmw.cn/",
+          "desc": "读书新闻"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索电子书",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "百度搜索电子书相关信息"
+        },
+        {
+          "name": "B站电子书视频",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "B站电子书视频教程"
+        },
+        {
+          "name": "微博电子书",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "微博电子书热门话题"
+        },
+        {
+          "name": "豆瓣电子书",
+          "url": "https://www.douban.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "豆瓣电子书相关内容"
+        },
+        {
+          "name": "微信电子书文章",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "微信公众号电子书文章"
+        },
+        {
+          "name": "头条电子书",
+          "url": "https://www.toutiao.com/search/?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "今日头条电子书资讯"
+        },
+        {
+          "name": "抖音电子书",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "抖音电子书短视频"
+        },
+        {
+          "name": "淘宝电子书",
+          "url": "https://s.taobao.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "淘宝电子书相关商品"
+        },
+        {
+          "name": "京东电子书",
+          "url": "https://search.jd.com/Search?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "京东电子书相关商品"
+        },
+        {
+          "name": "拼多多电子书",
+          "url": "https://www.pinduoduo.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "拼多多电子书相关商品"
+        },
+        {
+          "name": "百度百科电子书",
+          "url": "https://baike.baidu.com/item/%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "百度百科电子书词条"
+        },
+        {
+          "name": "维基百科电子书",
+          "url": "https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "维基百科电子书词条"
+        },
+        {
+          "name": "搜狗电子书",
+          "url": "https://www.sogou.com/web?query=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "搜狗搜索电子书"
+        },
+        {
+          "name": "360搜索搜索电子书教程",
+          "url": "https://www.so.com/s?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%95%99%E7%A8%8B",
+          "desc": "360搜索电子书教程教程学习"
+        },
+        {
+          "name": "必应搜索电子书教程",
+          "url": "https://www.bing.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%95%99%E7%A8%8B",
+          "desc": "必应电子书教程教程学习"
+        },
+        {
+          "name": "Google搜索电子书教程",
+          "url": "https://www.google.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%95%99%E7%A8%8B",
+          "desc": "Google电子书教程教程学习"
+        }
+      ]
+    },
+    {
+      "name": "知识社区",
+      "links": [
+        {
+          "name": "知乎·电子书",
+          "url": "https://www.zhihu.com/search?type=content&q=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "在知乎搜索电子书综合信息"
+        }
+      ]
+    },
+    {
+      "name": "生活社区",
+      "links": [
+        {
+          "name": "小红书·电子书",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6",
+          "desc": "在小红书搜索电子书综合信息"
+        }
+      ]
+    },
+    {
+      "name": "短视频",
+      "links": [
+        {
+          "name": "抖音·电子书教程",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%95%99%E7%A8%8B",
+          "desc": "在抖音搜索电子书教程教程学习"
+        },
+        {
+          "name": "抖音·电子书入门",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E5%85%A5%E9%97%A8",
+          "desc": "在抖音搜索电子书入门入门指南"
+        },
+        {
+          "name": "抖音·电子书学习",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E5%AD%A6%E4%B9%A0",
+          "desc": "在抖音搜索电子书学习学习资源"
+        },
+        {
+          "name": "抖音·电子书培训",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E5%9F%B9%E8%AE%AD",
+          "desc": "在抖音搜索电子书培训培训课程"
+        },
+        {
+          "name": "抖音·电子书论坛",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%AE%BA%E5%9D%9B",
+          "desc": "在抖音搜索电子书论坛论坛社区"
+        },
+        {
+          "name": "抖音·电子书社区",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%A4%BE%E5%8C%BA",
+          "desc": "在抖音搜索电子书社区社区交流"
+        },
+        {
+          "name": "抖音·电子书工具",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E5%B7%A5%E5%85%B7",
+          "desc": "在抖音搜索电子书工具工具软件"
+        },
+        {
+          "name": "抖音·电子书软件",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%BD%AF%E4%BB%B6",
+          "desc": "在抖音搜索电子书软件软件推荐"
+        },
+        {
+          "name": "抖音·电子书资料",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%96%99",
+          "desc": "在抖音搜索电子书资料资料下载"
+        },
+        {
+          "name": "抖音·电子书视频",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%A7%86%E9%A2%91",
+          "desc": "在抖音搜索电子书视频视频教程"
+        },
+        {
+          "name": "抖音·电子书书籍",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E4%B9%A6%E7%B1%8D",
+          "desc": "在抖音搜索电子书书籍书籍推荐"
+        },
+        {
+          "name": "抖音·电子书考试",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E8%80%83%E8%AF%95",
+          "desc": "在抖音搜索电子书考试考试信息"
+        },
+        {
+          "name": "抖音·电子书招聘",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%8B%9B%E8%81%98",
+          "desc": "在抖音搜索电子书招聘招聘信息"
+        },
+        {
+          "name": "抖音·电子书排名",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%8E%92%E5%90%8D",
+          "desc": "在抖音搜索电子书排名排名推荐"
+        },
+        {
+          "name": "抖音·电子书攻略",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%94%BB%E7%95%A5",
+          "desc": "在抖音搜索电子书攻略攻略指南"
+        },
+        {
+          "name": "抖音·电子书技巧",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%8A%80%E5%B7%A7",
+          "desc": "在抖音搜索电子书技巧技巧方法"
+        },
+        {
+          "name": "抖音·电子书APP",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6APP",
+          "desc": "在抖音搜索电子书APP手机应用"
+        },
+        {
+          "name": "抖音·电子书网站",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%BD%91%E7%AB%99",
+          "desc": "在抖音搜索电子书网站网站推荐"
+        },
+        {
+          "name": "抖音·电子书免费",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E5%85%8D%E8%B4%B9",
+          "desc": "在抖音搜索电子书免费免费资源"
+        }
+      ]
+    },
+    {
+      "name": "更多搜索",
+      "links": [
+        {
+          "name": "百度·电子书怎么学",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度搜索电子书怎么学"
+        },
+        {
+          "name": "知乎·电子书怎么学",
+          "url": "https://www.zhihu.com/search?type=content&q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎搜索电子书怎么学"
+        },
+        {
+          "name": "B站·电子书怎么学",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在B站搜索电子书怎么学"
+        },
+        {
+          "name": "小红书·电子书怎么学",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在小红书搜索电子书怎么学"
+        },
+        {
+          "name": "微信·电子书怎么学",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微信搜索电子书怎么学"
+        },
+        {
+          "name": "头条·电子书怎么学",
+          "url": "https://www.toutiao.com/search/?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在头条搜索电子书怎么学"
+        },
+        {
+          "name": "抖音·电子书怎么学",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在抖音搜索电子书怎么学"
+        },
+        {
+          "name": "豆瓣·电子书怎么学",
+          "url": "https://www.douban.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在豆瓣搜索电子书怎么学"
+        },
+        {
+          "name": "淘宝·电子书怎么学",
+          "url": "https://s.taobao.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在淘宝搜索电子书怎么学"
+        },
+        {
+          "name": "京东·电子书怎么学",
+          "url": "https://search.jd.com/Search?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在京东搜索电子书怎么学"
+        },
+        {
+          "name": "360搜索·电子书怎么学",
+          "url": "https://www.so.com/s?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在360搜索搜索电子书怎么学"
+        },
+        {
+          "name": "必应·电子书怎么学",
+          "url": "https://www.bing.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在必应搜索电子书怎么学"
+        },
+        {
+          "name": "搜狗·电子书怎么学",
+          "url": "https://www.sogou.com/web?query=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在搜狗搜索电子书怎么学"
+        },
+        {
+          "name": "微博·电子书怎么学",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微博搜索电子书怎么学"
+        },
+        {
+          "name": "喜马拉雅·电子书怎么学",
+          "url": "https://www.ximalaya.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在喜马拉雅搜索电子书怎么学"
+        },
+        {
+          "name": "CSDN·电子书怎么学",
+          "url": "https://so.csdn.net/so/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在CSDN搜索电子书怎么学"
+        },
+        {
+          "name": "掘金·电子书怎么学",
+          "url": "https://juejin.cn/search?query=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在掘金搜索电子书怎么学"
+        },
+        {
+          "name": "简书·电子书怎么学",
+          "url": "https://www.jianshu.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在简书搜索电子书怎么学"
+        },
+        {
+          "name": "百度贴吧·电子书怎么学",
+          "url": "https://tieba.baidu.com/f?kw=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度贴吧搜索电子书怎么学"
+        },
+        {
+          "name": "知乎专栏·电子书怎么学",
+          "url": "https://zhuanlan.zhihu.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎专栏搜索电子书怎么学"
+        },
+        {
+          "name": "百度·电子书怎么考",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度搜索电子书怎么考"
+        },
+        {
+          "name": "知乎·电子书怎么考",
+          "url": "https://www.zhihu.com/search?type=content&q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎搜索电子书怎么考"
+        },
+        {
+          "name": "B站·电子书怎么考",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在B站搜索电子书怎么考"
+        },
+        {
+          "name": "小红书·电子书怎么考",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在小红书搜索电子书怎么考"
+        },
+        {
+          "name": "微信·电子书怎么考",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微信搜索电子书怎么考"
+        },
+        {
+          "name": "头条·电子书怎么考",
+          "url": "https://www.toutiao.com/search/?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在头条搜索电子书怎么考"
+        },
+        {
+          "name": "抖音·电子书怎么考",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在抖音搜索电子书怎么考"
+        },
+        {
+          "name": "豆瓣·电子书怎么考",
+          "url": "https://www.douban.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在豆瓣搜索电子书怎么考"
+        },
+        {
+          "name": "淘宝·电子书怎么考",
+          "url": "https://s.taobao.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在淘宝搜索电子书怎么考"
+        },
+        {
+          "name": "京东·电子书怎么考",
+          "url": "https://search.jd.com/Search?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在京东搜索电子书怎么考"
+        },
+        {
+          "name": "360搜索·电子书怎么考",
+          "url": "https://www.so.com/s?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在360搜索搜索电子书怎么考"
+        },
+        {
+          "name": "必应·电子书怎么考",
+          "url": "https://www.bing.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在必应搜索电子书怎么考"
+        },
+        {
+          "name": "搜狗·电子书怎么考",
+          "url": "https://www.sogou.com/web?query=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在搜狗搜索电子书怎么考"
+        },
+        {
+          "name": "微博·电子书怎么考",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微博搜索电子书怎么考"
+        },
+        {
+          "name": "喜马拉雅·电子书怎么考",
+          "url": "https://www.ximalaya.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在喜马拉雅搜索电子书怎么考"
+        },
+        {
+          "name": "CSDN·电子书怎么考",
+          "url": "https://so.csdn.net/so/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在CSDN搜索电子书怎么考"
+        },
+        {
+          "name": "掘金·电子书怎么考",
+          "url": "https://juejin.cn/search?query=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在掘金搜索电子书怎么考"
+        },
+        {
+          "name": "简书·电子书怎么考",
+          "url": "https://www.jianshu.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在简书搜索电子书怎么考"
+        },
+        {
+          "name": "百度贴吧·电子书怎么考",
+          "url": "https://tieba.baidu.com/f?kw=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度贴吧搜索电子书怎么考"
+        },
+        {
+          "name": "知乎专栏·电子书怎么考",
+          "url": "https://zhuanlan.zhihu.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎专栏搜索电子书怎么考"
+        },
+        {
+          "name": "百度·电子书怎么报名",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在百度搜索电子书怎么报名"
+        },
+        {
+          "name": "知乎·电子书怎么报名",
+          "url": "https://www.zhihu.com/search?type=content&q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在知乎搜索电子书怎么报名"
+        },
+        {
+          "name": "B站·电子书怎么报名",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在B站搜索电子书怎么报名"
+        },
+        {
+          "name": "小红书·电子书怎么报名",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在小红书搜索电子书怎么报名"
+        },
+        {
+          "name": "微信·电子书怎么报名",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在微信搜索电子书怎么报名"
+        },
+        {
+          "name": "头条·电子书怎么报名",
+          "url": "https://www.toutiao.com/search/?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在头条搜索电子书怎么报名"
+        },
+        {
+          "name": "抖音·电子书怎么报名",
+          "url": "https://www.douyin.com/search/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在抖音搜索电子书怎么报名"
+        },
+        {
+          "name": "豆瓣·电子书怎么报名",
+          "url": "https://www.douban.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在豆瓣搜索电子书怎么报名"
+        },
+        {
+          "name": "淘宝·电子书怎么报名",
+          "url": "https://s.taobao.com/search?q=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在淘宝搜索电子书怎么报名"
+        },
+        {
+          "name": "京东·电子书怎么报名",
+          "url": "https://search.jd.com/Search?keyword=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在京东搜索电子书怎么报名"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 25.63,
+      "lng": 114.63,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "电子书 - 最全的电子书网站",
+      "geo.position": "25.63;114.63",
+      "ICBM": "25.63, 114.63",
+      "geo.latitude": 25.63,
+      "geo.longitude": 114.63,
+      "geo.city": "电子书 - 最全的电子书网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "电子书 - 最全的电子书网站导航",
+      "电子书 - 最全的电子书网站网站",
+      "电子书 - 最全的电子书网站网址",
+      "电子书 - 最全的电子书网站本地服务",
+      "电子书 - 最全的电子书网站生活指南",
+      "电子书 - 最全的电子书网站便民服务",
+      "电子书 - 最全的电子书网站信息查询",
+      "电子书 - 最全的电子书网站在线服务"
+    ]
+  }
+}

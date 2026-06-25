@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kouqiang-nav.pages.dev/sitemap.xml

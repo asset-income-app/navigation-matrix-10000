@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保洁-安顺-nav.pages.dev/sitemap.xml

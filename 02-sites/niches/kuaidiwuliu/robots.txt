@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kuaidiwuliu-nav.pages.dev/sitemap.xml

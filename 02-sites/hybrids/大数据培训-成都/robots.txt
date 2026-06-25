@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://大数据培训-成都-nav.pages.dev/sitemap.xml

@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "征信修复",
+  "nichePinyin": "zhengxin xiufu",
+  "siteTitle": "征信修复导航 - 最全的征信修复网站导航",
+  "siteDescription": "征信修复导航站，汇集征信修复最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=征信修复",
+          "desc": "搜索征信修复相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "征信修复经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "征信修复经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=征信修复",
+          "desc": "征信修复视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "征信修复问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "征信修复交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=征信修复工具",
+          "desc": "搜索征信修复相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "征信修复工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "征信修复交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "征信修复分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "征信修复贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=征信修复",
+          "desc": "百度搜索征信修复相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=征信修复",
+          "desc": "B站征信修复视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=征信修复",
+          "desc": "微博征信修复热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 53.35,
+      "lng": 108.35,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "征信修复 - 最全的征信修复网站",
+      "geo.position": "53.35;108.35",
+      "ICBM": "53.35, 108.35",
+      "geo.latitude": 53.35,
+      "geo.longitude": 108.35,
+      "geo.city": "征信修复 - 最全的征信修复网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "征信修复 - 最全的征信修复网站导航",
+      "征信修复 - 最全的征信修复网站网站",
+      "征信修复 - 最全的征信修复网站网址",
+      "征信修复 - 最全的征信修复网站本地服务",
+      "征信修复 - 最全的征信修复网站生活指南",
+      "征信修复 - 最全的征信修复网站便民服务",
+      "征信修复 - 最全的征信修复网站信息查询",
+      "征信修复 - 最全的征信修复网站在线服务"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhibo-nav.pages.dev/sitemap.xml

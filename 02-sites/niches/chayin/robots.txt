@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chayin-nav.pages.dev/sitemap.xml

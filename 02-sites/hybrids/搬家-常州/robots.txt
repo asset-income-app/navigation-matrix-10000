@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://搬家-常州.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yantai-nav.pages.dev/sitemap.xml

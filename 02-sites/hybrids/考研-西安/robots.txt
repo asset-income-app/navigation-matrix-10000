@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://考研-西安.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaihuangbaojie-nav.pages.dev/sitemap.xml

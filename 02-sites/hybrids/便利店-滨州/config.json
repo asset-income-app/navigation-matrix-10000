@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "便利店",
+  "cityName": "滨州",
+  "siteTitle": "滨州便利店导航 - 滨州便利店最全网站导航",
+  "siteDescription": "滨州便利店导航站，汇集滨州便利店最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-blue",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "滨州便利店搜索",
+          "url": "https://www.baidu.com/s?wd=滨州便利店",
+          "desc": "搜索滨州便利店相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "滨州本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "滨州本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "便利店经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=便利店",
+          "desc": "便利店视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "便利店经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=便利店工具",
+          "desc": "搜索便利店相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "便利店工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "便利店交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "便利店分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "便利店贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=便利店",
+          "desc": "便利店热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=滨州便利店",
+          "desc": "搜索滨州便利店相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=滨州便利店",
+          "desc": "滨州便利店视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=滨州便利店",
+          "desc": "滨州便利店热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 42.72,
+      "lng": 103.72,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "滨州",
+      "geo.position": "42.72;103.72",
+      "ICBM": "42.72, 103.72",
+      "geo.latitude": 42.72,
+      "geo.longitude": 103.72,
+      "geo.city": "滨州",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "滨州导航",
+      "滨州网站",
+      "滨州网址",
+      "滨州本地服务",
+      "滨州生活指南",
+      "滨州便民服务",
+      "滨州信息查询",
+      "滨州在线服务",
+      "滨州便利店",
+      "便利店滨州"
+    ]
+  }
+}

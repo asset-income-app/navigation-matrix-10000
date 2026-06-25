@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://biancheng-nav.pages.dev/sitemap.xml

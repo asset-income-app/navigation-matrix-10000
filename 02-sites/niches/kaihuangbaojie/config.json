@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "开荒保洁",
+  "nichePinyin": "kaihuangbaojie",
+  "siteTitle": "开荒保洁导航 - 最全的开荒保洁网站导航",
+  "siteDescription": "开荒保洁导航站，汇集开荒保洁最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=开荒保洁",
+          "desc": "搜索开荒保洁相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "开荒保洁经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "开荒保洁经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=开荒保洁",
+          "desc": "开荒保洁视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "开荒保洁问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "开荒保洁交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=开荒保洁工具",
+          "desc": "搜索开荒保洁相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "开荒保洁工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "开荒保洁交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "开荒保洁分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "开荒保洁贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=开荒保洁",
+          "desc": "百度搜索开荒保洁相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=开荒保洁",
+          "desc": "B站开荒保洁视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=开荒保洁",
+          "desc": "微博开荒保洁热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 47.81,
+      "lng": 134.81,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "开荒保洁 - 最全的开荒保洁网站",
+      "geo.position": "47.81;134.81",
+      "ICBM": "47.81, 134.81",
+      "geo.latitude": 47.81,
+      "geo.longitude": 134.81,
+      "geo.city": "开荒保洁 - 最全的开荒保洁网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "开荒保洁 - 最全的开荒保洁网站导航",
+      "开荒保洁 - 最全的开荒保洁网站网站",
+      "开荒保洁 - 最全的开荒保洁网站网址",
+      "开荒保洁 - 最全的开荒保洁网站本地服务",
+      "开荒保洁 - 最全的开荒保洁网站生活指南",
+      "开荒保洁 - 最全的开荒保洁网站便民服务",
+      "开荒保洁 - 最全的开荒保洁网站信息查询",
+      "开荒保洁 - 最全的开荒保洁网站在线服务"
+    ]
+  }
+}

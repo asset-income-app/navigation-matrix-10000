@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健食品-黄石.pages.dev/sitemap.xml

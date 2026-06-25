@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "景区",
+  "nichePinyin": "jingqu",
+  "siteTitle": "景区导航 - 最全的景区网站导航",
+  "siteDescription": "景区导航站，汇集景区最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=景区",
+          "desc": "搜索景区相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "景区经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "景区经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=景区",
+          "desc": "景区视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "景区问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "景区交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=景区工具",
+          "desc": "搜索景区相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "景区工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "景区交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "景区分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "景区贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=景区",
+          "desc": "百度搜索景区相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=景区",
+          "desc": "B站景区视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=景区",
+          "desc": "微博景区热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 34.24,
+      "lng": 81.24,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "景区 - 最全的景区网站",
+      "geo.position": "34.24;81.24",
+      "ICBM": "34.24, 81.24",
+      "geo.latitude": 34.24,
+      "geo.longitude": 81.24,
+      "geo.city": "景区 - 最全的景区网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "景区 - 最全的景区网站导航",
+      "景区 - 最全的景区网站网站",
+      "景区 - 最全的景区网站网址",
+      "景区 - 最全的景区网站本地服务",
+      "景区 - 最全的景区网站生活指南",
+      "景区 - 最全的景区网站便民服务",
+      "景区 - 最全的景区网站信息查询",
+      "景区 - 最全的景区网站在线服务"
+    ]
+  }
+}

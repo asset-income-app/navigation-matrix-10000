@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "户外运动",
+  "nichePinyin": "huwai yundong",
+  "siteTitle": "户外运动导航 - 最全的户外运动网站导航",
+  "siteDescription": "户外运动导航站，汇集户外运动最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=户外运动",
+          "desc": "搜索户外运动相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "户外运动经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "户外运动经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=户外运动",
+          "desc": "户外运动视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "户外运动问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "户外运动交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=户外运动工具",
+          "desc": "搜索户外运动相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "户外运动工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "户外运动交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "户外运动分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "户外运动贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=户外运动",
+          "desc": "百度搜索户外运动相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=户外运动",
+          "desc": "B站户外运动视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=户外运动",
+          "desc": "微博户外运动热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 47.73,
+      "lng": 78.73,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "户外运动 - 最全的户外运动网站",
+      "geo.position": "47.73;78.73",
+      "ICBM": "47.73, 78.73",
+      "geo.latitude": 47.73,
+      "geo.longitude": 78.73,
+      "geo.city": "户外运动 - 最全的户外运动网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "户外运动 - 最全的户外运动网站导航",
+      "户外运动 - 最全的户外运动网站网站",
+      "户外运动 - 最全的户外运动网站网址",
+      "户外运动 - 最全的户外运动网站本地服务",
+      "户外运动 - 最全的户外运动网站生活指南",
+      "户外运动 - 最全的户外运动网站便民服务",
+      "户外运动 - 最全的户外运动网站信息查询",
+      "户外运动 - 最全的户外运动网站在线服务"
+    ]
+  }
+}

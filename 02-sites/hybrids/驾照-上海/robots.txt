@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://驾照-上海.pages.dev/sitemap.xml

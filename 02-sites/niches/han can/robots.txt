@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://han can-nav.pages.dev/sitemap.xml

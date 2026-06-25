@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://基金-上海.pages.dev/sitemap.xml

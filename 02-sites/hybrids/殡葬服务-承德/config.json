@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "殡葬服务",
+  "cityName": "承德",
+  "siteTitle": "承德殡葬服务导航 - 承德殡葬服务最全网站导航",
+  "siteDescription": "承德殡葬服务导航站，汇集承德殡葬服务最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-blue",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "承德殡葬服务搜索",
+          "url": "https://www.baidu.com/s?wd=承德殡葬服务",
+          "desc": "搜索承德殡葬服务相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "承德本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "承德本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "殡葬服务经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=殡葬服务",
+          "desc": "殡葬服务视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "殡葬服务经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=殡葬服务工具",
+          "desc": "搜索殡葬服务相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "殡葬服务工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "殡葬服务交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "殡葬服务分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "殡葬服务贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=殡葬服务",
+          "desc": "殡葬服务热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=承德殡葬服务",
+          "desc": "搜索承德殡葬服务相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=承德殡葬服务",
+          "desc": "承德殡葬服务视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=承德殡葬服务",
+          "desc": "承德殡葬服务热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 51.53,
+      "lng": 124.53,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "承德",
+      "geo.position": "51.53;124.53",
+      "ICBM": "51.53, 124.53",
+      "geo.latitude": 51.53,
+      "geo.longitude": 124.53,
+      "geo.city": "承德",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "承德导航",
+      "承德网站",
+      "承德网址",
+      "承德本地服务",
+      "承德生活指南",
+      "承德便民服务",
+      "承德信息查询",
+      "承德在线服务",
+      "承德殡葬服务",
+      "殡葬服务承德"
+    ]
+  }
+}

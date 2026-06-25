@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xinfang-nav.pages.dev/sitemap.xml

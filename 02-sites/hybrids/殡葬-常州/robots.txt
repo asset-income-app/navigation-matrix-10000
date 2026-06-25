@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://殡葬-常州-nav.pages.dev/sitemap.xml

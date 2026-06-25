@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guangzhou-nav.pages.dev/sitemap.xml

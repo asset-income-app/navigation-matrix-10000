@@ -1,0 +1,180 @@
+{
+  "official": [
+    {
+      "name": "中国政府网",
+      "url": "https://www.gov.cn/"
+    },
+    {
+      "name": "国家政务服务",
+      "url": "https://www.gov.cn/fuwu/"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "百度",
+      "url": "https://www.baidu.com/"
+    },
+    {
+      "name": "微信",
+      "url": "https://weixin.qq.com/"
+    },
+    {
+      "name": "支付宝",
+      "url": "https://www.alipay.com/"
+    },
+    {
+      "name": "淘宝",
+      "url": "https://www.taobao.com/"
+    },
+    {
+      "name": "京东",
+      "url": "https://www.jd.com/"
+    },
+    {
+      "name": "美团",
+      "url": "https://www.meituan.com/"
+    },
+    {
+      "name": "大众点评",
+      "url": "https://www.dianping.com/"
+    },
+    {
+      "name": "58同城",
+      "url": "https://www.58.com/"
+    },
+    {
+      "name": "携程旅行",
+      "url": "https://www.ctrip.com/"
+    },
+    {
+      "name": "高德地图",
+      "url": "https://www.amap.com/"
+    },
+    {
+      "name": "百度地图",
+      "url": "https://map.baidu.com/"
+    }
+  ],
+  "tools": [
+    {
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com/"
+    },
+    {
+      "name": "文心一言",
+      "url": "https://yiyan.baidu.com/"
+    },
+    {
+      "name": "通义千问",
+      "url": "https://tongyi.aliyun.com/"
+    },
+    {
+      "name": "Kimi",
+      "url": "https://kimi.moonshot.cn/"
+    },
+    {
+      "name": "豆包",
+      "url": "https://www.doubao.com/"
+    }
+  ],
+  "emergency": [
+    {
+      "name": "报警电话 110",
+      "url": "tel:110"
+    },
+    {
+      "name": "急救电话 120",
+      "url": "tel:120"
+    },
+    {
+      "name": "火警电话 119",
+      "url": "tel:119"
+    },
+    {
+      "name": "交通事故 122",
+      "url": "tel:122"
+    },
+    {
+      "name": "消费者投诉 12315",
+      "url": "tel:12315"
+    },
+    {
+      "name": "政务服务热线 12345",
+      "url": "tel:12345"
+    }
+  ],
+  "education": [
+    {
+      "name": "学信网",
+      "url": "https://www.chsi.com.cn/"
+    },
+    {
+      "name": "中国教育考试网",
+      "url": "https://www.neea.edu.cn/"
+    },
+    {
+      "name": "中国大学MOOC",
+      "url": "https://www.icourse163.org/"
+    },
+    {
+      "name": "国家中小学智慧教育",
+      "url": "https://www.zxx.edu.cn/"
+    },
+    {
+      "name": "中国知网",
+      "url": "https://www.cnki.net/"
+    }
+  ],
+  "finance": [
+    {
+      "name": "中国工商银行",
+      "url": "https://www.icbc.com.cn/"
+    },
+    {
+      "name": "中国建设银行",
+      "url": "https://www.ccb.com/"
+    },
+    {
+      "name": "中国农业银行",
+      "url": "https://www.abchina.com/"
+    },
+    {
+      "name": "中国银行",
+      "url": "https://www.boc.cn/"
+    },
+    {
+      "name": "招商银行",
+      "url": "https://www.cmbchina.com/"
+    },
+    {
+      "name": "东方财富",
+      "url": "https://www.eastmoney.com/"
+    },
+    {
+      "name": "同花顺",
+      "url": "https://www.10jqka.com.cn/"
+    }
+  ],
+  "media": [
+    {
+      "name": "人民网",
+      "url": "http://www.people.com.cn/"
+    },
+    {
+      "name": "新华网",
+      "url": "http://www.xinhuanet.com/"
+    },
+    {
+      "name": "央视新闻",
+      "url": "https://news.cctv.com/"
+    },
+    {
+      "name": "今日头条",
+      "url": "https://www.toutiao.com/"
+    },
+    {
+      "name": "腾讯新闻",
+      "url": "https://news.qq.com/"
+    }
+  ]
+}

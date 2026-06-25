@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "耳鼻喉",
+  "cityName": "广安",
+  "siteTitle": "广安耳鼻喉导航 - 广安耳鼻喉最全网站导航",
+  "siteDescription": "广安耳鼻喉导航站，汇集广安耳鼻喉最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-purple",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "广安耳鼻喉搜索",
+          "url": "https://www.baidu.com/s?wd=广安耳鼻喉",
+          "desc": "搜索广安耳鼻喉相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "广安本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "广安本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳鼻喉经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=耳鼻喉",
+          "desc": "耳鼻喉视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "耳鼻喉经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=耳鼻喉工具",
+          "desc": "搜索耳鼻喉相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳鼻喉工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳鼻喉交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "耳鼻喉分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "耳鼻喉贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=耳鼻喉",
+          "desc": "耳鼻喉热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=广安耳鼻喉",
+          "desc": "搜索广安耳鼻喉相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=广安耳鼻喉",
+          "desc": "广安耳鼻喉视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=广安耳鼻喉",
+          "desc": "广安耳鼻喉热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 19.09,
+      "lng": 110.09,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "广安",
+      "geo.position": "19.09;110.09",
+      "ICBM": "19.09, 110.09",
+      "geo.latitude": 19.09,
+      "geo.longitude": 110.09,
+      "geo.city": "广安",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "广安导航",
+      "广安网站",
+      "广安网址",
+      "广安本地服务",
+      "广安生活指南",
+      "广安便民服务",
+      "广安信息查询",
+      "广安在线服务",
+      "广安耳鼻喉",
+      "耳鼻喉广安"
+    ]
+  }
+}

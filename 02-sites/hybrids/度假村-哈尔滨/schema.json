@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "哈尔滨度假村导航 - 哈尔滨度假村最全网站导航",
+  "description": "哈尔滨度假村导航站，汇集哈尔滨度假村最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "哈尔滨",
+    "addressRegion": "黑龙江省",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 45.8038,
+    "longitude": 126.535
+  },
+  "url": "https://hybrid-哈尔滨.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "哈尔滨"
+  }
+}

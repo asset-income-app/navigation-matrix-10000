@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yixuekaoyan-nav.pages.dev/sitemap.xml

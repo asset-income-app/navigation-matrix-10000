@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健-河池.pages.dev/sitemap.xml

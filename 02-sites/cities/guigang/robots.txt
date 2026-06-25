@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guigang-nav.pages.dev/sitemap.xml

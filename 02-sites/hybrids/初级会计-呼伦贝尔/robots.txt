@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://初级会计-呼伦贝尔-nav.pages.dev/sitemap.xml

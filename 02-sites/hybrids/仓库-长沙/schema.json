@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "长沙仓库导航 - 长沙仓库最全网站导航",
+  "description": "长沙仓库导航站，汇集长沙仓库最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "长沙",
+    "addressRegion": "湖南省",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 28.2282,
+    "longitude": 112.9388
+  },
+  "url": "https://hybrid-长沙.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "长沙"
+  }
+}

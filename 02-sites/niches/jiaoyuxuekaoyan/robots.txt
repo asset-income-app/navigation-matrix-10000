@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiaoyuxuekaoyan-nav.pages.dev/sitemap.xml

@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "箱包",
+  "nichePinyin": "xiangbao",
+  "siteTitle": "箱包导航 - 最全的箱包网站导航",
+  "siteDescription": "箱包导航站，汇集箱包最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=箱包",
+          "desc": "搜索箱包相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "箱包经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "箱包经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=箱包",
+          "desc": "箱包视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "箱包问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "箱包交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=箱包工具",
+          "desc": "搜索箱包相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "箱包工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "箱包交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "箱包分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "箱包贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=箱包",
+          "desc": "百度搜索箱包相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=箱包",
+          "desc": "B站箱包视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=箱包",
+          "desc": "微博箱包热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 32.5,
+      "lng": 131.5,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "箱包 - 最全的箱包网站",
+      "geo.position": "32.5;131.5",
+      "ICBM": "32.5, 131.5",
+      "geo.latitude": 32.5,
+      "geo.longitude": 131.5,
+      "geo.city": "箱包 - 最全的箱包网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "箱包 - 最全的箱包网站导航",
+      "箱包 - 最全的箱包网站网站",
+      "箱包 - 最全的箱包网站网址",
+      "箱包 - 最全的箱包网站本地服务",
+      "箱包 - 最全的箱包网站生活指南",
+      "箱包 - 最全的箱包网站便民服务",
+      "箱包 - 最全的箱包网站信息查询",
+      "箱包 - 最全的箱包网站在线服务"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emba-丹东-nav.pages.dev/sitemap.xml

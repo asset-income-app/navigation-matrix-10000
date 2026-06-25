@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "耳鼻喉",
+  "cityName": "阜阳",
+  "siteTitle": "阜阳耳鼻喉导航 - 阜阳耳鼻喉最全网站导航",
+  "siteDescription": "阜阳耳鼻喉导航站，汇集阜阳耳鼻喉最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-purple",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "阜阳耳鼻喉搜索",
+          "url": "https://www.baidu.com/s?wd=阜阳耳鼻喉",
+          "desc": "搜索阜阳耳鼻喉相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "阜阳本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "阜阳本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳鼻喉经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=耳鼻喉",
+          "desc": "耳鼻喉视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "耳鼻喉经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=耳鼻喉工具",
+          "desc": "搜索耳鼻喉相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳鼻喉工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳鼻喉交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "耳鼻喉分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "耳鼻喉贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=耳鼻喉",
+          "desc": "耳鼻喉热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=阜阳耳鼻喉",
+          "desc": "搜索阜阳耳鼻喉相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=阜阳耳鼻喉",
+          "desc": "阜阳耳鼻喉视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=阜阳耳鼻喉",
+          "desc": "阜阳耳鼻喉热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 19.65,
+      "lng": 108.65,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "阜阳",
+      "geo.position": "19.65;108.65",
+      "ICBM": "19.65, 108.65",
+      "geo.latitude": 19.65,
+      "geo.longitude": 108.65,
+      "geo.city": "阜阳",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "阜阳导航",
+      "阜阳网站",
+      "阜阳网址",
+      "阜阳本地服务",
+      "阜阳生活指南",
+      "阜阳便民服务",
+      "阜阳信息查询",
+      "阜阳在线服务",
+      "阜阳耳鼻喉",
+      "耳鼻喉阜阳"
+    ]
+  }
+}

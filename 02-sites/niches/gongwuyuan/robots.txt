@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gongwuyuan-nav.pages.dev/sitemap.xml

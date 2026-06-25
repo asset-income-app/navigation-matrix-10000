@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://厨师-保山-nav.pages.dev/sitemap.xml

@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "刺绣",
+  "cityName": "昌都",
+  "siteTitle": "昌都刺绣导航 - 昌都刺绣最全网站导航",
+  "siteDescription": "昌都刺绣导航站，汇集昌都刺绣最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-dark",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "昌都刺绣搜索",
+          "url": "https://www.baidu.com/s?wd=昌都刺绣",
+          "desc": "搜索昌都刺绣相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "昌都本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "昌都本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "刺绣经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=刺绣",
+          "desc": "刺绣视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "刺绣经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=刺绣工具",
+          "desc": "搜索刺绣相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "刺绣工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "刺绣交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "刺绣分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "刺绣贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=刺绣",
+          "desc": "刺绣热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=昌都刺绣",
+          "desc": "搜索昌都刺绣相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=昌都刺绣",
+          "desc": "昌都刺绣视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=昌都刺绣",
+          "desc": "昌都刺绣热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 29.71,
+      "lng": 74.71,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "昌都",
+      "geo.position": "29.71;74.71",
+      "ICBM": "29.71, 74.71",
+      "geo.latitude": 29.71,
+      "geo.longitude": 74.71,
+      "geo.city": "昌都",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "昌都导航",
+      "昌都网站",
+      "昌都网址",
+      "昌都本地服务",
+      "昌都生活指南",
+      "昌都便民服务",
+      "昌都信息查询",
+      "昌都在线服务",
+      "昌都刺绣",
+      "刺绣昌都"
+    ]
+  }
+}

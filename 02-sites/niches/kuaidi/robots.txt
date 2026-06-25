@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kuaidi-nav.pages.dev/sitemap.xml

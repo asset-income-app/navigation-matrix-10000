@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "驾照",
+  "nichePinyin": "jiazhao",
+  "siteTitle": "驾照导航 - 最全的驾照网站导航",
+  "siteDescription": "驾照导航站，汇集驾照最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=驾照",
+          "desc": "搜索驾照相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "驾照经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "驾照经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=驾照",
+          "desc": "驾照视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "驾照问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "驾照交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=驾照工具",
+          "desc": "搜索驾照相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "驾照工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "驾照交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "驾照分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "驾照贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=驾照",
+          "desc": "百度搜索驾照相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=驾照",
+          "desc": "B站驾照视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=驾照",
+          "desc": "微博驾照热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 20.74,
+      "lng": 89.74,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "驾照 - 最全的驾照网站",
+      "geo.position": "20.74;89.74",
+      "ICBM": "20.74, 89.74",
+      "geo.latitude": 20.74,
+      "geo.longitude": 89.74,
+      "geo.city": "驾照 - 最全的驾照网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "驾照 - 最全的驾照网站导航",
+      "驾照 - 最全的驾照网站网站",
+      "驾照 - 最全的驾照网站网址",
+      "驾照 - 最全的驾照网站本地服务",
+      "驾照 - 最全的驾照网站生活指南",
+      "驾照 - 最全的驾照网站便民服务",
+      "驾照 - 最全的驾照网站信息查询",
+      "驾照 - 最全的驾照网站在线服务"
+    ]
+  }
+}

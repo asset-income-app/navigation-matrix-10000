@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "上海导航",
+  "description": "上海本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "上海",
+    "addressRegion": "上海市",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 31.2304,
+    "longitude": 121.4737
+  },
+  "url": "https://city-上海.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "上海"
+  }
+}

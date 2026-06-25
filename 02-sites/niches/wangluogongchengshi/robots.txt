@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wangluogongchengshi-nav.pages.dev/sitemap.xml

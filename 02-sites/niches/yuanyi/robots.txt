@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuanyi-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jingyingdai-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shoubiao-nav.pages.dev/sitemap.xml

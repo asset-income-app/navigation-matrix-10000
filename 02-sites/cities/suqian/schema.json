@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "宿迁导航",
+  "description": "宿迁本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "宿迁",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 38.24,
+    "longitude": 103.24
+  },
+  "url": "https://city-宿迁.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "宿迁"
+  }
+}

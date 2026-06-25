@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "推拿导航 - 最全的推拿网站导航",
+  "description": "推拿导航站，汇集推拿最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "推拿 - 最全的推拿网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.11,
+    "longitude": 76.11
+  },
+  "url": "https://niche-推拿 - 最全的推拿网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "推拿 - 最全的推拿网站"
+  }
+}

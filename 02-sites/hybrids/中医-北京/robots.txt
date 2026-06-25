@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://中医-北京.pages.dev/sitemap.xml

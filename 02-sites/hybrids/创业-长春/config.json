@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "创业",
+  "cityName": "长春",
+  "siteTitle": "长春创业导航 - 长春创业最全网站导航",
+  "siteDescription": "长春创业导航站，汇集长春创业最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-purple",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "长春创业搜索",
+          "url": "https://www.baidu.com/s?wd=长春创业",
+          "desc": "搜索长春创业相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "长春本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "长春本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "创业经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=创业",
+          "desc": "创业视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "创业经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=创业工具",
+          "desc": "搜索创业相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "创业工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "创业交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "创业分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "创业贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=创业",
+          "desc": "创业热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=长春创业",
+          "desc": "搜索长春创业相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=长春创业",
+          "desc": "长春创业视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=长春创业",
+          "desc": "长春创业热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 43.8171,
+      "lng": 125.3235,
+      "region": "东北",
+      "province": "吉林省"
+    },
+    "meta": {
+      "geo.region": "CN-吉林省",
+      "geo.placename": "长春",
+      "geo.position": "43.8171;125.3235",
+      "ICBM": "43.8171, 125.3235",
+      "geo.latitude": 43.8171,
+      "geo.longitude": 125.3235,
+      "geo.city": "长春",
+      "geo.province": "吉林省",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "长春导航",
+      "长春网站",
+      "长春网址",
+      "长春本地服务",
+      "长春生活指南",
+      "长春便民服务",
+      "长春信息查询",
+      "长春在线服务",
+      "长春创业",
+      "创业长春"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "十堰导航",
+  "description": "十堰本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "十堰",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.4,
+    "longitude": 93.4
+  },
+  "url": "https://city-十堰.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "十堰"
+  }
+}

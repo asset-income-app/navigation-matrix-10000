@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zao can-nav.pages.dev/sitemap.xml

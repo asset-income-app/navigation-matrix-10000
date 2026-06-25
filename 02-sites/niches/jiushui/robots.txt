@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiushui-nav.pages.dev/sitemap.xml

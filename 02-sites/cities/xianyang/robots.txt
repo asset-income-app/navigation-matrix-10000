@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xianyang-nav.pages.dev/sitemap.xml

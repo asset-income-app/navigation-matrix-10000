@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leshan-nav.pages.dev/sitemap.xml

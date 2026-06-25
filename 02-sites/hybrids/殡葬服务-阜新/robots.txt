@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://殡葬服务-阜新-nav.pages.dev/sitemap.xml

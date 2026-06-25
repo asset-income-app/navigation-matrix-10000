@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huangshan-nav.pages.dev/sitemap.xml

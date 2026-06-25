@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dongying-nav.pages.dev/sitemap.xml

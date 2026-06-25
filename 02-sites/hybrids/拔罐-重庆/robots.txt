@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://拔罐-重庆.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weifang-nav.pages.dev/sitemap.xml

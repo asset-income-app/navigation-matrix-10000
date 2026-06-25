@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://车险-成都-nav.pages.dev/sitemap.xml

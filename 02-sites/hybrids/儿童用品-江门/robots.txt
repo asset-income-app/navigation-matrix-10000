@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://儿童用品-江门-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保险公司-重庆-nav.pages.dev/sitemap.xml

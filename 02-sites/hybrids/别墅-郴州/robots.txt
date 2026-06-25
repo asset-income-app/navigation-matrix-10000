@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://别墅-郴州-nav.pages.dev/sitemap.xml

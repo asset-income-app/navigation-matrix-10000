@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yaoshizigezheng-nav.pages.dev/sitemap.xml

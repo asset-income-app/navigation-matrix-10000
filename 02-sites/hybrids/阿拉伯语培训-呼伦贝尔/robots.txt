@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://阿拉伯语培训-呼伦贝尔.pages.dev/sitemap.xml

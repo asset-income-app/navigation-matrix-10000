@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "美术教师",
+  "nichePinyin": "meishujiaoshi",
+  "siteTitle": "美术教师导航 - 最全的美术教师网站导航",
+  "siteDescription": "美术教师导航站，汇集美术教师最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=美术教师",
+          "desc": "搜索美术教师相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "美术教师经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "美术教师经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=美术教师",
+          "desc": "美术教师视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "美术教师问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "美术教师交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=美术教师工具",
+          "desc": "搜索美术教师相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "美术教师工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "美术教师交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "美术教师分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "美术教师贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=美术教师",
+          "desc": "百度搜索美术教师相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=美术教师",
+          "desc": "B站美术教师视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=美术教师",
+          "desc": "微博美术教师热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 29.87,
+      "lng": 116.87,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "美术教师 - 最全的美术教师网站",
+      "geo.position": "29.87;116.87",
+      "ICBM": "29.87, 116.87",
+      "geo.latitude": 29.87,
+      "geo.longitude": 116.87,
+      "geo.city": "美术教师 - 最全的美术教师网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "美术教师 - 最全的美术教师网站导航",
+      "美术教师 - 最全的美术教师网站网站",
+      "美术教师 - 最全的美术教师网站网址",
+      "美术教师 - 最全的美术教师网站本地服务",
+      "美术教师 - 最全的美术教师网站生活指南",
+      "美术教师 - 最全的美术教师网站便民服务",
+      "美术教师 - 最全的美术教师网站信息查询",
+      "美术教师 - 最全的美术教师网站在线服务"
+    ]
+  }
+}

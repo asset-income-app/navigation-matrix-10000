@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "医疗用品",
+  "nichePinyin": "yiliaoyongpin",
+  "siteTitle": "医疗用品导航 - 最全的医疗用品网站导航",
+  "siteDescription": "医疗用品导航站，汇集医疗用品最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=医疗用品",
+          "desc": "搜索医疗用品相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "医疗用品经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "医疗用品经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=医疗用品",
+          "desc": "医疗用品视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "医疗用品问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "医疗用品交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=医疗用品工具",
+          "desc": "搜索医疗用品相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "医疗用品工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "医疗用品交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "医疗用品分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "医疗用品贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=医疗用品",
+          "desc": "百度搜索医疗用品相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=医疗用品",
+          "desc": "B站医疗用品视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=医疗用品",
+          "desc": "微博医疗用品热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 31.61,
+      "lng": 80.61,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "医疗用品 - 最全的医疗用品网站",
+      "geo.position": "31.61;80.61",
+      "ICBM": "31.61, 80.61",
+      "geo.latitude": 31.61,
+      "geo.longitude": 80.61,
+      "geo.city": "医疗用品 - 最全的医疗用品网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "医疗用品 - 最全的医疗用品网站导航",
+      "医疗用品 - 最全的医疗用品网站网站",
+      "医疗用品 - 最全的医疗用品网站网址",
+      "医疗用品 - 最全的医疗用品网站本地服务",
+      "医疗用品 - 最全的医疗用品网站生活指南",
+      "医疗用品 - 最全的医疗用品网站便民服务",
+      "医疗用品 - 最全的医疗用品网站信息查询",
+      "医疗用品 - 最全的医疗用品网站在线服务"
+    ]
+  }
+}

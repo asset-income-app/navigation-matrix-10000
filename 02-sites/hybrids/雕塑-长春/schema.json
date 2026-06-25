@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "长春雕塑导航 - 长春雕塑最全网站导航",
+  "description": "长春雕塑导航站，汇集长春雕塑最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "长春",
+    "addressRegion": "吉林省",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.8171,
+    "longitude": 125.3235
+  },
+  "url": "https://hybrid-长春.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "长春"
+  }
+}

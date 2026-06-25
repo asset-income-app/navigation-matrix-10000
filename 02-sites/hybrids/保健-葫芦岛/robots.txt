@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健-葫芦岛.pages.dev/sitemap.xml

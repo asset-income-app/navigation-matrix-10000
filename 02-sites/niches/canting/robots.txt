@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://canting-nav.pages.dev/sitemap.xml

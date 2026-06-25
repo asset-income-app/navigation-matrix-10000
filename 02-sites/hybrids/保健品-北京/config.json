@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "保健品",
+  "cityName": "北京",
+  "siteTitle": "北京保健品导航 - 北京保健品最全网站导航",
+  "siteDescription": "北京保健品导航站，汇集北京保健品最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-dark",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "北京保健品搜索",
+          "url": "https://www.baidu.com/s?wd=北京保健品",
+          "desc": "搜索北京保健品相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "北京本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "北京本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "保健品经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=保健品",
+          "desc": "保健品视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "保健品经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=保健品工具",
+          "desc": "搜索保健品相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "保健品工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "保健品交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "保健品分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "保健品贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=保健品",
+          "desc": "保健品热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=北京保健品",
+          "desc": "搜索北京保健品相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=北京保健品",
+          "desc": "北京保健品视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=北京保健品",
+          "desc": "北京保健品热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074,
+      "region": "华北",
+      "province": "北京市"
+    },
+    "meta": {
+      "geo.region": "CN-北京市",
+      "geo.placename": "北京",
+      "geo.position": "39.9042;116.4074",
+      "ICBM": "39.9042, 116.4074",
+      "geo.latitude": 39.9042,
+      "geo.longitude": 116.4074,
+      "geo.city": "北京",
+      "geo.province": "北京市",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "北京导航",
+      "北京网站",
+      "北京网址",
+      "北京本地服务",
+      "北京生活指南",
+      "北京便民服务",
+      "北京信息查询",
+      "北京在线服务",
+      "北京保健品",
+      "保健品北京"
+    ]
+  }
+}

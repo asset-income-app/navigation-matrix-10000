@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qingdao-nav.pages.dev/sitemap.xml

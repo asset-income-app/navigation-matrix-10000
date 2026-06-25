@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yingshi-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emba-黑河-nav.pages.dev/sitemap.xml

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "安康导航",
+  "description": "安康本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "安康",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 20.5,
+    "longitude": 83.5
+  },
+  "url": "https://city-安康.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "安康"
+  }
+}

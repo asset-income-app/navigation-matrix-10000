@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://搬家货运-保山.pages.dev/sitemap.xml

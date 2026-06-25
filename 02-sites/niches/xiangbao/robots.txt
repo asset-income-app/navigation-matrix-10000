@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiangbao-nav.pages.dev/sitemap.xml

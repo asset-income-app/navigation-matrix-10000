@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiadianweixiu-nav.pages.dev/sitemap.xml

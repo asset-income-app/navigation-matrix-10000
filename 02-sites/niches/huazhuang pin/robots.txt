@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huazhuang pin-nav.pages.dev/sitemap.xml

@@ -1,0 +1,155 @@
+{
+  "siteType": "hybrid",
+  "cityName": "鞍山",
+  "nicheName": "保健",
+  "sitePinyin": "保健-鞍山",
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "鞍山保健搜索",
+          "url": "https://www.baidu.com/s?wd=鞍山保健",
+          "desc": "搜索鞍山保健相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "鞍山本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "鞍山本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "保健经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=保健",
+          "desc": "保健视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "保健经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=保健工具",
+          "desc": "搜索保健相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "保健工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "保健交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "保健分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "保健贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=保健",
+          "desc": "保健热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=鞍山保健",
+          "desc": "搜索鞍山保健相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=鞍山保健",
+          "desc": "鞍山保健视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=鞍山保健",
+          "desc": "鞍山保健热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 34.84,
+      "lng": 103.84,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "鞍山",
+      "geo.position": "34.84;103.84",
+      "ICBM": "34.84, 103.84",
+      "geo.latitude": 34.84,
+      "geo.longitude": 103.84,
+      "geo.city": "鞍山",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "鞍山导航",
+      "鞍山网站",
+      "鞍山网址",
+      "鞍山本地服务",
+      "鞍山生活指南",
+      "鞍山便民服务",
+      "鞍山信息查询",
+      "鞍山在线服务",
+      "鞍山保健",
+      "保健鞍山"
+    ]
+  }
+}

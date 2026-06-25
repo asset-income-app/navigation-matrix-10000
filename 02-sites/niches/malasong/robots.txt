@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://malasong-nav.pages.dev/sitemap.xml

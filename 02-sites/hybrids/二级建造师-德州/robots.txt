@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://二级建造师-德州-nav.pages.dev/sitemap.xml

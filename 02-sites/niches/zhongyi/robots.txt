@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhongyi-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://宠物-宝鸡-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maoming-nav.pages.dev/sitemap.xml

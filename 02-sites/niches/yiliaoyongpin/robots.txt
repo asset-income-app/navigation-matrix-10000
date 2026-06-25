@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yiliaoyongpin-nav.pages.dev/sitemap.xml

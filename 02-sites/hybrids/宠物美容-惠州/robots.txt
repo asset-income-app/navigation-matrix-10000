@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://宠物美容-惠州-nav.pages.dev/sitemap.xml

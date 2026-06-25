@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fuye-nav.pages.dev/sitemap.xml

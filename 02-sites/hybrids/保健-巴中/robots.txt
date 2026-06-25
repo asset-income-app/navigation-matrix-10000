@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健-巴中.pages.dev/sitemap.xml

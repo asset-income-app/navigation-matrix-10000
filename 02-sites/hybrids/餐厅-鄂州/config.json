@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "餐厅",
+  "cityName": "鄂州",
+  "siteTitle": "鄂州餐厅导航 - 鄂州餐厅最全网站导航",
+  "siteDescription": "鄂州餐厅导航站，汇集鄂州餐厅最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-orange",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "鄂州餐厅搜索",
+          "url": "https://www.baidu.com/s?wd=鄂州餐厅",
+          "desc": "搜索鄂州餐厅相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "鄂州本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "鄂州本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "餐厅经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=餐厅",
+          "desc": "餐厅视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "餐厅经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=餐厅工具",
+          "desc": "搜索餐厅相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "餐厅工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "餐厅交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "餐厅分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "餐厅贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=餐厅",
+          "desc": "餐厅热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=鄂州餐厅",
+          "desc": "搜索鄂州餐厅相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=鄂州餐厅",
+          "desc": "鄂州餐厅视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=鄂州餐厅",
+          "desc": "鄂州餐厅热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 23.05,
+      "lng": 84.05,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "鄂州",
+      "geo.position": "23.05;84.05",
+      "ICBM": "23.05, 84.05",
+      "geo.latitude": 23.05,
+      "geo.longitude": 84.05,
+      "geo.city": "鄂州",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "鄂州导航",
+      "鄂州网站",
+      "鄂州网址",
+      "鄂州本地服务",
+      "鄂州生活指南",
+      "鄂州便民服务",
+      "鄂州信息查询",
+      "鄂州在线服务",
+      "鄂州餐厅",
+      "餐厅鄂州"
+    ]
+  }
+}

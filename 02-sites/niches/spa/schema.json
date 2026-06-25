@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "SPA导航 - 最全的SPA网站导航",
+  "description": "SPA导航站，汇集SPA最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "SPA - 最全的SPA网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 23.81,
+    "longitude": 90.81
+  },
+  "url": "https://niche-SPA - 最全的SPA网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "SPA - 最全的SPA网站"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "国内游",
+  "nichePinyin": "guoneiyou",
+  "siteTitle": "国内游导航 - 最全的国内游网站导航",
+  "siteDescription": "国内游导航站，汇集国内游最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=国内游",
+          "desc": "搜索国内游相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "国内游经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "国内游经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=国内游",
+          "desc": "国内游视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "国内游问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "国内游交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=国内游工具",
+          "desc": "搜索国内游相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "国内游工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "国内游交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "国内游分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "国内游贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=国内游",
+          "desc": "百度搜索国内游相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=国内游",
+          "desc": "B站国内游视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=国内游",
+          "desc": "微博国内游热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 40.42,
+      "lng": 117.42,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "国内游 - 最全的国内游网站",
+      "geo.position": "40.42;117.42",
+      "ICBM": "40.42, 117.42",
+      "geo.latitude": 40.42,
+      "geo.longitude": 117.42,
+      "geo.city": "国内游 - 最全的国内游网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "国内游 - 最全的国内游网站导航",
+      "国内游 - 最全的国内游网站网站",
+      "国内游 - 最全的国内游网站网址",
+      "国内游 - 最全的国内游网站本地服务",
+      "国内游 - 最全的国内游网站生活指南",
+      "国内游 - 最全的国内游网站便民服务",
+      "国内游 - 最全的国内游网站信息查询",
+      "国内游 - 最全的国内游网站在线服务"
+    ]
+  }
+}

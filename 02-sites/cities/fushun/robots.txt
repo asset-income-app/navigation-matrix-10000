@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fushun-nav.pages.dev/sitemap.xml

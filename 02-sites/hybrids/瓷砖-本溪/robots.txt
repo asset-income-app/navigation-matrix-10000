@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://瓷砖-本溪-nav.pages.dev/sitemap.xml

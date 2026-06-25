@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yanjing-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://博物馆-嘉兴-nav.pages.dev/sitemap.xml

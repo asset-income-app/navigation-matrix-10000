@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "中医养生导航 - 最全的中医养生网站导航",
+  "description": "中医养生导航站，汇集中医养生最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "中医养生 - 最全的中医养生网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.9,
+    "longitude": 123.9
+  },
+  "url": "https://niche-中医养生 - 最全的中医养生网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "中医养生 - 最全的中医养生网站"
+  }
+}

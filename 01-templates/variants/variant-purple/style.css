@@ -1,0 +1,19 @@
+/* ===== 紫色变体 ===== */
+:root {
+    --primary-color: #7c3aed;
+    --secondary-color: #6d28d9;
+    --accent-color: #8b5cf6;
+    --bg-color: #f5f3ff;
+    --card-bg: #ffffff;
+    --text-color: #1e293b;
+    --text-muted: #64748b;
+    --border-color: #ddd6fe;
+    --hover-color: #6d28d9;
+    --header-bg: #ffffff;
+    --footer-bg: #4c1d95;
+    --footer-text: #ddd6fe;
+    --ad-bg: #fef3c7;
+    --ad-text: #92400e;
+    --shadow: 0 2px 8px rgba(124,58,237,0.1);
+    --radius: 12px;
+}

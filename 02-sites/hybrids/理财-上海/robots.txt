@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://理财-上海.pages.dev/sitemap.xml

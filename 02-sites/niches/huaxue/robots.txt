@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huaxue-nav.pages.dev/sitemap.xml

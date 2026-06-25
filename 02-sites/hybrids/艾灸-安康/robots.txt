@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://艾灸-安康.pages.dev/sitemap.xml

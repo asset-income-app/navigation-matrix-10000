@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fayupexun-nav.pages.dev/sitemap.xml

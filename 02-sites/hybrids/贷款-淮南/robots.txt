@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://贷款-淮南-nav.pages.dev/sitemap.xml

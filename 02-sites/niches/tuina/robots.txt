@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuina-nav.pages.dev/sitemap.xml

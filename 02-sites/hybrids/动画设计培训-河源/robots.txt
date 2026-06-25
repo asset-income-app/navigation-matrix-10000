@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://动画设计培训-河源-nav.pages.dev/sitemap.xml

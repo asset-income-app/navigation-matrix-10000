@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhaotong-nav.pages.dev/sitemap.xml

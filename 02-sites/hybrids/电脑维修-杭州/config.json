@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "电脑维修",
+  "cityName": "杭州",
+  "siteTitle": "杭州电脑维修导航 - 杭州电脑维修最全网站导航",
+  "siteDescription": "杭州电脑维修导航站，汇集杭州电脑维修最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-blue",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "杭州电脑维修搜索",
+          "url": "https://www.baidu.com/s?wd=杭州电脑维修",
+          "desc": "搜索杭州电脑维修相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "杭州本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "杭州本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "电脑维修经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=电脑维修",
+          "desc": "电脑维修视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "电脑维修经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=电脑维修工具",
+          "desc": "搜索电脑维修相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "电脑维修工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "电脑维修交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "电脑维修分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "电脑维修贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=电脑维修",
+          "desc": "电脑维修热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=杭州电脑维修",
+          "desc": "搜索杭州电脑维修相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=杭州电脑维修",
+          "desc": "杭州电脑维修视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=杭州电脑维修",
+          "desc": "杭州电脑维修热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 30.2741,
+      "lng": 120.1551,
+      "region": "华东",
+      "province": "浙江省"
+    },
+    "meta": {
+      "geo.region": "CN-浙江省",
+      "geo.placename": "杭州",
+      "geo.position": "30.2741;120.1551",
+      "ICBM": "30.2741, 120.1551",
+      "geo.latitude": 30.2741,
+      "geo.longitude": 120.1551,
+      "geo.city": "杭州",
+      "geo.province": "浙江省",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "杭州导航",
+      "杭州网站",
+      "杭州网址",
+      "杭州本地服务",
+      "杭州生活指南",
+      "杭州便民服务",
+      "杭州信息查询",
+      "杭州在线服务",
+      "杭州电脑维修",
+      "电脑维修杭州"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://仓库-池州-nav.pages.dev/sitemap.xml

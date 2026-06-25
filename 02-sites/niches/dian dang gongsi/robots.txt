@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dian dang gongsi-nav.pages.dev/sitemap.xml

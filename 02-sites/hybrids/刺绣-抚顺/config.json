@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "刺绣",
+  "cityName": "抚顺",
+  "siteTitle": "抚顺刺绣导航 - 抚顺刺绣最全网站导航",
+  "siteDescription": "抚顺刺绣导航站，汇集抚顺刺绣最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-dark",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "抚顺刺绣搜索",
+          "url": "https://www.baidu.com/s?wd=抚顺刺绣",
+          "desc": "搜索抚顺刺绣相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "抚顺本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "抚顺本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "刺绣经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=刺绣",
+          "desc": "刺绣视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "刺绣经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=刺绣工具",
+          "desc": "搜索刺绣相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "刺绣工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "刺绣交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "刺绣分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "刺绣贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=刺绣",
+          "desc": "刺绣热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=抚顺刺绣",
+          "desc": "搜索抚顺刺绣相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=抚顺刺绣",
+          "desc": "抚顺刺绣视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=抚顺刺绣",
+          "desc": "抚顺刺绣热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 31.77,
+      "lng": 118.77,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "抚顺",
+      "geo.position": "31.77;118.77",
+      "ICBM": "31.77, 118.77",
+      "geo.latitude": 31.77,
+      "geo.longitude": 118.77,
+      "geo.city": "抚顺",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "抚顺导航",
+      "抚顺网站",
+      "抚顺网址",
+      "抚顺本地服务",
+      "抚顺生活指南",
+      "抚顺便民服务",
+      "抚顺信息查询",
+      "抚顺在线服务",
+      "抚顺刺绣",
+      "刺绣抚顺"
+    ]
+  }
+}

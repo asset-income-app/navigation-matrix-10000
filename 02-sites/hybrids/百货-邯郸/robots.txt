@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://百货-邯郸.pages.dev/sitemap.xml

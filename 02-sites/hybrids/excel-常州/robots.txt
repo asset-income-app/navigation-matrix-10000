@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://excel-常州-nav.pages.dev/sitemap.xml

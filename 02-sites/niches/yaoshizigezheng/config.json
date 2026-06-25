@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "药师资格证",
+  "nichePinyin": "yaoshizigezheng",
+  "siteTitle": "药师资格证导航 - 最全的药师资格证网站导航",
+  "siteDescription": "药师资格证导航站，汇集药师资格证最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=药师资格证",
+          "desc": "搜索药师资格证相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "药师资格证经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "药师资格证经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=药师资格证",
+          "desc": "药师资格证视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "药师资格证问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "药师资格证交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=药师资格证工具",
+          "desc": "搜索药师资格证相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "药师资格证工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "药师资格证交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "药师资格证分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "药师资格证贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=药师资格证",
+          "desc": "百度搜索药师资格证相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=药师资格证",
+          "desc": "B站药师资格证视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=药师资格证",
+          "desc": "微博药师资格证热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 50.64,
+      "lng": 115.64,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "药师资格证 - 最全的药师资格证网站",
+      "geo.position": "50.64;115.64",
+      "ICBM": "50.64, 115.64",
+      "geo.latitude": 50.64,
+      "geo.longitude": 115.64,
+      "geo.city": "药师资格证 - 最全的药师资格证网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "药师资格证 - 最全的药师资格证网站导航",
+      "药师资格证 - 最全的药师资格证网站网站",
+      "药师资格证 - 最全的药师资格证网站网址",
+      "药师资格证 - 最全的药师资格证网站本地服务",
+      "药师资格证 - 最全的药师资格证网站生活指南",
+      "药师资格证 - 最全的药师资格证网站便民服务",
+      "药师资格证 - 最全的药师资格证网站信息查询",
+      "药师资格证 - 最全的药师资格证网站在线服务"
+    ]
+  }
+}

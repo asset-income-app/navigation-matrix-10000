@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://贷款申请-巴中-nav.pages.dev/sitemap.xml

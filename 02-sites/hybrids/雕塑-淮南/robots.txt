@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://雕塑-淮南-nav.pages.dev/sitemap.xml

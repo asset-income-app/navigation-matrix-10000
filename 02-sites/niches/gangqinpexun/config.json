@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "钢琴培训",
+  "nichePinyin": "gangqinpexun",
+  "siteTitle": "钢琴培训导航 - 最全的钢琴培训网站导航",
+  "siteDescription": "钢琴培训导航站，汇集钢琴培训最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=钢琴培训",
+          "desc": "搜索钢琴培训相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "钢琴培训经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "钢琴培训经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=钢琴培训",
+          "desc": "钢琴培训视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "钢琴培训问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "钢琴培训交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=钢琴培训工具",
+          "desc": "搜索钢琴培训相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "钢琴培训工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "钢琴培训交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "钢琴培训分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "钢琴培训贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=钢琴培训",
+          "desc": "百度搜索钢琴培训相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=钢琴培训",
+          "desc": "B站钢琴培训视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=钢琴培训",
+          "desc": "微博钢琴培训热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 44.7,
+      "lng": 115.7,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "钢琴培训 - 最全的钢琴培训网站",
+      "geo.position": "44.7;115.7",
+      "ICBM": "44.7, 115.7",
+      "geo.latitude": 44.7,
+      "geo.longitude": 115.7,
+      "geo.city": "钢琴培训 - 最全的钢琴培训网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "钢琴培训 - 最全的钢琴培训网站导航",
+      "钢琴培训 - 最全的钢琴培训网站网站",
+      "钢琴培训 - 最全的钢琴培训网站网址",
+      "钢琴培训 - 最全的钢琴培训网站本地服务",
+      "钢琴培训 - 最全的钢琴培训网站生活指南",
+      "钢琴培训 - 最全的钢琴培训网站便民服务",
+      "钢琴培训 - 最全的钢琴培训网站信息查询",
+      "钢琴培训 - 最全的钢琴培训网站在线服务"
+    ]
+  }
+}

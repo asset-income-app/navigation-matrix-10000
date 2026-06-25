@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://厨师-黄冈-nav.pages.dev/sitemap.xml

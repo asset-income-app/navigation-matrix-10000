@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hunshalifu-nav.pages.dev/sitemap.xml

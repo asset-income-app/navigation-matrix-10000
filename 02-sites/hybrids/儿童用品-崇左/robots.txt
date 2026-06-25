@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://儿童用品-崇左-nav.pages.dev/sitemap.xml

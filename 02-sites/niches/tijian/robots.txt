@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tijian-nav.pages.dev/sitemap.xml

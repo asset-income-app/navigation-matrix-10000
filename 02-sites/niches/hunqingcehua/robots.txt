@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hunqingcehua-nav.pages.dev/sitemap.xml

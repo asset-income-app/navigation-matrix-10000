@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://别墅-佳木斯-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baguan-nav.pages.dev/sitemap.xml

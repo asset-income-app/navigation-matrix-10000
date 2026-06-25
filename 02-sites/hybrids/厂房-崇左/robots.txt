@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://厂房-崇左-nav.pages.dev/sitemap.xml

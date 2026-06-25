@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baoxian gongsi-nav.pages.dev/sitemap.xml

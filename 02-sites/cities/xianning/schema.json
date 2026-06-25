@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "咸宁导航",
+  "description": "咸宁本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "咸宁",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 29.15,
+    "longitude": 114.15
+  },
+  "url": "https://city-咸宁.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "咸宁"
+  }
+}

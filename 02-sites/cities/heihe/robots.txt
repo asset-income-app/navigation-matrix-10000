@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heihe-nav.pages.dev/sitemap.xml

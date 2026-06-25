@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhoubianyou-nav.pages.dev/sitemap.xml

@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "贷款申请",
+  "nichePinyin": "daikuan shenqing",
+  "siteTitle": "贷款申请导航 - 最全的贷款申请网站导航",
+  "siteDescription": "贷款申请导航站，汇集贷款申请最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=贷款申请",
+          "desc": "搜索贷款申请相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "贷款申请经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "贷款申请经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=贷款申请",
+          "desc": "贷款申请视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "贷款申请问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "贷款申请交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=贷款申请工具",
+          "desc": "搜索贷款申请相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "贷款申请工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "贷款申请交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "贷款申请分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "贷款申请贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=贷款申请",
+          "desc": "百度搜索贷款申请相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=贷款申请",
+          "desc": "B站贷款申请视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=贷款申请",
+          "desc": "微博贷款申请热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 35.93,
+      "lng": 92.93,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "贷款申请 - 最全的贷款申请网站",
+      "geo.position": "35.93;92.93",
+      "ICBM": "35.93, 92.93",
+      "geo.latitude": 35.93,
+      "geo.longitude": 92.93,
+      "geo.city": "贷款申请 - 最全的贷款申请网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "贷款申请 - 最全的贷款申请网站导航",
+      "贷款申请 - 最全的贷款申请网站网站",
+      "贷款申请 - 最全的贷款申请网站网址",
+      "贷款申请 - 最全的贷款申请网站本地服务",
+      "贷款申请 - 最全的贷款申请网站生活指南",
+      "贷款申请 - 最全的贷款申请网站便民服务",
+      "贷款申请 - 最全的贷款申请网站信息查询",
+      "贷款申请 - 最全的贷款申请网站在线服务"
+    ]
+  }
+}

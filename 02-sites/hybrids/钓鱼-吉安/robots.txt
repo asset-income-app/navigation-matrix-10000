@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://钓鱼-吉安-nav.pages.dev/sitemap.xml

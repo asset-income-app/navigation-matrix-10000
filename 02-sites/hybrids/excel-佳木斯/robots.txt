@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://excel-佳木斯-nav.pages.dev/sitemap.xml

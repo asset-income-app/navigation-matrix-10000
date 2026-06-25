@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chongzuo-nav.pages.dev/sitemap.xml

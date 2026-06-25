@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "旅游团",
+  "nichePinyin": "lvyou tuan",
+  "siteTitle": "旅游团导航 - 最全的旅游团网站导航",
+  "siteDescription": "旅游团导航站，汇集旅游团最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=旅游团",
+          "desc": "搜索旅游团相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "旅游团经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "旅游团经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=旅游团",
+          "desc": "旅游团视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "旅游团问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "旅游团交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=旅游团工具",
+          "desc": "搜索旅游团相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "旅游团工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "旅游团交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "旅游团分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "旅游团贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=旅游团",
+          "desc": "百度搜索旅游团相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=旅游团",
+          "desc": "B站旅游团视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=旅游团",
+          "desc": "微博旅游团热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 35.77,
+      "lng": 100.77,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "旅游团 - 最全的旅游团网站",
+      "geo.position": "35.77;100.77",
+      "ICBM": "35.77, 100.77",
+      "geo.latitude": 35.77,
+      "geo.longitude": 100.77,
+      "geo.city": "旅游团 - 最全的旅游团网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "旅游团 - 最全的旅游团网站导航",
+      "旅游团 - 最全的旅游团网站网站",
+      "旅游团 - 最全的旅游团网站网址",
+      "旅游团 - 最全的旅游团网站本地服务",
+      "旅游团 - 最全的旅游团网站生活指南",
+      "旅游团 - 最全的旅游团网站便民服务",
+      "旅游团 - 最全的旅游团网站信息查询",
+      "旅游团 - 最全的旅游团网站在线服务"
+    ]
+  }
+}

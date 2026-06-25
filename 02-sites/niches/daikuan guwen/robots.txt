@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daikuan guwen-nav.pages.dev/sitemap.xml

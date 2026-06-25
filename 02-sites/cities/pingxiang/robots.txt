@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pingxiang-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://初级会计-崇左-nav.pages.dev/sitemap.xml

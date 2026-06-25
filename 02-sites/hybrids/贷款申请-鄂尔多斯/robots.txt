@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://贷款申请-鄂尔多斯-nav.pages.dev/sitemap.xml

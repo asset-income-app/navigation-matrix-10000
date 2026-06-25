@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://别墅-广元-nav.pages.dev/sitemap.xml

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "刮痧导航 - 最全的刮痧网站导航",
+  "description": "刮痧导航站，汇集刮痧最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "刮痧 - 最全的刮痧网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.87,
+    "longitude": 104.87
+  },
+  "url": "https://niche-刮痧 - 最全的刮痧网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "刮痧 - 最全的刮痧网站"
+  }
+}

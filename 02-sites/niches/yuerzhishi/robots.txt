@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuerzhishi-nav.pages.dev/sitemap.xml

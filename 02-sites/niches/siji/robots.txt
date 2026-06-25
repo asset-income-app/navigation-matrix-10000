@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://siji-nav.pages.dev/sitemap.xml

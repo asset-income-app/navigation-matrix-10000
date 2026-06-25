@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://编程培训-合肥-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baojian shipin-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chaoyang-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://宠物医院-焦作-nav.pages.dev/sitemap.xml

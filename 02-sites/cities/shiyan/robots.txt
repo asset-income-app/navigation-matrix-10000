@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shiyan-nav.pages.dev/sitemap.xml

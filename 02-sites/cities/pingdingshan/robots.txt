@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pingdingshan-nav.pages.dev/sitemap.xml

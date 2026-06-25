@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://拔罐-百色.pages.dev/sitemap.xml

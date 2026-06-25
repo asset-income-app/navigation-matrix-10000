@@ -1,0 +1,155 @@
+{
+  "siteType": "hybrid",
+  "cityName": "哈密",
+  "nicheName": "保健食品",
+  "sitePinyin": "保健食品-哈密",
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "哈密保健食品搜索",
+          "url": "https://www.baidu.com/s?wd=哈密保健食品",
+          "desc": "搜索哈密保健食品相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "哈密本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "哈密本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "保健食品经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=保健食品",
+          "desc": "保健食品视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "保健食品经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=保健食品工具",
+          "desc": "搜索保健食品相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "保健食品工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "保健食品交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "保健食品分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "保健食品贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=保健食品",
+          "desc": "保健食品热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=哈密保健食品",
+          "desc": "搜索哈密保健食品相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=哈密保健食品",
+          "desc": "哈密保健食品视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=哈密保健食品",
+          "desc": "哈密保健食品热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 41.99,
+      "lng": 130.99,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "哈密",
+      "geo.position": "41.99;130.99",
+      "ICBM": "41.99, 130.99",
+      "geo.latitude": 41.99,
+      "geo.longitude": 130.99,
+      "geo.city": "哈密",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "哈密导航",
+      "哈密网站",
+      "哈密网址",
+      "哈密本地服务",
+      "哈密生活指南",
+      "哈密便民服务",
+      "哈密信息查询",
+      "哈密在线服务",
+      "哈密保健食品",
+      "保健食品哈密"
+    ]
+  }
+}

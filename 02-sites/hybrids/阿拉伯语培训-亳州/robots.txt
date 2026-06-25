@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://阿拉伯语培训-亳州.pages.dev/sitemap.xml

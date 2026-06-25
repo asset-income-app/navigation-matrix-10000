@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://厨房-淮安-nav.pages.dev/sitemap.xml

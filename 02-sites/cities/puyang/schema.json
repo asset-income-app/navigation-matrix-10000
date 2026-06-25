@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "濮阳导航",
+  "description": "濮阳本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "濮阳",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 19.53,
+    "longitude": 122.53
+  },
+  "url": "https://city-濮阳.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "濮阳"
+  }
+}

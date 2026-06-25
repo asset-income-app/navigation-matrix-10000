@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://厂房-蚌埠-nav.pages.dev/sitemap.xml

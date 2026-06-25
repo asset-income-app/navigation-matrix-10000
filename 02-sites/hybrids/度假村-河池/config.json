@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "度假村",
+  "cityName": "河池",
+  "siteTitle": "河池度假村导航 - 河池度假村最全网站导航",
+  "siteDescription": "河池度假村导航站，汇集河池度假村最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-green",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "河池度假村搜索",
+          "url": "https://www.baidu.com/s?wd=河池度假村",
+          "desc": "搜索河池度假村相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "河池本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "河池本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "度假村经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=度假村",
+          "desc": "度假村视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "度假村经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=度假村工具",
+          "desc": "搜索度假村相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "度假村工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "度假村交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "度假村分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "度假村贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=度假村",
+          "desc": "度假村热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=河池度假村",
+          "desc": "搜索河池度假村相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=河池度假村",
+          "desc": "河池度假村视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=河池度假村",
+          "desc": "河池度假村热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 26.96,
+      "lng": 131.96,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "河池",
+      "geo.position": "26.96;131.96",
+      "ICBM": "26.96, 131.96",
+      "geo.latitude": 26.96,
+      "geo.longitude": 131.96,
+      "geo.city": "河池",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "河池导航",
+      "河池网站",
+      "河池网址",
+      "河池本地服务",
+      "河池生活指南",
+      "河池便民服务",
+      "河池信息查询",
+      "河池在线服务",
+      "河池度假村",
+      "度假村河池"
+    ]
+  }
+}

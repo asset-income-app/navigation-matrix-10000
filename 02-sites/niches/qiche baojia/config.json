@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "汽车报价",
+  "nichePinyin": "qiche baojia",
+  "siteTitle": "汽车报价导航 - 最全的汽车报价网站导航",
+  "siteDescription": "汽车报价导航站，汇集汽车报价最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=汽车报价",
+          "desc": "搜索汽车报价相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "汽车报价经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "汽车报价经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=汽车报价",
+          "desc": "汽车报价视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "汽车报价问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "汽车报价交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=汽车报价工具",
+          "desc": "搜索汽车报价相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "汽车报价工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "汽车报价交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "汽车报价分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "汽车报价贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=汽车报价",
+          "desc": "百度搜索汽车报价相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=汽车报价",
+          "desc": "B站汽车报价视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=汽车报价",
+          "desc": "微博汽车报价热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 33.23,
+      "lng": 76.23,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "汽车报价 - 最全的汽车报价网站",
+      "geo.position": "33.23;76.23",
+      "ICBM": "33.23, 76.23",
+      "geo.latitude": 33.23,
+      "geo.longitude": 76.23,
+      "geo.city": "汽车报价 - 最全的汽车报价网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "汽车报价 - 最全的汽车报价网站导航",
+      "汽车报价 - 最全的汽车报价网站网站",
+      "汽车报价 - 最全的汽车报价网站网址",
+      "汽车报价 - 最全的汽车报价网站本地服务",
+      "汽车报价 - 最全的汽车报价网站生活指南",
+      "汽车报价 - 最全的汽车报价网站便民服务",
+      "汽车报价 - 最全的汽车报价网站信息查询",
+      "汽车报价 - 最全的汽车报价网站在线服务"
+    ]
+  }
+}

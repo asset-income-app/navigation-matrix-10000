@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "阳泉导航",
+  "description": "阳泉本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "阳泉",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 20.86,
+    "longitude": 121.86
+  },
+  "url": "https://city-阳泉.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "阳泉"
+  }
+}

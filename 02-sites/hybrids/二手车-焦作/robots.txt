@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://二手车-焦作-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wudao-nav.pages.dev/sitemap.xml

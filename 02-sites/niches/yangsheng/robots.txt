@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yangsheng-nav.pages.dev/sitemap.xml

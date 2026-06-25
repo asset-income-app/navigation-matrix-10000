@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "初级会计导航 - 最全的初级会计网站导航",
+  "description": "初级会计导航站，汇集初级会计最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "初级会计 - 最全的初级会计网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.83,
+    "longitude": 98.83
+  },
+  "url": "https://niche-初级会计 - 最全的初级会计网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "初级会计 - 最全的初级会计网站"
+  }
+}

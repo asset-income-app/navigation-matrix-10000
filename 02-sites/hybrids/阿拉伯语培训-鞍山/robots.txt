@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://阿拉伯语培训-鞍山.pages.dev/sitemap.xml

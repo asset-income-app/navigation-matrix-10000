@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://excel-葫芦岛-nav.pages.dev/sitemap.xml

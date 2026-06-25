@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "问诊",
+  "nichePinyin": "wenzhen",
+  "siteTitle": "问诊导航 - 最全的问诊网站导航",
+  "siteDescription": "问诊导航站，汇集问诊最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=问诊",
+          "desc": "搜索问诊相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "问诊经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "问诊经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=问诊",
+          "desc": "问诊视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "问诊问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "问诊交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=问诊工具",
+          "desc": "搜索问诊相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "问诊工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "问诊交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "问诊分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "问诊贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=问诊",
+          "desc": "百度搜索问诊相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=问诊",
+          "desc": "B站问诊视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=问诊",
+          "desc": "微博问诊热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 28.94,
+      "lng": 89.94,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "问诊 - 最全的问诊网站",
+      "geo.position": "28.94;89.94",
+      "ICBM": "28.94, 89.94",
+      "geo.latitude": 28.94,
+      "geo.longitude": 89.94,
+      "geo.city": "问诊 - 最全的问诊网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "问诊 - 最全的问诊网站导航",
+      "问诊 - 最全的问诊网站网站",
+      "问诊 - 最全的问诊网站网址",
+      "问诊 - 最全的问诊网站本地服务",
+      "问诊 - 最全的问诊网站生活指南",
+      "问诊 - 最全的问诊网站便民服务",
+      "问诊 - 最全的问诊网站信息查询",
+      "问诊 - 最全的问诊网站在线服务"
+    ]
+  }
+}

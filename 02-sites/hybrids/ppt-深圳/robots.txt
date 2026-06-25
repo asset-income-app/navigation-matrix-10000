@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ppt-深圳.pages.dev/sitemap.xml

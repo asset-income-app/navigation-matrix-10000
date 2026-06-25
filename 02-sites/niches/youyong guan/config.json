@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "游泳馆",
+  "nichePinyin": "youyong guan",
+  "siteTitle": "游泳馆导航 - 最全的游泳馆网站导航",
+  "siteDescription": "游泳馆导航站，汇集游泳馆最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=游泳馆",
+          "desc": "搜索游泳馆相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "游泳馆经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "游泳馆经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=游泳馆",
+          "desc": "游泳馆视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "游泳馆问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "游泳馆交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=游泳馆工具",
+          "desc": "搜索游泳馆相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "游泳馆工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "游泳馆交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "游泳馆分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "游泳馆贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=游泳馆",
+          "desc": "百度搜索游泳馆相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=游泳馆",
+          "desc": "B站游泳馆视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=游泳馆",
+          "desc": "微博游泳馆热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 35.37,
+      "lng": 96.37,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "游泳馆 - 最全的游泳馆网站",
+      "geo.position": "35.37;96.37",
+      "ICBM": "35.37, 96.37",
+      "geo.latitude": 35.37,
+      "geo.longitude": 96.37,
+      "geo.city": "游泳馆 - 最全的游泳馆网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "游泳馆 - 最全的游泳馆网站导航",
+      "游泳馆 - 最全的游泳馆网站网站",
+      "游泳馆 - 最全的游泳馆网站网址",
+      "游泳馆 - 最全的游泳馆网站本地服务",
+      "游泳馆 - 最全的游泳馆网站生活指南",
+      "游泳馆 - 最全的游泳馆网站便民服务",
+      "游泳馆 - 最全的游泳馆网站信息查询",
+      "游泳馆 - 最全的游泳馆网站在线服务"
+    ]
+  }
+}

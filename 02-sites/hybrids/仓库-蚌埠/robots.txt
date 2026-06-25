@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://仓库-蚌埠-nav.pages.dev/sitemap.xml

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>常州艾灸导航 - 常州艾灸网站大全</title>
+    <meta name="description" content="常州艾灸导航站，汇集常州最优质的艾灸相关网站和资源。">
+    <meta name="keywords" content="常州艾灸导航,常州艾灸网站,常州艾灸网址大全">
+    <meta property="og:title" content="常州艾灸导航 - 常州艾灸网站大全">
+    <meta property="og:description" content="常州艾灸导航站，汇集常州最优质的艾灸相关网站和资源。">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔗</text></svg>">
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-inner">
+            <div class="logo-area">
+                <span class="logo-icon">🔗</span>
+                <h1 class="site-title">常州艾灸</h1>
+            </div>
+            <nav class="header-nav">
+                <a href="https://daohangbaike-nav.pages.dev" class="hub-link" target="_blank">导航百科</a>
+            </nav>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索链接..." oninput="filterLinks()">
+            </div>
+        </div>
+    </header>
+
+    <div class="ad-banner top-banner" id="topAdBanner">
+        <span>📢 接广告，低至3毛一天</span>
+        <a href="mailto:931249697@qq.com?subject=广告投放咨询" class="ad-contact-btn">联系投放</a>
+    </div>
+
+    <main class="main-content">
+        <div class="content-wrapper">
+            <div class="categories-grid" id="categoriesGrid">
+                <!-- 分类由JS动态生成 -->
+            </div>
+            <aside class="sidebar">
+                <div class="ad-slot sidebar-ad">
+                    <span>广告位</span>
+                    <a href="mailto:931249697@qq.com?subject=侧边栏广告">联系投放</a>
+                </div>
+                <div class="ad-slot sidebar-ad">
+                    <span>广告位</span>
+                    <a href="mailto:931249697@qq.com?subject=侧边栏广告">联系投放</a>
+                </div>
+                <div class="ad-slot sidebar-ad">
+                    <span>广告位</span>
+                    <a href="mailto:931249697@qq.com?subject=侧边栏广告">联系投放</a>
+                </div>
+                <div class="contact-card">
+                    <h3>联系我们</h3>
+                    <p>邮箱: 931249697@qq.com</p>
+                    <p>QQ: 931249697</p>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <div class="ad-banner bottom-banner">
+        <span>📢 接广告，低至3毛一天</span>
+        <a href="mailto:931249697@qq.com?subject=广告投放咨询" class="ad-contact-btn">联系投放</a>
+    </div>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-links">
+                <a href="https://daohangbaike-nav.pages.dev" target="_blank">导航百科</a>
+                <span>|</span>
+                <a href="mailto:931249697@qq.com">联系邮箱</a>
+                <span>|</span>
+                <span>QQ: 931249697</span>
+            </div>
+            <p class="footer-disclaimer">本站仅提供链接跳转服务，所有内容归原网站所有</p>
+            <p class="footer-copyright">© 2026 常州艾灸. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <button id="backToTop" onclick="scrollToTop()" title="回到顶部">↑</button>
+
+    <script>
+        window.__SITE_CONFIG__ = {"siteType": "hybrid", "cityName": "常州", "nicheName": "艾灸", "sitePinyin": "艾灸-常州", "categories": [{"name": "本地服务", "links": [{"name": "常州艾灸搜索", "url": "https://www.baidu.com/s?wd=常州艾灸", "desc": "搜索常州艾灸相关信息"}, {"name": "美团", "url": "https://www.meituan.com/", "desc": "常州本地服务"}, {"name": "58同城", "url": "https://www.58.com/", "desc": "常州本地信息"}]}, {"name": "学习资源", "links": [{"name": "知乎", "url": "https://www.zhihu.com/", "desc": "艾灸经验问答"}, {"name": "B站", "url": "https://search.bilibili.com/all?keyword=艾灸", "desc": "艾灸视频教程"}, {"name": "小红书", "url": "https://www.xiaohongshu.com/", "desc": "艾灸经验分享"}]}, {"name": "工具平台", "links": [{"name": "百度搜索", "url": "https://www.baidu.com/s?wd=艾灸工具", "desc": "搜索艾灸相关工具"}, {"name": "知乎推荐", "url": "https://www.zhihu.com/", "desc": "艾灸工具推荐"}]}, {"name": "社区交流", "links": [{"name": "知乎", "url": "https://www.zhihu.com/", "desc": "艾灸交流社区"}, {"name": "豆瓣", "url": "https://www.douban.com/", "desc": "艾灸分享社区"}, {"name": "贴吧", "url": "https://tieba.baidu.com/", "desc": "艾灸贴吧"}]}, {"name": "资讯动态", "links": [{"name": "人民网", "url": "http://www.people.com.cn/", "desc": "新闻资讯"}, {"name": "新华网", "url": "http://www.xinhuanet.com/", "desc": "新闻资讯"}, {"name": "微博", "url": "https://s.weibo.com/weibo?q=艾灸", "desc": "艾灸热门话题"}]}, {"name": "综合平台", "links": [{"name": "百度搜索", "url": "https://www.baidu.com/s?wd=常州艾灸", "desc": "搜索常州艾灸相关信息"}, {"name": "B站视频", "url": "https://search.bilibili.com/all?keyword=常州艾灸", "desc": "常州艾灸视频教程"}, {"name": "微博", "url": "https://s.weibo.com/weibo?q=常州艾灸", "desc": "常州艾灸热门话题"}]}]};
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>

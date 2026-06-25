@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xinlizixunshi-nav.pages.dev/sitemap.xml

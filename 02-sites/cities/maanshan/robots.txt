@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maanshan-nav.pages.dev/sitemap.xml

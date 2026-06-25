@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meijiapeixun-nav.pages.dev/sitemap.xml

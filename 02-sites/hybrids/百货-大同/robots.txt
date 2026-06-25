@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://百货-大同.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yimei-nav.pages.dev/sitemap.xml

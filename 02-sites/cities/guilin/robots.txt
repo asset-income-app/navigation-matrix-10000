@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guilin-nav.pages.dev/sitemap.xml

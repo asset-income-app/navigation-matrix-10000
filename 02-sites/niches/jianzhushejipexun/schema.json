@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "建筑设计培训导航 - 最全的建筑设计培训网站导航",
+  "description": "建筑设计培训导航站，汇集建筑设计培训最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "建筑设计培训 - 最全的建筑设计培训网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 23.65,
+    "longitude": 94.65
+  },
+  "url": "https://niche-建筑设计培训 - 最全的建筑设计培训网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "建筑设计培训 - 最全的建筑设计培训网站"
+  }
+}

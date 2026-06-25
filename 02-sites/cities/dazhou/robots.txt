@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dazhou-nav.pages.dev/sitemap.xml

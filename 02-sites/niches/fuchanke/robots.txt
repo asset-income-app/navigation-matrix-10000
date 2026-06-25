@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fuchanke-nav.pages.dev/sitemap.xml

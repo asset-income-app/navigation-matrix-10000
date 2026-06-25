@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huazhuangpexun-nav.pages.dev/sitemap.xml

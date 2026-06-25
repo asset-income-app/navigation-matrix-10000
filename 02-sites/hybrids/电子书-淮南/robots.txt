@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://电子书-淮南-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://担保公司-鹤岗-nav.pages.dev/sitemap.xml

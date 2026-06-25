@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://出境游-白城-nav.pages.dev/sitemap.xml

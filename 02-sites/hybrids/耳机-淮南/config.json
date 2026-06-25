@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "耳机",
+  "cityName": "淮南",
+  "siteTitle": "淮南耳机导航 - 淮南耳机最全网站导航",
+  "siteDescription": "淮南耳机导航站，汇集淮南耳机最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-orange",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "淮南耳机搜索",
+          "url": "https://www.baidu.com/s?wd=淮南耳机",
+          "desc": "搜索淮南耳机相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "淮南本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "淮南本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳机经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=耳机",
+          "desc": "耳机视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "耳机经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=耳机工具",
+          "desc": "搜索耳机相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳机工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳机交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "耳机分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "耳机贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=耳机",
+          "desc": "耳机热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=淮南耳机",
+          "desc": "搜索淮南耳机相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=淮南耳机",
+          "desc": "淮南耳机视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=淮南耳机",
+          "desc": "淮南耳机热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 25.71,
+      "lng": 126.71,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "淮南",
+      "geo.position": "25.71;126.71",
+      "ICBM": "25.71, 126.71",
+      "geo.latitude": 25.71,
+      "geo.longitude": 126.71,
+      "geo.city": "淮南",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "淮南导航",
+      "淮南网站",
+      "淮南网址",
+      "淮南本地服务",
+      "淮南生活指南",
+      "淮南便民服务",
+      "淮南信息查询",
+      "淮南在线服务",
+      "淮南耳机",
+      "耳机淮南"
+    ]
+  }
+}

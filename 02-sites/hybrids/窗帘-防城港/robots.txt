@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://窗帘-防城港-nav.pages.dev/sitemap.xml

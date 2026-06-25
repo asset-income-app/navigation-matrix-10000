@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shangqiu-nav.pages.dev/sitemap.xml

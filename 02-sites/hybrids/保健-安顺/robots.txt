@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健-安顺.pages.dev/sitemap.xml

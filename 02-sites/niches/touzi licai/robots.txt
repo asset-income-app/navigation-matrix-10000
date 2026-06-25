@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://touzi licai-nav.pages.dev/sitemap.xml

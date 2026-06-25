@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://地毯-焦作-nav.pages.dev/sitemap.xml

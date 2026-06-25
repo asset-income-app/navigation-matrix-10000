@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "耳机",
+  "cityName": "佳木斯",
+  "siteTitle": "佳木斯耳机导航 - 佳木斯耳机最全网站导航",
+  "siteDescription": "佳木斯耳机导航站，汇集佳木斯耳机最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-purple",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "佳木斯耳机搜索",
+          "url": "https://www.baidu.com/s?wd=佳木斯耳机",
+          "desc": "搜索佳木斯耳机相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "佳木斯本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "佳木斯本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳机经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=耳机",
+          "desc": "耳机视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "耳机经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=耳机工具",
+          "desc": "搜索耳机相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳机工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "耳机交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "耳机分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "耳机贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=耳机",
+          "desc": "耳机热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=佳木斯耳机",
+          "desc": "搜索佳木斯耳机相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=佳木斯耳机",
+          "desc": "佳木斯耳机视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=佳木斯耳机",
+          "desc": "佳木斯耳机热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 51.25,
+      "lng": 114.25,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "佳木斯",
+      "geo.position": "51.25;114.25",
+      "ICBM": "51.25, 114.25",
+      "geo.latitude": 51.25,
+      "geo.longitude": 114.25,
+      "geo.city": "佳木斯",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "佳木斯导航",
+      "佳木斯网站",
+      "佳木斯网址",
+      "佳木斯本地服务",
+      "佳木斯生活指南",
+      "佳木斯便民服务",
+      "佳木斯信息查询",
+      "佳木斯在线服务",
+      "佳木斯耳机",
+      "耳机佳木斯"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健-宝鸡.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cpa-nav.pages.dev/sitemap.xml

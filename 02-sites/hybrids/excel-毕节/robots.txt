@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://excel-毕节-nav.pages.dev/sitemap.xml

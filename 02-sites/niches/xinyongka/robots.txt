@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xinyongka-nav.pages.dev/sitemap.xml

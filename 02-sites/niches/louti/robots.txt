@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://louti-nav.pages.dev/sitemap.xml

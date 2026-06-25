@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "写字楼",
+  "nichePinyin": "xiezilou",
+  "siteTitle": "写字楼导航 - 最全的写字楼网站导航",
+  "siteDescription": "写字楼导航站，汇集写字楼最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=写字楼",
+          "desc": "搜索写字楼相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "写字楼经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "写字楼经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=写字楼",
+          "desc": "写字楼视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "写字楼问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "写字楼交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=写字楼工具",
+          "desc": "搜索写字楼相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "写字楼工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "写字楼交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "写字楼分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "写字楼贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=写字楼",
+          "desc": "百度搜索写字楼相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=写字楼",
+          "desc": "B站写字楼视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=写字楼",
+          "desc": "微博写字楼热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 50.96,
+      "lng": 93.96,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "写字楼 - 最全的写字楼网站",
+      "geo.position": "50.96;93.96",
+      "ICBM": "50.96, 93.96",
+      "geo.latitude": 50.96,
+      "geo.longitude": 93.96,
+      "geo.city": "写字楼 - 最全的写字楼网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "写字楼 - 最全的写字楼网站导航",
+      "写字楼 - 最全的写字楼网站网站",
+      "写字楼 - 最全的写字楼网站网址",
+      "写字楼 - 最全的写字楼网站本地服务",
+      "写字楼 - 最全的写字楼网站生活指南",
+      "写字楼 - 最全的写字楼网站便民服务",
+      "写字楼 - 最全的写字楼网站信息查询",
+      "写字楼 - 最全的写字楼网站在线服务"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qihuojiaoyi-nav.pages.dev/sitemap.xml

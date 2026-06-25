@@ -1,0 +1,614 @@
+{
+  "siteType": "niche",
+  "nicheName": "Python",
+  "nichePinyin": "python",
+  "siteTitle": "Python导航 - 最全的Python网站导航",
+  "siteDescription": "Python导航站，汇集Python最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "精选网站",
+      "links": [
+        {
+          "name": "菜鸟教程Python",
+          "url": "https://www.runoob.com/python3/python3-tutorial.html",
+          "desc": "Python3教程"
+        },
+        {
+          "name": "Python中文社区",
+          "url": "https://www.pythontab.com/",
+          "desc": "Python中文社区"
+        },
+        {
+          "name": "Django官网",
+          "url": "https://www.djangoproject.com/",
+          "desc": "Django框架官网"
+        },
+        {
+          "name": "Flask官网",
+          "url": "https://flask.palletsprojects.com/",
+          "desc": "Flask框架官网"
+        },
+        {
+          "name": "FastAPI",
+          "url": "https://fastapi.tiangolo.com/",
+          "desc": "FastAPI框架"
+        },
+        {
+          "name": "Scrapy",
+          "url": "https://scrapy.org/",
+          "desc": "Python爬虫框架"
+        },
+        {
+          "name": "Pandas",
+          "url": "https://pandas.pydata.org/",
+          "desc": "数据分析库"
+        },
+        {
+          "name": "NumPy",
+          "url": "https://numpy.org/",
+          "desc": "科学计算库"
+        },
+        {
+          "name": "TensorFlow",
+          "url": "https://www.tensorflow.org/",
+          "desc": "深度学习框架"
+        },
+        {
+          "name": "PyTorch",
+          "url": "https://pytorch.org/",
+          "desc": "深度学习框架"
+        },
+        {
+          "name": "Scikit-learn",
+          "url": "https://scikit-learn.org/",
+          "desc": "机器学习库"
+        }
+      ]
+    },
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "Python官网",
+          "url": "https://www.python.org/",
+          "desc": "Python官方下载与文档"
+        },
+        {
+          "name": "PyPI",
+          "url": "https://pypi.org/",
+          "desc": "Python包索引"
+        },
+        {
+          "name": "Python文档",
+          "url": "https://docs.python.org/zh-cn/3/",
+          "desc": "Python中文文档"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "菜鸟教程Python",
+          "url": "https://www.runoob.com/python3/",
+          "desc": "Python3入门教程"
+        },
+        {
+          "name": "廖雪峰Python",
+          "url": "https://www.liaoxuefeng.com/wiki/1016959663602400",
+          "desc": "Python教程"
+        },
+        {
+          "name": "Real Python",
+          "url": "https://realpython.com/",
+          "desc": "Python深度学习"
+        },
+        {
+          "name": "LeetCode Python",
+          "url": "https://leetcode.cn/",
+          "desc": "Python算法刷题"
+        },
+        {
+          "name": "B站Python",
+          "url": "https://www.bilibili.com/",
+          "desc": "免费Python视频"
+        },
+        {
+          "name": "慕课网Python",
+          "url": "https://www.imooc.com/",
+          "desc": "Python在线课程"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "PyCharm",
+          "url": "https://www.jetbrains.com/pycharm/",
+          "desc": "Python专业IDE"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "url": "https://jupyter.org/",
+          "desc": "数据科学笔记本"
+        },
+        {
+          "name": "Anaconda",
+          "url": "https://www.anaconda.com/",
+          "desc": "Python数据科学发行版"
+        },
+        {
+          "name": "VS Code",
+          "url": "https://code.visualstudio.com/",
+          "desc": "轻量级代码编辑器"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "Python中文社区",
+          "url": "https://www.python.org.cn/",
+          "desc": "Python中文交流"
+        },
+        {
+          "name": "掘金Python",
+          "url": "https://juejin.cn/",
+          "desc": "Python技术社区"
+        },
+        {
+          "name": "知乎Python话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "Python经验问答"
+        },
+        {
+          "name": "Stack Overflow Python",
+          "url": "https://stackoverflow.com/",
+          "desc": "Python问答社区"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "Python Weekly",
+          "url": "https://www.pythonweekly.com/",
+          "desc": "Python周报"
+        },
+        {
+          "name": "Real Python",
+          "url": "https://realpython.com/",
+          "desc": "Python教程与资讯"
+        },
+        {
+          "name": "开源中国Python",
+          "url": "https://www.oschina.net/",
+          "desc": "Python开源资讯"
+        },
+        {
+          "name": "InfoQ Python",
+          "url": "https://www.infoq.cn/",
+          "desc": "Python技术资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索Python",
+          "url": "https://www.baidu.com/s?wd=Python",
+          "desc": "百度搜索Python相关信息"
+        },
+        {
+          "name": "B站Python视频",
+          "url": "https://search.bilibili.com/all?keyword=Python",
+          "desc": "B站Python视频教程"
+        },
+        {
+          "name": "小红书Python",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=Python",
+          "desc": "小红书Python经验分享"
+        },
+        {
+          "name": "微博Python",
+          "url": "https://s.weibo.com/weibo?q=Python",
+          "desc": "微博Python热门话题"
+        },
+        {
+          "name": "豆瓣Python",
+          "url": "https://www.douban.com/search?q=Python",
+          "desc": "豆瓣Python相关内容"
+        },
+        {
+          "name": "微信Python文章",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=Python",
+          "desc": "微信公众号Python文章"
+        },
+        {
+          "name": "头条Python",
+          "url": "https://www.toutiao.com/search/?keyword=Python",
+          "desc": "今日头条Python资讯"
+        },
+        {
+          "name": "抖音Python",
+          "url": "https://www.douyin.com/search/Python",
+          "desc": "抖音Python短视频"
+        },
+        {
+          "name": "淘宝Python",
+          "url": "https://s.taobao.com/search?q=Python",
+          "desc": "淘宝Python相关商品"
+        },
+        {
+          "name": "京东Python",
+          "url": "https://search.jd.com/Search?keyword=Python",
+          "desc": "京东Python相关商品"
+        },
+        {
+          "name": "拼多多Python",
+          "url": "https://www.pinduoduo.com/search?q=Python",
+          "desc": "拼多多Python相关商品"
+        },
+        {
+          "name": "百度百科Python",
+          "url": "https://baike.baidu.com/item/Python",
+          "desc": "百度百科Python词条"
+        },
+        {
+          "name": "维基百科Python",
+          "url": "https://zh.wikipedia.org/wiki/Python",
+          "desc": "维基百科Python词条"
+        },
+        {
+          "name": "搜狗Python",
+          "url": "https://www.sogou.com/web?query=Python",
+          "desc": "搜狗搜索Python"
+        },
+        {
+          "name": "360搜索搜索Python教程",
+          "url": "https://www.so.com/s?q=Python%E6%95%99%E7%A8%8B",
+          "desc": "360搜索Python教程教程学习"
+        },
+        {
+          "name": "必应搜索Python教程",
+          "url": "https://www.bing.com/search?q=Python%E6%95%99%E7%A8%8B",
+          "desc": "必应Python教程教程学习"
+        },
+        {
+          "name": "Google搜索Python教程",
+          "url": "https://www.google.com/search?q=Python%E6%95%99%E7%A8%8B",
+          "desc": "GooglePython教程教程学习"
+        }
+      ]
+    },
+    {
+      "name": "知识社区",
+      "links": [
+        {
+          "name": "知乎·Python",
+          "url": "https://www.zhihu.com/search?type=content&q=Python",
+          "desc": "在知乎搜索Python综合信息"
+        }
+      ]
+    },
+    {
+      "name": "短视频",
+      "links": [
+        {
+          "name": "抖音·Python教程",
+          "url": "https://www.douyin.com/search/Python%E6%95%99%E7%A8%8B",
+          "desc": "在抖音搜索Python教程教程学习"
+        },
+        {
+          "name": "抖音·Python入门",
+          "url": "https://www.douyin.com/search/Python%E5%85%A5%E9%97%A8",
+          "desc": "在抖音搜索Python入门入门指南"
+        },
+        {
+          "name": "抖音·Python学习",
+          "url": "https://www.douyin.com/search/Python%E5%AD%A6%E4%B9%A0",
+          "desc": "在抖音搜索Python学习学习资源"
+        },
+        {
+          "name": "抖音·Python培训",
+          "url": "https://www.douyin.com/search/Python%E5%9F%B9%E8%AE%AD",
+          "desc": "在抖音搜索Python培训培训课程"
+        },
+        {
+          "name": "抖音·Python论坛",
+          "url": "https://www.douyin.com/search/Python%E8%AE%BA%E5%9D%9B",
+          "desc": "在抖音搜索Python论坛论坛社区"
+        },
+        {
+          "name": "抖音·Python社区",
+          "url": "https://www.douyin.com/search/Python%E7%A4%BE%E5%8C%BA",
+          "desc": "在抖音搜索Python社区社区交流"
+        },
+        {
+          "name": "抖音·Python工具",
+          "url": "https://www.douyin.com/search/Python%E5%B7%A5%E5%85%B7",
+          "desc": "在抖音搜索Python工具工具软件"
+        },
+        {
+          "name": "抖音·Python软件",
+          "url": "https://www.douyin.com/search/Python%E8%BD%AF%E4%BB%B6",
+          "desc": "在抖音搜索Python软件软件推荐"
+        },
+        {
+          "name": "抖音·Python资料",
+          "url": "https://www.douyin.com/search/Python%E8%B5%84%E6%96%99",
+          "desc": "在抖音搜索Python资料资料下载"
+        },
+        {
+          "name": "抖音·Python视频",
+          "url": "https://www.douyin.com/search/Python%E8%A7%86%E9%A2%91",
+          "desc": "在抖音搜索Python视频视频教程"
+        },
+        {
+          "name": "抖音·Python书籍",
+          "url": "https://www.douyin.com/search/Python%E4%B9%A6%E7%B1%8D",
+          "desc": "在抖音搜索Python书籍书籍推荐"
+        },
+        {
+          "name": "抖音·Python考试",
+          "url": "https://www.douyin.com/search/Python%E8%80%83%E8%AF%95",
+          "desc": "在抖音搜索Python考试考试信息"
+        },
+        {
+          "name": "抖音·Python招聘",
+          "url": "https://www.douyin.com/search/Python%E6%8B%9B%E8%81%98",
+          "desc": "在抖音搜索Python招聘招聘信息"
+        },
+        {
+          "name": "抖音·Python排名",
+          "url": "https://www.douyin.com/search/Python%E6%8E%92%E5%90%8D",
+          "desc": "在抖音搜索Python排名排名推荐"
+        },
+        {
+          "name": "抖音·Python攻略",
+          "url": "https://www.douyin.com/search/Python%E6%94%BB%E7%95%A5",
+          "desc": "在抖音搜索Python攻略攻略指南"
+        },
+        {
+          "name": "抖音·Python技巧",
+          "url": "https://www.douyin.com/search/Python%E6%8A%80%E5%B7%A7",
+          "desc": "在抖音搜索Python技巧技巧方法"
+        },
+        {
+          "name": "抖音·PythonAPP",
+          "url": "https://www.douyin.com/search/PythonAPP",
+          "desc": "在抖音搜索PythonAPP手机应用"
+        },
+        {
+          "name": "抖音·Python网站",
+          "url": "https://www.douyin.com/search/Python%E7%BD%91%E7%AB%99",
+          "desc": "在抖音搜索Python网站网站推荐"
+        },
+        {
+          "name": "抖音·Python免费",
+          "url": "https://www.douyin.com/search/Python%E5%85%8D%E8%B4%B9",
+          "desc": "在抖音搜索Python免费免费资源"
+        }
+      ]
+    },
+    {
+      "name": "更多搜索",
+      "links": [
+        {
+          "name": "百度·Python怎么学",
+          "url": "https://www.baidu.com/s?wd=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度搜索Python怎么学"
+        },
+        {
+          "name": "知乎·Python怎么学",
+          "url": "https://www.zhihu.com/search?type=content&q=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎搜索Python怎么学"
+        },
+        {
+          "name": "B站·Python怎么学",
+          "url": "https://search.bilibili.com/all?keyword=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在B站搜索Python怎么学"
+        },
+        {
+          "name": "小红书·Python怎么学",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在小红书搜索Python怎么学"
+        },
+        {
+          "name": "微信·Python怎么学",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微信搜索Python怎么学"
+        },
+        {
+          "name": "头条·Python怎么学",
+          "url": "https://www.toutiao.com/search/?keyword=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在头条搜索Python怎么学"
+        },
+        {
+          "name": "抖音·Python怎么学",
+          "url": "https://www.douyin.com/search/Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在抖音搜索Python怎么学"
+        },
+        {
+          "name": "豆瓣·Python怎么学",
+          "url": "https://www.douban.com/search?q=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在豆瓣搜索Python怎么学"
+        },
+        {
+          "name": "淘宝·Python怎么学",
+          "url": "https://s.taobao.com/search?q=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在淘宝搜索Python怎么学"
+        },
+        {
+          "name": "京东·Python怎么学",
+          "url": "https://search.jd.com/Search?keyword=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在京东搜索Python怎么学"
+        },
+        {
+          "name": "360搜索·Python怎么学",
+          "url": "https://www.so.com/s?q=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在360搜索搜索Python怎么学"
+        },
+        {
+          "name": "必应·Python怎么学",
+          "url": "https://www.bing.com/search?q=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在必应搜索Python怎么学"
+        },
+        {
+          "name": "搜狗·Python怎么学",
+          "url": "https://www.sogou.com/web?query=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在搜狗搜索Python怎么学"
+        },
+        {
+          "name": "微博·Python怎么学",
+          "url": "https://s.weibo.com/weibo?q=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微博搜索Python怎么学"
+        },
+        {
+          "name": "喜马拉雅·Python怎么学",
+          "url": "https://www.ximalaya.com/search/Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在喜马拉雅搜索Python怎么学"
+        },
+        {
+          "name": "CSDN·Python怎么学",
+          "url": "https://so.csdn.net/so/search?q=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在CSDN搜索Python怎么学"
+        },
+        {
+          "name": "掘金·Python怎么学",
+          "url": "https://juejin.cn/search?query=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在掘金搜索Python怎么学"
+        },
+        {
+          "name": "简书·Python怎么学",
+          "url": "https://www.jianshu.com/search?q=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在简书搜索Python怎么学"
+        },
+        {
+          "name": "百度贴吧·Python怎么学",
+          "url": "https://tieba.baidu.com/f?kw=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度贴吧搜索Python怎么学"
+        },
+        {
+          "name": "知乎专栏·Python怎么学",
+          "url": "https://zhuanlan.zhihu.com/search?q=Python%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎专栏搜索Python怎么学"
+        },
+        {
+          "name": "百度·Python怎么考",
+          "url": "https://www.baidu.com/s?wd=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度搜索Python怎么考"
+        },
+        {
+          "name": "知乎·Python怎么考",
+          "url": "https://www.zhihu.com/search?type=content&q=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎搜索Python怎么考"
+        },
+        {
+          "name": "B站·Python怎么考",
+          "url": "https://search.bilibili.com/all?keyword=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在B站搜索Python怎么考"
+        },
+        {
+          "name": "小红书·Python怎么考",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在小红书搜索Python怎么考"
+        },
+        {
+          "name": "微信·Python怎么考",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微信搜索Python怎么考"
+        },
+        {
+          "name": "头条·Python怎么考",
+          "url": "https://www.toutiao.com/search/?keyword=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在头条搜索Python怎么考"
+        },
+        {
+          "name": "抖音·Python怎么考",
+          "url": "https://www.douyin.com/search/Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在抖音搜索Python怎么考"
+        },
+        {
+          "name": "豆瓣·Python怎么考",
+          "url": "https://www.douban.com/search?q=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在豆瓣搜索Python怎么考"
+        },
+        {
+          "name": "淘宝·Python怎么考",
+          "url": "https://s.taobao.com/search?q=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在淘宝搜索Python怎么考"
+        },
+        {
+          "name": "京东·Python怎么考",
+          "url": "https://search.jd.com/Search?keyword=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在京东搜索Python怎么考"
+        },
+        {
+          "name": "360搜索·Python怎么考",
+          "url": "https://www.so.com/s?q=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在360搜索搜索Python怎么考"
+        },
+        {
+          "name": "必应·Python怎么考",
+          "url": "https://www.bing.com/search?q=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在必应搜索Python怎么考"
+        },
+        {
+          "name": "搜狗·Python怎么考",
+          "url": "https://www.sogou.com/web?query=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在搜狗搜索Python怎么考"
+        },
+        {
+          "name": "微博·Python怎么考",
+          "url": "https://s.weibo.com/weibo?q=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微博搜索Python怎么考"
+        },
+        {
+          "name": "喜马拉雅·Python怎么考",
+          "url": "https://www.ximalaya.com/search/Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在喜马拉雅搜索Python怎么考"
+        },
+        {
+          "name": "CSDN·Python怎么考",
+          "url": "https://so.csdn.net/so/search?q=Python%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在CSDN搜索Python怎么考"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 27.61,
+      "lng": 86.61,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "Python - 最全的Python网站",
+      "geo.position": "27.61;86.61",
+      "ICBM": "27.61, 86.61",
+      "geo.latitude": 27.61,
+      "geo.longitude": 86.61,
+      "geo.city": "Python - 最全的Python网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "Python - 最全的Python网站导航",
+      "Python - 最全的Python网站网站",
+      "Python - 最全的Python网站网址",
+      "Python - 最全的Python网站本地服务",
+      "Python - 最全的Python网站生活指南",
+      "Python - 最全的Python网站便民服务",
+      "Python - 最全的Python网站信息查询",
+      "Python - 最全的Python网站在线服务"
+    ]
+  }
+}

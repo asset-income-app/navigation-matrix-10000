@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qipai-nav.pages.dev/sitemap.xml

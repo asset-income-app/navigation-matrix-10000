@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "财产险",
+  "cityName": "黄石",
+  "siteTitle": "黄石财产险导航 - 黄石财产险最全网站导航",
+  "siteDescription": "黄石财产险导航站，汇集黄石财产险最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-green",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "黄石财产险搜索",
+          "url": "https://www.baidu.com/s?wd=黄石财产险",
+          "desc": "搜索黄石财产险相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "黄石本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "黄石本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "财产险经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=财产险",
+          "desc": "财产险视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "财产险经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=财产险工具",
+          "desc": "搜索财产险相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "财产险工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "财产险交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "财产险分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "财产险贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=财产险",
+          "desc": "财产险热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=黄石财产险",
+          "desc": "搜索黄石财产险相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=黄石财产险",
+          "desc": "黄石财产险视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=黄石财产险",
+          "desc": "黄石财产险热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 44.02,
+      "lng": 133.02,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "黄石",
+      "geo.position": "44.02;133.02",
+      "ICBM": "44.02, 133.02",
+      "geo.latitude": 44.02,
+      "geo.longitude": 133.02,
+      "geo.city": "黄石",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "黄石导航",
+      "黄石网站",
+      "黄石网址",
+      "黄石本地服务",
+      "黄石生活指南",
+      "黄石便民服务",
+      "黄石信息查询",
+      "黄石在线服务",
+      "黄石财产险",
+      "财产险黄石"
+    ]
+  }
+}

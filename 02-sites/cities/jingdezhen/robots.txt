@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jingdezhen-nav.pages.dev/sitemap.xml

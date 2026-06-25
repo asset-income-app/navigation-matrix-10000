@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huaihua-nav.pages.dev/sitemap.xml

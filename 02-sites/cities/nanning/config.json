@@ -1,0 +1,182 @@
+{
+  "siteType": "city",
+  "cityName": "南宁",
+  "cityPinyin": "nanning",
+  "province": "广西",
+  "categories": [
+    {
+      "name": "政务服务",
+      "icon": "🏛️",
+      "links": [
+        {
+          "name": "中国政府网",
+          "url": "https://www.gov.cn/"
+        },
+        {
+          "name": "国家政务服务",
+          "url": "https://www.gov.cn/fuwu/"
+        },
+        {
+          "name": "12345政务服务热线",
+          "url": "tel:12345"
+        }
+      ]
+    },
+    {
+      "name": "社保医保",
+      "icon": "🏥",
+      "links": [
+        {
+          "name": "国家社保公共服务平台",
+          "url": "https://si.12333.gov.cn/"
+        },
+        {
+          "name": "国家医保服务平台",
+          "url": "https://fuwu.nhsa.gov.cn/"
+        },
+        {
+          "name": "12333社保查询",
+          "url": "https://12333.gov.cn/"
+        }
+      ]
+    },
+    {
+      "name": "交通出行",
+      "icon": "🚌",
+      "links": [
+        {
+          "name": "12306火车票",
+          "url": "https://www.12306.cn/"
+        },
+        {
+          "name": "携程旅行",
+          "url": "https://www.ctrip.com/"
+        },
+        {
+          "name": "高德地图",
+          "url": "https://www.amap.com/"
+        }
+      ]
+    },
+    {
+      "name": "教育学习",
+      "icon": "📚",
+      "links": [
+        {
+          "name": "中国教育在线",
+          "url": "https://www.eol.cn/"
+        },
+        {
+          "name": "学信网",
+          "url": "https://www.chsi.com.cn/"
+        },
+        {
+          "name": "中国研究生招生信息网",
+          "url": "https://yz.chsi.com.cn/"
+        }
+      ]
+    },
+    {
+      "name": "生活服务",
+      "icon": "🏠",
+      "links": [
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/"
+        },
+        {
+          "name": "饿了么",
+          "url": "https://www.ele.me/"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/"
+        }
+      ]
+    },
+    {
+      "name": "新闻资讯",
+      "icon": "📰",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/"
+        },
+        {
+          "name": "央视网",
+          "url": "https://www.cctv.com/"
+        }
+      ]
+    },
+    {
+      "name": "购物电商",
+      "icon": "🛒",
+      "links": [
+        {
+          "name": "淘宝",
+          "url": "https://www.taobao.com/"
+        },
+        {
+          "name": "京东",
+          "url": "https://www.jd.com/"
+        },
+        {
+          "name": "拼多多",
+          "url": "https://www.pinduoduo.com/"
+        }
+      ]
+    },
+    {
+      "name": "娱乐休闲",
+      "icon": "🎮",
+      "links": [
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/"
+        },
+        {
+          "name": "B站",
+          "url": "https://www.bilibili.com/"
+        },
+        {
+          "name": "爱奇艺",
+          "url": "https://www.iqiyi.com/"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 22.817,
+      "lng": 108.3665,
+      "region": "华南",
+      "province": "广西壮族自治区"
+    },
+    "meta": {
+      "geo.region": "CN-广西壮族自治区",
+      "geo.placename": "南宁",
+      "geo.position": "22.817;108.3665",
+      "ICBM": "22.817, 108.3665",
+      "geo.latitude": 22.817,
+      "geo.longitude": 108.3665,
+      "geo.city": "南宁",
+      "geo.province": "广西壮族自治区",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "南宁导航",
+      "南宁网站",
+      "南宁网址",
+      "南宁本地服务",
+      "南宁生活指南",
+      "南宁便民服务",
+      "南宁信息查询",
+      "南宁在线服务"
+    ]
+  }
+}

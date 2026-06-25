@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fangchan pinggu-nav.pages.dev/sitemap.xml

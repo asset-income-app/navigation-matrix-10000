@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://电工-昌都-nav.pages.dev/sitemap.xml

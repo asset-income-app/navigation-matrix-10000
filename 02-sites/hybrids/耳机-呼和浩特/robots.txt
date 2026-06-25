@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://耳机-呼和浩特-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pythonpexun-nav.pages.dev/sitemap.xml

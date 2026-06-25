@@ -1,0 +1,19 @@
+/* ===== 橙色变体 ===== */
+:root {
+    --primary-color: #ea580c;
+    --secondary-color: #c2410c;
+    --accent-color: #f97316;
+    --bg-color: #fff7ed;
+    --card-bg: #ffffff;
+    --text-color: #1e293b;
+    --text-muted: #64748b;
+    --border-color: #fed7aa;
+    --hover-color: #c2410c;
+    --header-bg: #ffffff;
+    --footer-bg: #7c2d12;
+    --footer-text: #fed7aa;
+    --ad-bg: #fef3c7;
+    --ad-text: #92400e;
+    --shadow: 0 2px 8px rgba(234,88,12,0.1);
+    --radius: 12px;
+}

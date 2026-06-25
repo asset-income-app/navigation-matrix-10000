@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://茶饮-广州-nav.pages.dev/sitemap.xml

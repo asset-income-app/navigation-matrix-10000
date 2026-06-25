@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://租房-上海.pages.dev/sitemap.xml

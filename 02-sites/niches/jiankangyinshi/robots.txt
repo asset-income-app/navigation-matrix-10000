@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiankangyinshi-nav.pages.dev/sitemap.xml

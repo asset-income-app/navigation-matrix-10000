@@ -1,0 +1,155 @@
+{
+  "siteType": "hybrid",
+  "cityName": "深圳",
+  "nicheName": "搬家",
+  "sitePinyin": "搬家-深圳",
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "深圳搬家搜索",
+          "url": "https://www.baidu.com/s?wd=深圳搬家",
+          "desc": "搜索深圳搬家相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "深圳本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "深圳本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "搬家经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=搬家",
+          "desc": "搬家视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "搬家经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=搬家工具",
+          "desc": "搜索搬家相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "搬家工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "搬家交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "搬家分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "搬家贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=搬家",
+          "desc": "搬家热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=深圳搬家",
+          "desc": "搜索深圳搬家相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=深圳搬家",
+          "desc": "深圳搬家视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=深圳搬家",
+          "desc": "深圳搬家热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 22.5431,
+      "lng": 114.0579,
+      "region": "华南",
+      "province": "广东省"
+    },
+    "meta": {
+      "geo.region": "CN-广东省",
+      "geo.placename": "深圳",
+      "geo.position": "22.5431;114.0579",
+      "ICBM": "22.5431, 114.0579",
+      "geo.latitude": 22.5431,
+      "geo.longitude": 114.0579,
+      "geo.city": "深圳",
+      "geo.province": "广东省",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "深圳导航",
+      "深圳网站",
+      "深圳网址",
+      "深圳本地服务",
+      "深圳生活指南",
+      "深圳便民服务",
+      "深圳信息查询",
+      "深圳在线服务",
+      "深圳搬家",
+      "搬家深圳"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健-淮南.pages.dev/sitemap.xml

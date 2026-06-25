@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健-德州.pages.dev/sitemap.xml

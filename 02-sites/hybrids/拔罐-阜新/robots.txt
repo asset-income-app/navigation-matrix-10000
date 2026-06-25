@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://拔罐-阜新.pages.dev/sitemap.xml

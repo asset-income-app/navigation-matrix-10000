@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huludao-nav.pages.dev/sitemap.xml

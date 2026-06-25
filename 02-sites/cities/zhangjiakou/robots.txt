@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhangjiakou-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiadianqingxi-nav.pages.dev/sitemap.xml

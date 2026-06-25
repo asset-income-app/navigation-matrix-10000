@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "动漫",
+  "cityName": "德州",
+  "siteTitle": "德州动漫导航 - 德州动漫最全网站导航",
+  "siteDescription": "德州动漫导航站，汇集德州动漫最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-orange",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "德州动漫搜索",
+          "url": "https://www.baidu.com/s?wd=德州动漫",
+          "desc": "搜索德州动漫相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "德州本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "德州本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "动漫经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=动漫",
+          "desc": "动漫视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "动漫经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=动漫工具",
+          "desc": "搜索动漫相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "动漫工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "动漫交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "动漫分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "动漫贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=动漫",
+          "desc": "动漫热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=德州动漫",
+          "desc": "搜索德州动漫相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=德州动漫",
+          "desc": "德州动漫视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=德州动漫",
+          "desc": "德州动漫热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 29.91,
+      "lng": 74.91,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "德州",
+      "geo.position": "29.91;74.91",
+      "ICBM": "29.91, 74.91",
+      "geo.latitude": 29.91,
+      "geo.longitude": 74.91,
+      "geo.city": "德州",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "德州导航",
+      "德州网站",
+      "德州网址",
+      "德州本地服务",
+      "德州生活指南",
+      "德州便民服务",
+      "德州信息查询",
+      "德州在线服务",
+      "德州动漫",
+      "动漫德州"
+    ]
+  }
+}

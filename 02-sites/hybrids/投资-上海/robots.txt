@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://投资-上海.pages.dev/sitemap.xml

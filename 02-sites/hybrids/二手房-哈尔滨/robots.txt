@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://二手房-哈尔滨-nav.pages.dev/sitemap.xml

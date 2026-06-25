@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hushi-nav.pages.dev/sitemap.xml

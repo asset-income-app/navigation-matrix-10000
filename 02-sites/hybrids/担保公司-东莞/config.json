@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "担保公司",
+  "cityName": "东莞",
+  "siteTitle": "东莞担保公司导航 - 东莞担保公司最全网站导航",
+  "siteDescription": "东莞担保公司导航站，汇集东莞担保公司最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-blue",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "东莞担保公司搜索",
+          "url": "https://www.baidu.com/s?wd=东莞担保公司",
+          "desc": "搜索东莞担保公司相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "东莞本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "东莞本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "担保公司经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=担保公司",
+          "desc": "担保公司视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "担保公司经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=担保公司工具",
+          "desc": "搜索担保公司相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "担保公司工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "担保公司交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "担保公司分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "担保公司贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=担保公司",
+          "desc": "担保公司热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=东莞担保公司",
+          "desc": "搜索东莞担保公司相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=东莞担保公司",
+          "desc": "东莞担保公司视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=东莞担保公司",
+          "desc": "东莞担保公司热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 23.0207,
+      "lng": 113.7518,
+      "region": "华南",
+      "province": "广东省"
+    },
+    "meta": {
+      "geo.region": "CN-广东省",
+      "geo.placename": "东莞",
+      "geo.position": "23.0207;113.7518",
+      "ICBM": "23.0207, 113.7518",
+      "geo.latitude": 23.0207,
+      "geo.longitude": 113.7518,
+      "geo.city": "东莞",
+      "geo.province": "广东省",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "东莞导航",
+      "东莞网站",
+      "东莞网址",
+      "东莞本地服务",
+      "东莞生活指南",
+      "东莞便民服务",
+      "东莞信息查询",
+      "东莞在线服务",
+      "东莞担保公司",
+      "担保公司东莞"
+    ]
+  }
+}

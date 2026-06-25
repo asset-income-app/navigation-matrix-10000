@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://仓库-海口-nav.pages.dev/sitemap.xml

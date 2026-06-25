@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://瓷砖-安顺-nav.pages.dev/sitemap.xml

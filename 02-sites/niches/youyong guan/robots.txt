@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://youyong guan-nav.pages.dev/sitemap.xml

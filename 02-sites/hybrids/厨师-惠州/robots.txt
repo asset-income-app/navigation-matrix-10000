@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://厨师-惠州-nav.pages.dev/sitemap.xml

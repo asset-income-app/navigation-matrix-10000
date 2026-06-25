@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://茶饮-哈尔滨-nav.pages.dev/sitemap.xml

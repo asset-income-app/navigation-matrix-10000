@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>厨师导航 - 最全的厨师网站导航</title>
+    <meta name="description" content="厨师导航站，汇集厨师最优质的官方网站和资源，一站式满足您的所有需求。">
+    <meta name="keywords" content="厨师导航,厨师网站,厨师网址大全">
+    <meta property="og:title" content="厨师导航 - 最全的厨师网站导航">
+    <meta property="og:description" content="厨师导航站，汇集厨师最优质的官方网站和资源，一站式满足您的所有需求。">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏷️</text></svg>">
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-inner">
+            <div class="logo-area">
+                <span class="logo-icon">🏷️</span>
+                <h1 class="site-title">厨师</h1>
+            </div>
+            <nav class="header-nav">
+                <a href="https://daohangbaike-nav.pages.dev" class="hub-link" target="_blank">导航百科</a>
+            </nav>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索链接..." oninput="filterLinks()">
+            </div>
+        </div>
+    </header>
+
+    <div class="ad-banner top-banner" id="topAdBanner">
+        <span>📢 接广告，低至3毛一天</span>
+        <a href="mailto:931249697@qq.com?subject=广告投放咨询" class="ad-contact-btn">联系投放</a>
+    </div>
+
+    <main class="main-content">
+        <div class="content-wrapper">
+            <div class="categories-grid" id="categoriesGrid">
+                <!-- 分类由JS动态生成 -->
+            </div>
+            <aside class="sidebar">
+                <div class="ad-slot sidebar-ad">
+                    <span>广告位</span>
+                    <a href="mailto:931249697@qq.com?subject=侧边栏广告">联系投放</a>
+                </div>
+                <div class="ad-slot sidebar-ad">
+                    <span>广告位</span>
+                    <a href="mailto:931249697@qq.com?subject=侧边栏广告">联系投放</a>
+                </div>
+                <div class="ad-slot sidebar-ad">
+                    <span>广告位</span>
+                    <a href="mailto:931249697@qq.com?subject=侧边栏广告">联系投放</a>
+                </div>
+                <div class="contact-card">
+                    <h3>联系我们</h3>
+                    <p>邮箱: 931249697@qq.com</p>
+                    <p>QQ: 931249697</p>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <div class="ad-banner bottom-banner">
+        <span>📢 接广告，低至3毛一天</span>
+        <a href="mailto:931249697@qq.com?subject=广告投放咨询" class="ad-contact-btn">联系投放</a>
+    </div>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-links">
+                <a href="https://daohangbaike-nav.pages.dev" target="_blank">导航百科</a>
+                <span>|</span>
+                <a href="mailto:931249697@qq.com">联系邮箱</a>
+                <span>|</span>
+                <span>QQ: 931249697</span>
+            </div>
+            <p class="footer-disclaimer">本站仅提供链接跳转服务，所有内容归原网站所有</p>
+            <p class="footer-copyright">© 2026 厨师. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <button id="backToTop" onclick="scrollToTop()" title="回到顶部">↑</button>
+
+    <script>
+        window.__SITE_CONFIG__ = {"siteType": "niche", "nicheName": "厨师", "nichePinyin": "chushi", "siteTitle": "厨师导航 - 最全的厨师网站导航", "siteDescription": "厨师导航站，汇集厨师最优质的官方网站和资源，一站式满足您的所有需求。", "categories": [{"name": "官方网站", "links": [{"name": "中国烹饪协会", "url": "https://www.cca.org.cn/", "desc": "烹饪行业组织"}, {"name": "下厨房", "url": "https://www.xiachufang.com/", "desc": "美食菜谱平台"}]}, {"name": "学习资源", "links": [{"name": "下厨房", "url": "https://www.xiachufang.com/", "desc": "菜谱学习平台"}, {"name": "B站厨师", "url": "https://www.bilibili.com/", "desc": "免费烹饪视频"}, {"name": "小红书厨师", "url": "https://www.xiaohongshu.com/", "desc": "烹饪技巧分享"}, {"name": "美食天下", "url": "https://www.meishichina.com/", "desc": "美食菜谱网站"}]}, {"name": "工具软件", "links": [{"name": "下厨房APP", "url": "https://www.xiachufang.com/", "desc": "菜谱学习APP"}, {"name": "豆果美食APP", "url": "https://www.douguo.com/", "desc": "美食菜谱APP"}]}, {"name": "社区论坛", "links": [{"name": "下厨房社区", "url": "https://www.xiachufang.com/", "desc": "烹饪交流社区"}, {"name": "知乎厨师话题", "url": "https://www.zhihu.com/", "desc": "厨师经验问答"}]}, {"name": "资讯媒体", "links": [{"name": "中国烹饪协会资讯", "url": "https://www.cca.org.cn/", "desc": "烹饪行业资讯"}, {"name": "红厨网", "url": "https://www.chuhoo.com/", "desc": "厨师行业新闻"}]}, {"name": "综合平台", "links": [{"name": "百度搜索厨师", "url": "https://www.baidu.com/s?wd=%E5%8E%A8%E5%B8%88", "desc": "百度搜索厨师相关信息"}, {"name": "B站厨师视频", "url": "https://search.bilibili.com/all?keyword=%E5%8E%A8%E5%B8%88", "desc": "B站厨师视频教程"}, {"name": "微博厨师", "url": "https://s.weibo.com/weibo?q=%E5%8E%A8%E5%B8%88", "desc": "微博厨师热门话题"}, {"name": "豆瓣厨师", "url": "https://www.douban.com/search?q=%E5%8E%A8%E5%B8%88", "desc": "豆瓣厨师相关内容"}, {"name": "微信厨师文章", "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8E%A8%E5%B8%88", "desc": "微信公众号厨师文章"}, {"name": "头条厨师", "url": "https://www.toutiao.com/search/?keyword=%E5%8E%A8%E5%B8%88", "desc": "今日头条厨师资讯"}, {"name": "抖音厨师", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88", "desc": "抖音厨师短视频"}, {"name": "淘宝厨师", "url": "https://s.taobao.com/search?q=%E5%8E%A8%E5%B8%88", "desc": "淘宝厨师相关商品"}, {"name": "京东厨师", "url": "https://search.jd.com/Search?keyword=%E5%8E%A8%E5%B8%88", "desc": "京东厨师相关商品"}, {"name": "拼多多厨师", "url": "https://www.pinduoduo.com/search?q=%E5%8E%A8%E5%B8%88", "desc": "拼多多厨师相关商品"}, {"name": "百度百科厨师", "url": "https://baike.baidu.com/item/%E5%8E%A8%E5%B8%88", "desc": "百度百科厨师词条"}, {"name": "维基百科厨师", "url": "https://zh.wikipedia.org/wiki/%E5%8E%A8%E5%B8%88", "desc": "维基百科厨师词条"}, {"name": "搜狗厨师", "url": "https://www.sogou.com/web?query=%E5%8E%A8%E5%B8%88", "desc": "搜狗搜索厨师"}, {"name": "360搜索搜索厨师教程", "url": "https://www.so.com/s?q=%E5%8E%A8%E5%B8%88%E6%95%99%E7%A8%8B", "desc": "360搜索厨师教程教程学习"}, {"name": "必应搜索厨师教程", "url": "https://www.bing.com/search?q=%E5%8E%A8%E5%B8%88%E6%95%99%E7%A8%8B", "desc": "必应厨师教程教程学习"}, {"name": "Google搜索厨师教程", "url": "https://www.google.com/search?q=%E5%8E%A8%E5%B8%88%E6%95%99%E7%A8%8B", "desc": "Google厨师教程教程学习"}]}, {"name": "知识社区", "links": [{"name": "知乎·厨师", "url": "https://www.zhihu.com/search?type=content&q=%E5%8E%A8%E5%B8%88", "desc": "在知乎搜索厨师综合信息"}]}, {"name": "生活社区", "links": [{"name": "小红书·厨师", "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%A8%E5%B8%88", "desc": "在小红书搜索厨师综合信息"}]}, {"name": "短视频", "links": [{"name": "抖音·厨师教程", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E6%95%99%E7%A8%8B", "desc": "在抖音搜索厨师教程教程学习"}, {"name": "抖音·厨师入门", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E5%85%A5%E9%97%A8", "desc": "在抖音搜索厨师入门入门指南"}, {"name": "抖音·厨师学习", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E5%AD%A6%E4%B9%A0", "desc": "在抖音搜索厨师学习学习资源"}, {"name": "抖音·厨师培训", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E5%9F%B9%E8%AE%AD", "desc": "在抖音搜索厨师培训培训课程"}, {"name": "抖音·厨师论坛", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E8%AE%BA%E5%9D%9B", "desc": "在抖音搜索厨师论坛论坛社区"}, {"name": "抖音·厨师社区", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E7%A4%BE%E5%8C%BA", "desc": "在抖音搜索厨师社区社区交流"}, {"name": "抖音·厨师工具", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E5%B7%A5%E5%85%B7", "desc": "在抖音搜索厨师工具工具软件"}, {"name": "抖音·厨师软件", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E8%BD%AF%E4%BB%B6", "desc": "在抖音搜索厨师软件软件推荐"}, {"name": "抖音·厨师资料", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E8%B5%84%E6%96%99", "desc": "在抖音搜索厨师资料资料下载"}, {"name": "抖音·厨师视频", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E8%A7%86%E9%A2%91", "desc": "在抖音搜索厨师视频视频教程"}, {"name": "抖音·厨师书籍", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E4%B9%A6%E7%B1%8D", "desc": "在抖音搜索厨师书籍书籍推荐"}, {"name": "抖音·厨师考试", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E8%80%83%E8%AF%95", "desc": "在抖音搜索厨师考试考试信息"}, {"name": "抖音·厨师招聘", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E6%8B%9B%E8%81%98", "desc": "在抖音搜索厨师招聘招聘信息"}, {"name": "抖音·厨师排名", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E6%8E%92%E5%90%8D", "desc": "在抖音搜索厨师排名排名推荐"}, {"name": "抖音·厨师攻略", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E6%94%BB%E7%95%A5", "desc": "在抖音搜索厨师攻略攻略指南"}, {"name": "抖音·厨师技巧", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E6%8A%80%E5%B7%A7", "desc": "在抖音搜索厨师技巧技巧方法"}, {"name": "抖音·厨师APP", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88APP", "desc": "在抖音搜索厨师APP手机应用"}, {"name": "抖音·厨师网站", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E7%BD%91%E7%AB%99", "desc": "在抖音搜索厨师网站网站推荐"}, {"name": "抖音·厨师免费", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E5%85%8D%E8%B4%B9", "desc": "在抖音搜索厨师免费免费资源"}]}, {"name": "更多搜索", "links": [{"name": "百度·厨师怎么学", "url": "https://www.baidu.com/s?wd=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在百度搜索厨师怎么学"}, {"name": "知乎·厨师怎么学", "url": "https://www.zhihu.com/search?type=content&q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在知乎搜索厨师怎么学"}, {"name": "B站·厨师怎么学", "url": "https://search.bilibili.com/all?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在B站搜索厨师怎么学"}, {"name": "小红书·厨师怎么学", "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在小红书搜索厨师怎么学"}, {"name": "微信·厨师怎么学", "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在微信搜索厨师怎么学"}, {"name": "头条·厨师怎么学", "url": "https://www.toutiao.com/search/?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在头条搜索厨师怎么学"}, {"name": "抖音·厨师怎么学", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在抖音搜索厨师怎么学"}, {"name": "豆瓣·厨师怎么学", "url": "https://www.douban.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在豆瓣搜索厨师怎么学"}, {"name": "淘宝·厨师怎么学", "url": "https://s.taobao.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在淘宝搜索厨师怎么学"}, {"name": "京东·厨师怎么学", "url": "https://search.jd.com/Search?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在京东搜索厨师怎么学"}, {"name": "360搜索·厨师怎么学", "url": "https://www.so.com/s?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在360搜索搜索厨师怎么学"}, {"name": "必应·厨师怎么学", "url": "https://www.bing.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在必应搜索厨师怎么学"}, {"name": "搜狗·厨师怎么学", "url": "https://www.sogou.com/web?query=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在搜狗搜索厨师怎么学"}, {"name": "微博·厨师怎么学", "url": "https://s.weibo.com/weibo?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在微博搜索厨师怎么学"}, {"name": "喜马拉雅·厨师怎么学", "url": "https://www.ximalaya.com/search/%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在喜马拉雅搜索厨师怎么学"}, {"name": "CSDN·厨师怎么学", "url": "https://so.csdn.net/so/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在CSDN搜索厨师怎么学"}, {"name": "掘金·厨师怎么学", "url": "https://juejin.cn/search?query=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在掘金搜索厨师怎么学"}, {"name": "简书·厨师怎么学", "url": "https://www.jianshu.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在简书搜索厨师怎么学"}, {"name": "百度贴吧·厨师怎么学", "url": "https://tieba.baidu.com/f?kw=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在百度贴吧搜索厨师怎么学"}, {"name": "知乎专栏·厨师怎么学", "url": "https://zhuanlan.zhihu.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E5%AD%A6", "desc": "在知乎专栏搜索厨师怎么学"}, {"name": "百度·厨师怎么考", "url": "https://www.baidu.com/s?wd=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在百度搜索厨师怎么考"}, {"name": "知乎·厨师怎么考", "url": "https://www.zhihu.com/search?type=content&q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在知乎搜索厨师怎么考"}, {"name": "B站·厨师怎么考", "url": "https://search.bilibili.com/all?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在B站搜索厨师怎么考"}, {"name": "小红书·厨师怎么考", "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在小红书搜索厨师怎么考"}, {"name": "微信·厨师怎么考", "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在微信搜索厨师怎么考"}, {"name": "头条·厨师怎么考", "url": "https://www.toutiao.com/search/?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在头条搜索厨师怎么考"}, {"name": "抖音·厨师怎么考", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在抖音搜索厨师怎么考"}, {"name": "豆瓣·厨师怎么考", "url": "https://www.douban.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在豆瓣搜索厨师怎么考"}, {"name": "淘宝·厨师怎么考", "url": "https://s.taobao.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在淘宝搜索厨师怎么考"}, {"name": "京东·厨师怎么考", "url": "https://search.jd.com/Search?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在京东搜索厨师怎么考"}, {"name": "360搜索·厨师怎么考", "url": "https://www.so.com/s?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在360搜索搜索厨师怎么考"}, {"name": "必应·厨师怎么考", "url": "https://www.bing.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在必应搜索厨师怎么考"}, {"name": "搜狗·厨师怎么考", "url": "https://www.sogou.com/web?query=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在搜狗搜索厨师怎么考"}, {"name": "微博·厨师怎么考", "url": "https://s.weibo.com/weibo?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在微博搜索厨师怎么考"}, {"name": "喜马拉雅·厨师怎么考", "url": "https://www.ximalaya.com/search/%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在喜马拉雅搜索厨师怎么考"}, {"name": "CSDN·厨师怎么考", "url": "https://so.csdn.net/so/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在CSDN搜索厨师怎么考"}, {"name": "掘金·厨师怎么考", "url": "https://juejin.cn/search?query=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在掘金搜索厨师怎么考"}, {"name": "简书·厨师怎么考", "url": "https://www.jianshu.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在简书搜索厨师怎么考"}, {"name": "百度贴吧·厨师怎么考", "url": "https://tieba.baidu.com/f?kw=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在百度贴吧搜索厨师怎么考"}, {"name": "知乎专栏·厨师怎么考", "url": "https://zhuanlan.zhihu.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E8%80%83", "desc": "在知乎专栏搜索厨师怎么考"}, {"name": "百度·厨师怎么报名", "url": "https://www.baidu.com/s?wd=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在百度搜索厨师怎么报名"}, {"name": "知乎·厨师怎么报名", "url": "https://www.zhihu.com/search?type=content&q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在知乎搜索厨师怎么报名"}, {"name": "B站·厨师怎么报名", "url": "https://search.bilibili.com/all?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在B站搜索厨师怎么报名"}, {"name": "小红书·厨师怎么报名", "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在小红书搜索厨师怎么报名"}, {"name": "微信·厨师怎么报名", "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在微信搜索厨师怎么报名"}, {"name": "头条·厨师怎么报名", "url": "https://www.toutiao.com/search/?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在头条搜索厨师怎么报名"}, {"name": "抖音·厨师怎么报名", "url": "https://www.douyin.com/search/%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在抖音搜索厨师怎么报名"}, {"name": "豆瓣·厨师怎么报名", "url": "https://www.douban.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在豆瓣搜索厨师怎么报名"}, {"name": "淘宝·厨师怎么报名", "url": "https://s.taobao.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在淘宝搜索厨师怎么报名"}, {"name": "京东·厨师怎么报名", "url": "https://search.jd.com/Search?keyword=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在京东搜索厨师怎么报名"}, {"name": "360搜索·厨师怎么报名", "url": "https://www.so.com/s?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在360搜索搜索厨师怎么报名"}, {"name": "必应·厨师怎么报名", "url": "https://www.bing.com/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在必应搜索厨师怎么报名"}, {"name": "搜狗·厨师怎么报名", "url": "https://www.sogou.com/web?query=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在搜狗搜索厨师怎么报名"}, {"name": "微博·厨师怎么报名", "url": "https://s.weibo.com/weibo?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在微博搜索厨师怎么报名"}, {"name": "喜马拉雅·厨师怎么报名", "url": "https://www.ximalaya.com/search/%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在喜马拉雅搜索厨师怎么报名"}, {"name": "CSDN·厨师怎么报名", "url": "https://so.csdn.net/so/search?q=%E5%8E%A8%E5%B8%88%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D", "desc": "在CSDN搜索厨师怎么报名"}]}]};
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://地毯-黄冈-nav.pages.dev/sitemap.xml

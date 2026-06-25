@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://搬家货运-广州.pages.dev/sitemap.xml

@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "仲裁机构",
+  "nichePinyin": "zhongcai jiguan",
+  "siteTitle": "仲裁机构导航 - 最全的仲裁机构网站导航",
+  "siteDescription": "仲裁机构导航站，汇集仲裁机构最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=仲裁机构",
+          "desc": "搜索仲裁机构相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "仲裁机构经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "仲裁机构经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=仲裁机构",
+          "desc": "仲裁机构视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "仲裁机构问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "仲裁机构交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=仲裁机构工具",
+          "desc": "搜索仲裁机构相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "仲裁机构工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "仲裁机构交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "仲裁机构分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "仲裁机构贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=仲裁机构",
+          "desc": "百度搜索仲裁机构相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=仲裁机构",
+          "desc": "B站仲裁机构视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=仲裁机构",
+          "desc": "微博仲裁机构热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 19.93,
+      "lng": 86.93,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "仲裁机构 - 最全的仲裁机构网站",
+      "geo.position": "19.93;86.93",
+      "ICBM": "19.93, 86.93",
+      "geo.latitude": 19.93,
+      "geo.longitude": 86.93,
+      "geo.city": "仲裁机构 - 最全的仲裁机构网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "仲裁机构 - 最全的仲裁机构网站导航",
+      "仲裁机构 - 最全的仲裁机构网站网站",
+      "仲裁机构 - 最全的仲裁机构网站网址",
+      "仲裁机构 - 最全的仲裁机构网站本地服务",
+      "仲裁机构 - 最全的仲裁机构网站生活指南",
+      "仲裁机构 - 最全的仲裁机构网站便民服务",
+      "仲裁机构 - 最全的仲裁机构网站信息查询",
+      "仲裁机构 - 最全的仲裁机构网站在线服务"
+    ]
+  }
+}

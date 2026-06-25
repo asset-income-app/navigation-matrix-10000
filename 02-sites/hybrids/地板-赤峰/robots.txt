@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://地板-赤峰-nav.pages.dev/sitemap.xml

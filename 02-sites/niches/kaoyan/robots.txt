@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaoyan-nav.pages.dev/sitemap.xml

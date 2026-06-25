@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yaodian-nav.pages.dev/sitemap.xml

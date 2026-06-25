@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hebi-nav.pages.dev/sitemap.xml

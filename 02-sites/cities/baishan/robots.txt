@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baishan-nav.pages.dev/sitemap.xml

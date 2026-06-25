@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "锦州导航",
+  "description": "锦州本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "锦州",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.26,
+    "longitude": 111.26
+  },
+  "url": "https://city-锦州.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "锦州"
+  }
+}

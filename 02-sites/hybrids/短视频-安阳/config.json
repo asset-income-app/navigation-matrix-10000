@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "短视频",
+  "cityName": "安阳",
+  "siteTitle": "安阳短视频导航 - 安阳短视频最全网站导航",
+  "siteDescription": "安阳短视频导航站，汇集安阳短视频最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-orange",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "安阳短视频搜索",
+          "url": "https://www.baidu.com/s?wd=安阳短视频",
+          "desc": "搜索安阳短视频相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "安阳本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "安阳本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "短视频经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=短视频",
+          "desc": "短视频视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "短视频经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=短视频工具",
+          "desc": "搜索短视频相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "短视频工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "短视频交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "短视频分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "短视频贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=短视频",
+          "desc": "短视频热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=安阳短视频",
+          "desc": "搜索安阳短视频相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=安阳短视频",
+          "desc": "安阳短视频视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=安阳短视频",
+          "desc": "安阳短视频热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 34.6,
+      "lng": 111.6,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "安阳",
+      "geo.position": "34.6;111.6",
+      "ICBM": "34.6, 111.6",
+      "geo.latitude": 34.6,
+      "geo.longitude": 111.6,
+      "geo.city": "安阳",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "安阳导航",
+      "安阳网站",
+      "安阳网址",
+      "安阳本地服务",
+      "安阳生活指南",
+      "安阳便民服务",
+      "安阳信息查询",
+      "安阳在线服务",
+      "安阳短视频",
+      "短视频安阳"
+    ]
+  }
+}

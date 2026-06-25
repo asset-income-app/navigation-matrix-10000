@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiaofeidai-nav.pages.dev/sitemap.xml

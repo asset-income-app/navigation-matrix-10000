@@ -1,0 +1,609 @@
+{
+  "siteType": "niche",
+  "nicheName": "维修",
+  "nichePinyin": "weixiu",
+  "siteTitle": "维修导航 - 最全的维修网站导航",
+  "siteDescription": "维修导航站，汇集维修最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "中国维修行业协会",
+          "url": "https://www.zhihu.com/",
+          "desc": "维修行业组织"
+        },
+        {
+          "name": "58同城维修",
+          "url": "https://www.58.com/",
+          "desc": "维修服务平台"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站维修",
+          "url": "https://www.bilibili.com/",
+          "desc": "免费维修视频"
+        },
+        {
+          "name": "知乎维修话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "维修经验问答"
+        },
+        {
+          "name": "iFixit",
+          "url": "https://www.ifixit.com/",
+          "desc": "维修教程网站"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "58同城APP",
+          "url": "https://www.58.com/",
+          "desc": "维修服务APP"
+        },
+        {
+          "name": "iFixit",
+          "url": "https://www.ifixit.com/",
+          "desc": "维修指南工具"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎维修话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "维修交流社区"
+        },
+        {
+          "name": "iFixit社区",
+          "url": "https://www.ifixit.com/",
+          "desc": "维修交流社区"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "iFixit资讯",
+          "url": "https://www.ifixit.com/",
+          "desc": "维修行业资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索维修",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%B4%E4%BF%AE",
+          "desc": "百度搜索维修相关信息"
+        },
+        {
+          "name": "B站维修视频",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E4%BF%AE",
+          "desc": "B站维修视频教程"
+        },
+        {
+          "name": "小红书维修",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BB%B4%E4%BF%AE",
+          "desc": "小红书维修经验分享"
+        },
+        {
+          "name": "微博维修",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%B4%E4%BF%AE",
+          "desc": "微博维修热门话题"
+        },
+        {
+          "name": "豆瓣维修",
+          "url": "https://www.douban.com/search?q=%E7%BB%B4%E4%BF%AE",
+          "desc": "豆瓣维修相关内容"
+        },
+        {
+          "name": "微信维修文章",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BB%B4%E4%BF%AE",
+          "desc": "微信公众号维修文章"
+        },
+        {
+          "name": "头条维修",
+          "url": "https://www.toutiao.com/search/?keyword=%E7%BB%B4%E4%BF%AE",
+          "desc": "今日头条维修资讯"
+        },
+        {
+          "name": "抖音维修",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE",
+          "desc": "抖音维修短视频"
+        },
+        {
+          "name": "淘宝维修",
+          "url": "https://s.taobao.com/search?q=%E7%BB%B4%E4%BF%AE",
+          "desc": "淘宝维修相关商品"
+        },
+        {
+          "name": "京东维修",
+          "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E4%BF%AE",
+          "desc": "京东维修相关商品"
+        },
+        {
+          "name": "拼多多维修",
+          "url": "https://www.pinduoduo.com/search?q=%E7%BB%B4%E4%BF%AE",
+          "desc": "拼多多维修相关商品"
+        },
+        {
+          "name": "百度百科维修",
+          "url": "https://baike.baidu.com/item/%E7%BB%B4%E4%BF%AE",
+          "desc": "百度百科维修词条"
+        },
+        {
+          "name": "维基百科维修",
+          "url": "https://zh.wikipedia.org/wiki/%E7%BB%B4%E4%BF%AE",
+          "desc": "维基百科维修词条"
+        },
+        {
+          "name": "搜狗维修",
+          "url": "https://www.sogou.com/web?query=%E7%BB%B4%E4%BF%AE",
+          "desc": "搜狗搜索维修"
+        },
+        {
+          "name": "360搜索搜索维修教程",
+          "url": "https://www.so.com/s?q=%E7%BB%B4%E4%BF%AE%E6%95%99%E7%A8%8B",
+          "desc": "360搜索维修教程教程学习"
+        },
+        {
+          "name": "必应搜索维修教程",
+          "url": "https://www.bing.com/search?q=%E7%BB%B4%E4%BF%AE%E6%95%99%E7%A8%8B",
+          "desc": "必应维修教程教程学习"
+        },
+        {
+          "name": "Google搜索维修教程",
+          "url": "https://www.google.com/search?q=%E7%BB%B4%E4%BF%AE%E6%95%99%E7%A8%8B",
+          "desc": "Google维修教程教程学习"
+        }
+      ]
+    },
+    {
+      "name": "知识社区",
+      "links": [
+        {
+          "name": "知乎·维修",
+          "url": "https://www.zhihu.com/search?type=content&q=%E7%BB%B4%E4%BF%AE",
+          "desc": "在知乎搜索维修综合信息"
+        }
+      ]
+    },
+    {
+      "name": "短视频",
+      "links": [
+        {
+          "name": "抖音·维修教程",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E6%95%99%E7%A8%8B",
+          "desc": "在抖音搜索维修教程教程学习"
+        },
+        {
+          "name": "抖音·维修入门",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E5%85%A5%E9%97%A8",
+          "desc": "在抖音搜索维修入门入门指南"
+        },
+        {
+          "name": "抖音·维修学习",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E5%AD%A6%E4%B9%A0",
+          "desc": "在抖音搜索维修学习学习资源"
+        },
+        {
+          "name": "抖音·维修培训",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E5%9F%B9%E8%AE%AD",
+          "desc": "在抖音搜索维修培训培训课程"
+        },
+        {
+          "name": "抖音·维修论坛",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E8%AE%BA%E5%9D%9B",
+          "desc": "在抖音搜索维修论坛论坛社区"
+        },
+        {
+          "name": "抖音·维修社区",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E7%A4%BE%E5%8C%BA",
+          "desc": "在抖音搜索维修社区社区交流"
+        },
+        {
+          "name": "抖音·维修工具",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E5%B7%A5%E5%85%B7",
+          "desc": "在抖音搜索维修工具工具软件"
+        },
+        {
+          "name": "抖音·维修软件",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E8%BD%AF%E4%BB%B6",
+          "desc": "在抖音搜索维修软件软件推荐"
+        },
+        {
+          "name": "抖音·维修资料",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E8%B5%84%E6%96%99",
+          "desc": "在抖音搜索维修资料资料下载"
+        },
+        {
+          "name": "抖音·维修视频",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E8%A7%86%E9%A2%91",
+          "desc": "在抖音搜索维修视频视频教程"
+        },
+        {
+          "name": "抖音·维修书籍",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E4%B9%A6%E7%B1%8D",
+          "desc": "在抖音搜索维修书籍书籍推荐"
+        },
+        {
+          "name": "抖音·维修考试",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E8%80%83%E8%AF%95",
+          "desc": "在抖音搜索维修考试考试信息"
+        },
+        {
+          "name": "抖音·维修招聘",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E6%8B%9B%E8%81%98",
+          "desc": "在抖音搜索维修招聘招聘信息"
+        },
+        {
+          "name": "抖音·维修排名",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E6%8E%92%E5%90%8D",
+          "desc": "在抖音搜索维修排名排名推荐"
+        },
+        {
+          "name": "抖音·维修攻略",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E6%94%BB%E7%95%A5",
+          "desc": "在抖音搜索维修攻略攻略指南"
+        },
+        {
+          "name": "抖音·维修技巧",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E6%8A%80%E5%B7%A7",
+          "desc": "在抖音搜索维修技巧技巧方法"
+        },
+        {
+          "name": "抖音·维修APP",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AEAPP",
+          "desc": "在抖音搜索维修APP手机应用"
+        },
+        {
+          "name": "抖音·维修网站",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E7%BD%91%E7%AB%99",
+          "desc": "在抖音搜索维修网站网站推荐"
+        },
+        {
+          "name": "抖音·维修免费",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E5%85%8D%E8%B4%B9",
+          "desc": "在抖音搜索维修免费免费资源"
+        }
+      ]
+    },
+    {
+      "name": "更多搜索",
+      "links": [
+        {
+          "name": "百度·维修怎么学",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度搜索维修怎么学"
+        },
+        {
+          "name": "知乎·维修怎么学",
+          "url": "https://www.zhihu.com/search?type=content&q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎搜索维修怎么学"
+        },
+        {
+          "name": "B站·维修怎么学",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在B站搜索维修怎么学"
+        },
+        {
+          "name": "小红书·维修怎么学",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在小红书搜索维修怎么学"
+        },
+        {
+          "name": "微信·维修怎么学",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微信搜索维修怎么学"
+        },
+        {
+          "name": "头条·维修怎么学",
+          "url": "https://www.toutiao.com/search/?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在头条搜索维修怎么学"
+        },
+        {
+          "name": "抖音·维修怎么学",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在抖音搜索维修怎么学"
+        },
+        {
+          "name": "豆瓣·维修怎么学",
+          "url": "https://www.douban.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在豆瓣搜索维修怎么学"
+        },
+        {
+          "name": "淘宝·维修怎么学",
+          "url": "https://s.taobao.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在淘宝搜索维修怎么学"
+        },
+        {
+          "name": "京东·维修怎么学",
+          "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在京东搜索维修怎么学"
+        },
+        {
+          "name": "360搜索·维修怎么学",
+          "url": "https://www.so.com/s?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在360搜索搜索维修怎么学"
+        },
+        {
+          "name": "必应·维修怎么学",
+          "url": "https://www.bing.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在必应搜索维修怎么学"
+        },
+        {
+          "name": "搜狗·维修怎么学",
+          "url": "https://www.sogou.com/web?query=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在搜狗搜索维修怎么学"
+        },
+        {
+          "name": "微博·维修怎么学",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微博搜索维修怎么学"
+        },
+        {
+          "name": "喜马拉雅·维修怎么学",
+          "url": "https://www.ximalaya.com/search/%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在喜马拉雅搜索维修怎么学"
+        },
+        {
+          "name": "CSDN·维修怎么学",
+          "url": "https://so.csdn.net/so/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在CSDN搜索维修怎么学"
+        },
+        {
+          "name": "掘金·维修怎么学",
+          "url": "https://juejin.cn/search?query=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在掘金搜索维修怎么学"
+        },
+        {
+          "name": "简书·维修怎么学",
+          "url": "https://www.jianshu.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在简书搜索维修怎么学"
+        },
+        {
+          "name": "百度贴吧·维修怎么学",
+          "url": "https://tieba.baidu.com/f?kw=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度贴吧搜索维修怎么学"
+        },
+        {
+          "name": "知乎专栏·维修怎么学",
+          "url": "https://zhuanlan.zhihu.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎专栏搜索维修怎么学"
+        },
+        {
+          "name": "百度·维修怎么考",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度搜索维修怎么考"
+        },
+        {
+          "name": "知乎·维修怎么考",
+          "url": "https://www.zhihu.com/search?type=content&q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎搜索维修怎么考"
+        },
+        {
+          "name": "B站·维修怎么考",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在B站搜索维修怎么考"
+        },
+        {
+          "name": "小红书·维修怎么考",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在小红书搜索维修怎么考"
+        },
+        {
+          "name": "微信·维修怎么考",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微信搜索维修怎么考"
+        },
+        {
+          "name": "头条·维修怎么考",
+          "url": "https://www.toutiao.com/search/?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在头条搜索维修怎么考"
+        },
+        {
+          "name": "抖音·维修怎么考",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在抖音搜索维修怎么考"
+        },
+        {
+          "name": "豆瓣·维修怎么考",
+          "url": "https://www.douban.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在豆瓣搜索维修怎么考"
+        },
+        {
+          "name": "淘宝·维修怎么考",
+          "url": "https://s.taobao.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在淘宝搜索维修怎么考"
+        },
+        {
+          "name": "京东·维修怎么考",
+          "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在京东搜索维修怎么考"
+        },
+        {
+          "name": "360搜索·维修怎么考",
+          "url": "https://www.so.com/s?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在360搜索搜索维修怎么考"
+        },
+        {
+          "name": "必应·维修怎么考",
+          "url": "https://www.bing.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在必应搜索维修怎么考"
+        },
+        {
+          "name": "搜狗·维修怎么考",
+          "url": "https://www.sogou.com/web?query=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在搜狗搜索维修怎么考"
+        },
+        {
+          "name": "微博·维修怎么考",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微博搜索维修怎么考"
+        },
+        {
+          "name": "喜马拉雅·维修怎么考",
+          "url": "https://www.ximalaya.com/search/%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在喜马拉雅搜索维修怎么考"
+        },
+        {
+          "name": "CSDN·维修怎么考",
+          "url": "https://so.csdn.net/so/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在CSDN搜索维修怎么考"
+        },
+        {
+          "name": "掘金·维修怎么考",
+          "url": "https://juejin.cn/search?query=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在掘金搜索维修怎么考"
+        },
+        {
+          "name": "简书·维修怎么考",
+          "url": "https://www.jianshu.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在简书搜索维修怎么考"
+        },
+        {
+          "name": "百度贴吧·维修怎么考",
+          "url": "https://tieba.baidu.com/f?kw=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度贴吧搜索维修怎么考"
+        },
+        {
+          "name": "知乎专栏·维修怎么考",
+          "url": "https://zhuanlan.zhihu.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎专栏搜索维修怎么考"
+        },
+        {
+          "name": "百度·维修怎么报名",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在百度搜索维修怎么报名"
+        },
+        {
+          "name": "知乎·维修怎么报名",
+          "url": "https://www.zhihu.com/search?type=content&q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在知乎搜索维修怎么报名"
+        },
+        {
+          "name": "B站·维修怎么报名",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在B站搜索维修怎么报名"
+        },
+        {
+          "name": "小红书·维修怎么报名",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在小红书搜索维修怎么报名"
+        },
+        {
+          "name": "微信·维修怎么报名",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在微信搜索维修怎么报名"
+        },
+        {
+          "name": "头条·维修怎么报名",
+          "url": "https://www.toutiao.com/search/?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在头条搜索维修怎么报名"
+        },
+        {
+          "name": "抖音·维修怎么报名",
+          "url": "https://www.douyin.com/search/%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在抖音搜索维修怎么报名"
+        },
+        {
+          "name": "豆瓣·维修怎么报名",
+          "url": "https://www.douban.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在豆瓣搜索维修怎么报名"
+        },
+        {
+          "name": "淘宝·维修怎么报名",
+          "url": "https://s.taobao.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在淘宝搜索维修怎么报名"
+        },
+        {
+          "name": "京东·维修怎么报名",
+          "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在京东搜索维修怎么报名"
+        },
+        {
+          "name": "360搜索·维修怎么报名",
+          "url": "https://www.so.com/s?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在360搜索搜索维修怎么报名"
+        },
+        {
+          "name": "必应·维修怎么报名",
+          "url": "https://www.bing.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在必应搜索维修怎么报名"
+        },
+        {
+          "name": "搜狗·维修怎么报名",
+          "url": "https://www.sogou.com/web?query=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在搜狗搜索维修怎么报名"
+        },
+        {
+          "name": "微博·维修怎么报名",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在微博搜索维修怎么报名"
+        },
+        {
+          "name": "喜马拉雅·维修怎么报名",
+          "url": "https://www.ximalaya.com/search/%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在喜马拉雅搜索维修怎么报名"
+        },
+        {
+          "name": "CSDN·维修怎么报名",
+          "url": "https://so.csdn.net/so/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在CSDN搜索维修怎么报名"
+        },
+        {
+          "name": "掘金·维修怎么报名",
+          "url": "https://juejin.cn/search?query=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在掘金搜索维修怎么报名"
+        },
+        {
+          "name": "简书·维修怎么报名",
+          "url": "https://www.jianshu.com/search?q=%E7%BB%B4%E4%BF%AE%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在简书搜索维修怎么报名"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 25.19,
+      "lng": 94.19,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "维修 - 最全的维修网站",
+      "geo.position": "25.19;94.19",
+      "ICBM": "25.19, 94.19",
+      "geo.latitude": 25.19,
+      "geo.longitude": 94.19,
+      "geo.city": "维修 - 最全的维修网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "维修 - 最全的维修网站导航",
+      "维修 - 最全的维修网站网站",
+      "维修 - 最全的维修网站网址",
+      "维修 - 最全的维修网站本地服务",
+      "维修 - 最全的维修网站生活指南",
+      "维修 - 最全的维修网站便民服务",
+      "维修 - 最全的维修网站信息查询",
+      "维修 - 最全的维修网站在线服务"
+    ]
+  }
+}

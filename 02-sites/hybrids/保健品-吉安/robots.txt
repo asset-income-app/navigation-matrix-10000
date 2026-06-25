@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健品-吉安-nav.pages.dev/sitemap.xml

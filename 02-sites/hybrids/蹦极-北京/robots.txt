@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://蹦极-北京-nav.pages.dev/sitemap.xml

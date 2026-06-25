@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "造价工程师导航 - 最全的造价工程师网站导航",
+  "description": "造价工程师导航站，汇集造价工程师最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "造价工程师 - 最全的造价工程师网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 44.78,
+    "longitude": 97.78
+  },
+  "url": "https://niche-造价工程师 - 最全的造价工程师网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "造价工程师 - 最全的造价工程师网站"
+  }
+}

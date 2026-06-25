@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://java-上海.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://财务报表-汉中-nav.pages.dev/sitemap.xml

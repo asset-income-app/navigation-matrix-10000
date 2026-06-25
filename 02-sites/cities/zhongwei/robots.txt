@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhongwei-nav.pages.dev/sitemap.xml

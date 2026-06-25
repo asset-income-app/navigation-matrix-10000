@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "房产评估",
+  "nichePinyin": "fangchan pinggu",
+  "siteTitle": "房产评估导航 - 最全的房产评估网站导航",
+  "siteDescription": "房产评估导航站，汇集房产评估最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=房产评估",
+          "desc": "搜索房产评估相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "房产评估经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "房产评估经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=房产评估",
+          "desc": "房产评估视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "房产评估问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "房产评估交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=房产评估工具",
+          "desc": "搜索房产评估相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "房产评估工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "房产评估交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "房产评估分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "房产评估贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=房产评估",
+          "desc": "百度搜索房产评估相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=房产评估",
+          "desc": "B站房产评估视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=房产评估",
+          "desc": "微博房产评估热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 50.24,
+      "lng": 129.24,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "房产评估 - 最全的房产评估网站",
+      "geo.position": "50.24;129.24",
+      "ICBM": "50.24, 129.24",
+      "geo.latitude": 50.24,
+      "geo.longitude": 129.24,
+      "geo.city": "房产评估 - 最全的房产评估网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "房产评估 - 最全的房产评估网站导航",
+      "房产评估 - 最全的房产评估网站网站",
+      "房产评估 - 最全的房产评估网站网址",
+      "房产评估 - 最全的房产评估网站本地服务",
+      "房产评估 - 最全的房产评估网站生活指南",
+      "房产评估 - 最全的房产评估网站便民服务",
+      "房产评估 - 最全的房产评估网站信息查询",
+      "房产评估 - 最全的房产评估网站在线服务"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健-长沙.pages.dev/sitemap.xml

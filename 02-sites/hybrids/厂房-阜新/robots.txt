@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://厂房-阜新-nav.pages.dev/sitemap.xml

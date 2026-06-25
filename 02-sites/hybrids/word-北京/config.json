@@ -1,0 +1,155 @@
+{
+  "siteType": "hybrid",
+  "cityName": "北京",
+  "nicheName": "Word",
+  "sitePinyin": "word-北京",
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "北京Word搜索",
+          "url": "https://www.baidu.com/s?wd=北京Word",
+          "desc": "搜索北京Word相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "北京本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "北京本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "Word经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=Word",
+          "desc": "Word视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "Word经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=Word工具",
+          "desc": "搜索Word相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "Word工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "Word交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "Word分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "Word贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=Word",
+          "desc": "Word热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=北京Word",
+          "desc": "搜索北京Word相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=北京Word",
+          "desc": "北京Word视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=北京Word",
+          "desc": "北京Word热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 39.9042,
+      "lng": 116.4074,
+      "region": "华北",
+      "province": "北京市"
+    },
+    "meta": {
+      "geo.region": "CN-北京市",
+      "geo.placename": "北京",
+      "geo.position": "39.9042;116.4074",
+      "ICBM": "39.9042, 116.4074",
+      "geo.latitude": 39.9042,
+      "geo.longitude": 116.4074,
+      "geo.city": "北京",
+      "geo.province": "北京市",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "北京导航",
+      "北京网站",
+      "北京网址",
+      "北京本地服务",
+      "北京生活指南",
+      "北京便民服务",
+      "北京信息查询",
+      "北京在线服务",
+      "北京Word",
+      "Word北京"
+    ]
+  }
+}

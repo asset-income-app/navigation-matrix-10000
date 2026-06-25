@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://编程-蚌埠-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://财产险-潮州-nav.pages.dev/sitemap.xml

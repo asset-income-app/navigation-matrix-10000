@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://短视频-重庆-nav.pages.dev/sitemap.xml

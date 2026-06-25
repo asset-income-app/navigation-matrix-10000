@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://冲浪-湖州-nav.pages.dev/sitemap.xml

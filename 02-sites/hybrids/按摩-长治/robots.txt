@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://按摩-长治.pages.dev/sitemap.xml

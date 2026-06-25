@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zijia you-nav.pages.dev/sitemap.xml

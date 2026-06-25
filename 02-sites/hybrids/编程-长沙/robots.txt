@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://编程-长沙-nav.pages.dev/sitemap.xml

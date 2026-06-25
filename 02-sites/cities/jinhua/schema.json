@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "金华导航",
+  "description": "金华本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "金华",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 39.01,
+    "longitude": 116.01
+  },
+  "url": "https://city-金华.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "金华"
+  }
+}

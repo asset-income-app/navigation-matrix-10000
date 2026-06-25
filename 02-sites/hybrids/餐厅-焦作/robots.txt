@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://餐厅-焦作-nav.pages.dev/sitemap.xml

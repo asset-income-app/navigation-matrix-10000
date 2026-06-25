@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "后端培训导航 - 最全的后端培训网站导航",
+  "description": "后端培训导航站，汇集后端培训最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "后端培训 - 最全的后端培训网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 32.62,
+    "longitude": 105.62
+  },
+  "url": "https://niche-后端培训 - 最全的后端培训网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "后端培训 - 最全的后端培训网站"
+  }
+}

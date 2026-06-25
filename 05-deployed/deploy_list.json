@@ -1,0 +1,2434 @@
+[
+  {
+    "name": "baoding",
+    "type": "cities",
+    "displayName": "\u4fdd\u5b9a",
+    "path": "02-sites\\cities\\baoding",
+    "url": "https://baoding-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "cangzhou",
+    "type": "cities",
+    "displayName": "\u6ca7\u5dde",
+    "path": "02-sites\\cities\\cangzhou",
+    "url": "https://cangzhou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "changde",
+    "type": "cities",
+    "displayName": "\u5e38\u5fb7",
+    "path": "02-sites\\cities\\changde",
+    "url": "https://changde-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "chuzhou",
+    "type": "cities",
+    "displayName": "\u6ec1\u5dde",
+    "path": "02-sites\\cities\\chuzhou",
+    "url": "https://chuzhou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "eerduosi",
+    "type": "cities",
+    "displayName": "\u9102\u5c14\u591a\u65af",
+    "path": "02-sites\\cities\\eerduosi",
+    "url": "https://eerduosi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "fuyang",
+    "type": "cities",
+    "displayName": "\u961c\u9633",
+    "path": "02-sites\\cities\\fuyang",
+    "url": "https://fuyang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "ganzhou",
+    "type": "cities",
+    "displayName": "\u8d63\u5dde",
+    "path": "02-sites\\cities\\ganzhou",
+    "url": "https://ganzhou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "guilin",
+    "type": "cities",
+    "displayName": "\u6842\u6797",
+    "path": "02-sites\\cities\\guilin",
+    "url": "https://guilin-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "haikou",
+    "type": "cities",
+    "displayName": "\u6d77\u53e3",
+    "path": "02-sites\\cities\\haikou",
+    "url": "https://haikou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "handan",
+    "type": "cities",
+    "displayName": "\u90af\u90f8",
+    "path": "02-sites\\cities\\handan",
+    "url": "https://handan-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "hengyang",
+    "type": "cities",
+    "displayName": "\u8861\u9633",
+    "path": "02-sites\\cities\\hengyang",
+    "url": "https://hengyang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "huaian",
+    "type": "cities",
+    "displayName": "\u6dee\u5b89",
+    "path": "02-sites\\cities\\huaian",
+    "url": "https://huaian-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "huzhou",
+    "type": "cities",
+    "displayName": "\u6e56\u5dde",
+    "path": "02-sites\\cities\\huzhou",
+    "url": "https://huzhou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jiangmen",
+    "type": "cities",
+    "displayName": "\u6c5f\u95e8",
+    "path": "02-sites\\cities\\jiangmen",
+    "url": "https://jiangmen-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jining",
+    "type": "cities",
+    "displayName": "\u6d4e\u5b81",
+    "path": "02-sites\\cities\\jining",
+    "url": "https://jining-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jiujiang",
+    "type": "cities",
+    "displayName": "\u4e5d\u6c5f",
+    "path": "02-sites\\cities\\jiujiang",
+    "url": "https://jiujiang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "langfang",
+    "type": "cities",
+    "displayName": "\u5eca\u574a",
+    "path": "02-sites\\cities\\langfang",
+    "url": "https://langfang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "lanzhou",
+    "type": "cities",
+    "displayName": "\u5170\u5dde",
+    "path": "02-sites\\cities\\lanzhou",
+    "url": "https://lanzhou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "lianyungang",
+    "type": "cities",
+    "displayName": "\u8fde\u4e91\u6e2f",
+    "path": "02-sites\\cities\\lianyungang",
+    "url": "https://lianyungang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "linyi",
+    "type": "cities",
+    "displayName": "\u4e34\u6c82",
+    "path": "02-sites\\cities\\linyi",
+    "url": "https://linyi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "linyi\u4e0a\u4f20\u5230\u6b64",
+    "type": "cities",
+    "displayName": "\u4e34\u6c82",
+    "path": "02-sites\\cities\\linyi\u4e0a\u4f20\u5230\u6b64",
+    "url": "https://linyi\u4e0a\u4f20\u5230\u6b64-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "liuzhou",
+    "type": "cities",
+    "displayName": "\u67f3\u5dde",
+    "path": "02-sites\\cities\\liuzhou",
+    "url": "https://liuzhou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "longyan",
+    "type": "cities",
+    "displayName": "\u9f99\u5ca9",
+    "path": "02-sites\\cities\\longyan",
+    "url": "https://longyan-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "luoyang",
+    "type": "cities",
+    "displayName": "\u6d1b\u9633",
+    "path": "02-sites\\cities\\luoyang",
+    "url": "https://luoyang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "mianyang",
+    "type": "cities",
+    "displayName": "\u7ef5\u9633",
+    "path": "02-sites\\cities\\mianyang",
+    "url": "https://mianyang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "nanyang",
+    "type": "cities",
+    "displayName": "\u5357\u9633",
+    "path": "02-sites\\cities\\nanyang",
+    "url": "https://nanyang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "ningde",
+    "type": "cities",
+    "displayName": "\u5b81\u5fb7",
+    "path": "02-sites\\cities\\ningde",
+    "url": "https://ningde-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "putian",
+    "type": "cities",
+    "displayName": "\u8386\u7530",
+    "path": "02-sites\\cities\\putian",
+    "url": "https://putian-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "shangrao",
+    "type": "cities",
+    "displayName": "\u4e0a\u9976",
+    "path": "02-sites\\cities\\shangrao",
+    "url": "https://shangrao-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "shantou",
+    "type": "cities",
+    "displayName": "\u6c55\u5934",
+    "path": "02-sites\\cities\\shantou",
+    "url": "https://shantou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "suqian",
+    "type": "cities",
+    "displayName": "\u5bbf\u8fc1",
+    "path": "02-sites\\cities\\suqian",
+    "url": "https://suqian-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "taizhou",
+    "type": "cities",
+    "displayName": "\u53f0\u5dde",
+    "path": "02-sites\\cities\\taizhou",
+    "url": "https://taizhou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "tangshan",
+    "type": "cities",
+    "displayName": "\u5510\u5c71",
+    "path": "02-sites\\cities\\tangshan",
+    "url": "https://tangshan-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "weifang",
+    "type": "cities",
+    "displayName": "\u6f4d\u574a",
+    "path": "02-sites\\cities\\weifang",
+    "url": "https://weifang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "weihai",
+    "type": "cities",
+    "displayName": "\u5a01\u6d77",
+    "path": "02-sites\\cities\\weihai",
+    "url": "https://weihai-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "wuhu",
+    "type": "cities",
+    "displayName": "\u829c\u6e56",
+    "path": "02-sites\\cities\\wuhu",
+    "url": "https://wuhu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "xiangyang",
+    "type": "cities",
+    "displayName": "\u8944\u9633",
+    "path": "02-sites\\cities\\xiangyang",
+    "url": "https://xiangyang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "xianyang",
+    "type": "cities",
+    "displayName": "\u54b8\u9633",
+    "path": "02-sites\\cities\\xianyang",
+    "url": "https://xianyang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "xinxiang",
+    "type": "cities",
+    "displayName": "\u65b0\u4e61",
+    "path": "02-sites\\cities\\xinxiang",
+    "url": "https://xinxiang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yancheng",
+    "type": "cities",
+    "displayName": "\u76d0\u57ce",
+    "path": "02-sites\\cities\\yancheng",
+    "url": "https://yancheng-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yibin",
+    "type": "cities",
+    "displayName": "\u5b9c\u5bbe",
+    "path": "02-sites\\cities\\yibin",
+    "url": "https://yibin-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yichang",
+    "type": "cities",
+    "displayName": "\u5b9c\u660c",
+    "path": "02-sites\\cities\\yichang",
+    "url": "https://yichang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yinchuan",
+    "type": "cities",
+    "displayName": "\u94f6\u5ddd",
+    "path": "02-sites\\cities\\yinchuan",
+    "url": "https://yinchuan-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yueyang",
+    "type": "cities",
+    "displayName": "\u5cb3\u9633",
+    "path": "02-sites\\cities\\yueyang",
+    "url": "https://yueyang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yulin",
+    "type": "cities",
+    "displayName": "\u6986\u6797",
+    "path": "02-sites\\cities\\yulin",
+    "url": "https://yulin-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhangzhou",
+    "type": "cities",
+    "displayName": "\u6f33\u5dde",
+    "path": "02-sites\\cities\\zhangzhou",
+    "url": "https://zhangzhou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhanjiang",
+    "type": "cities",
+    "displayName": "\u6e5b\u6c5f",
+    "path": "02-sites\\cities\\zhanjiang",
+    "url": "https://zhanjiang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhaoqing",
+    "type": "cities",
+    "displayName": "\u8087\u5e86",
+    "path": "02-sites\\cities\\zhaoqing",
+    "url": "https://zhaoqing-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhenjiang",
+    "type": "cities",
+    "displayName": "\u9547\u6c5f",
+    "path": "02-sites\\cities\\zhenjiang",
+    "url": "https://zhenjiang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhuzhou",
+    "type": "cities",
+    "displayName": "\u682a\u6d32",
+    "path": "02-sites\\cities\\zhuzhou",
+    "url": "https://zhuzhou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zibo",
+    "type": "cities",
+    "displayName": "\u6dc4\u535a",
+    "path": "02-sites\\cities\\zibo",
+    "url": "https://zibo-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zunyi",
+    "type": "cities",
+    "displayName": "\u9075\u4e49",
+    "path": "02-sites\\cities\\zunyi",
+    "url": "https://zunyi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "banjia",
+    "type": "niches",
+    "displayName": "\u642c\u5bb6",
+    "path": "02-sites\\niches\\banjia",
+    "url": "https://banjia-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "baojie",
+    "type": "niches",
+    "displayName": "\u4fdd\u6d01",
+    "path": "02-sites\\niches\\baojie",
+    "url": "https://baojie-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "baoxian",
+    "type": "niches",
+    "displayName": "\u4fdd\u9669",
+    "path": "02-sites\\niches\\baoxian",
+    "url": "https://baoxian-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "biancheng",
+    "type": "niches",
+    "displayName": "\u7f16\u7a0b",
+    "path": "02-sites\\niches\\biancheng",
+    "url": "https://biancheng-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "caishui",
+    "type": "niches",
+    "displayName": "\u8d22\u7a0e\u54a8\u8be2",
+    "path": "02-sites\\niches\\caishui",
+    "url": "https://caishui-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "chongwu",
+    "type": "niches",
+    "displayName": "\u5ba0\u7269",
+    "path": "02-sites\\niches\\chongwu",
+    "url": "https://chongwu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "chuangye",
+    "type": "niches",
+    "displayName": "\u521b\u4e1a",
+    "path": "02-sites\\niches\\chuangye",
+    "url": "https://chuangye-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "chujikuaiji",
+    "type": "niches",
+    "displayName": "\u521d\u7ea7\u4f1a\u8ba1",
+    "path": "02-sites\\niches\\chujikuaiji",
+    "url": "https://chujikuaiji-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "chushi",
+    "type": "niches",
+    "displayName": "\u53a8\u5e08",
+    "path": "02-sites\\niches\\chushi",
+    "url": "https://chushi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "cpa",
+    "type": "niches",
+    "displayName": "\u6ce8\u518c\u4f1a\u8ba1\u5e08",
+    "path": "02-sites\\niches\\cpa",
+    "url": "https://cpa-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "daikuan",
+    "type": "niches",
+    "displayName": "\u8d37\u6b3e",
+    "path": "02-sites\\niches\\daikuan",
+    "url": "https://daikuan-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "diangong",
+    "type": "niches",
+    "displayName": "\u7535\u5de5",
+    "path": "02-sites\\niches\\diangong",
+    "url": "https://diangong-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "dianshangyunying",
+    "type": "niches",
+    "displayName": "\u7535\u5546\u8fd0\u8425",
+    "path": "02-sites\\niches\\dianshangyunying",
+    "url": "https://dianshangyunying-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "dianzishu",
+    "type": "niches",
+    "displayName": "\u7535\u5b50\u4e66",
+    "path": "02-sites\\niches\\dianzishu",
+    "url": "https://dianzishu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "diaoyu",
+    "type": "niches",
+    "displayName": "\u9493\u9c7c",
+    "path": "02-sites\\niches\\diaoyu",
+    "url": "https://diaoyu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "dongman",
+    "type": "niches",
+    "displayName": "\u52a8\u6f2b",
+    "path": "02-sites\\niches\\dongman",
+    "url": "https://dongman-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "douyunyinying",
+    "type": "niches",
+    "displayName": "\u6296\u97f3\u8fd0\u8425",
+    "path": "02-sites\\niches\\douyunyinying",
+    "url": "https://douyunyinying-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "erjian",
+    "type": "niches",
+    "displayName": "\u4e8c\u7ea7\u5efa\u9020\u5e08",
+    "path": "02-sites\\niches\\erjian",
+    "url": "https://erjian-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "excel",
+    "type": "niches",
+    "displayName": "Excel",
+    "path": "02-sites\\niches\\excel",
+    "url": "https://excel-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "falv",
+    "type": "niches",
+    "displayName": "\u6cd5\u5f8b",
+    "path": "02-sites\\niches\\falv",
+    "url": "https://falv-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "falvzx",
+    "type": "niches",
+    "displayName": "\u6cd5\u5f8b\u54a8\u8be2",
+    "path": "02-sites\\niches\\falvzx",
+    "url": "https://falvzx-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "fangchan",
+    "type": "niches",
+    "displayName": "\u623f\u4ea7",
+    "path": "02-sites\\niches\\fangchan",
+    "url": "https://fangchan-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "fuye",
+    "type": "niches",
+    "displayName": "\u526f\u4e1a",
+    "path": "02-sites\\niches\\fuye",
+    "url": "https://fuye-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "gangqin",
+    "type": "niches",
+    "displayName": "\u94a2\u7434",
+    "path": "02-sites\\niches\\gangqin",
+    "url": "https://gangqin-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "gongwuyuan",
+    "type": "niches",
+    "displayName": "\u516c\u52a1\u5458\u8003\u8bd5",
+    "path": "02-sites\\niches\\gongwuyuan",
+    "url": "https://gongwuyuan-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "hangong",
+    "type": "niches",
+    "displayName": "\u710a\u5de5",
+    "path": "02-sites\\niches\\hangong",
+    "url": "https://hangong-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "huazhuang",
+    "type": "niches",
+    "displayName": "\u5316\u5986",
+    "path": "02-sites\\niches\\huazhuang",
+    "url": "https://huazhuang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "huihua",
+    "type": "niches",
+    "displayName": "\u7ed8\u753b",
+    "path": "02-sites\\niches\\huihua",
+    "url": "https://huihua-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "hunqing",
+    "type": "niches",
+    "displayName": "\u5a5a\u5e86",
+    "path": "02-sites\\niches\\hunqing",
+    "url": "https://hunqing-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "hushi",
+    "type": "niches",
+    "displayName": "\u62a4\u58eb\u8d44\u683c\u8bc1",
+    "path": "02-sites\\niches\\hushi",
+    "url": "https://hushi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "java",
+    "type": "niches",
+    "displayName": "Java",
+    "path": "02-sites\\niches\\java",
+    "url": "https://java-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jiaju",
+    "type": "niches",
+    "displayName": "\u5bb6\u5c45",
+    "path": "02-sites\\niches\\jiaju",
+    "url": "https://jiaju-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jianfei",
+    "type": "niches",
+    "displayName": "\u51cf\u80a5",
+    "path": "02-sites\\niches\\jianfei",
+    "url": "https://jianfei-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jianshen",
+    "type": "niches",
+    "displayName": "\u5065\u8eab",
+    "path": "02-sites\\niches\\jianshen",
+    "url": "https://jianshen-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jiaoshimianshi",
+    "type": "niches",
+    "displayName": "\u6559\u5e08\u8d44\u683c\u8bc1\u9762\u8bd5",
+    "path": "02-sites\\niches\\jiaoshimianshi",
+    "url": "https://jiaoshimianshi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jiaoshizige",
+    "type": "niches",
+    "displayName": "\u6559\u5e08\u8d44\u683c\u8bc1",
+    "path": "02-sites\\niches\\jiaoshizige",
+    "url": "https://jiaoshizige-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jiazheng",
+    "type": "niches",
+    "displayName": "\u5bb6\u653f",
+    "path": "02-sites\\niches\\jiazheng",
+    "url": "https://jiazheng-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "jita",
+    "type": "niches",
+    "displayName": "\u5409\u4ed6",
+    "path": "02-sites\\niches\\jita",
+    "url": "https://jita-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "kaoyan",
+    "type": "niches",
+    "displayName": "\u8003\u7814",
+    "path": "02-sites\\niches\\kaoyan",
+    "url": "https://kaoyan-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "kaoyanyingyu",
+    "type": "niches",
+    "displayName": "\u8003\u7814\u82f1\u8bed",
+    "path": "02-sites\\niches\\kaoyanyingyu",
+    "url": "https://kaoyanyingyu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "kaoyanzhengzhi",
+    "type": "niches",
+    "displayName": "\u8003\u7814\u653f\u6cbb",
+    "path": "02-sites\\niches\\kaoyanzhengzhi",
+    "url": "https://kaoyanzhengzhi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "kuaidi",
+    "type": "niches",
+    "displayName": "\u5feb\u9012",
+    "path": "02-sites\\niches\\kuaidi",
+    "url": "https://kuaidi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "kuaiji",
+    "type": "niches",
+    "displayName": "\u4f1a\u8ba1",
+    "path": "02-sites\\niches\\kuaiji",
+    "url": "https://kuaiji-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "lanqiu",
+    "type": "niches",
+    "displayName": "\u7bee\u7403",
+    "path": "02-sites\\niches\\lanqiu",
+    "url": "https://lanqiu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "lvyou",
+    "type": "niches",
+    "displayName": "\u65c5\u6e38",
+    "path": "02-sites\\niches\\lvyou",
+    "url": "https://lvyou-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "majiang",
+    "type": "niches",
+    "displayName": "\u9ebb\u5c06",
+    "path": "02-sites\\niches\\majiang",
+    "url": "https://majiang-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "meifa",
+    "type": "niches",
+    "displayName": "\u7f8e\u53d1",
+    "path": "02-sites\\niches\\meifa",
+    "url": "https://meifa-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "meijia",
+    "type": "niches",
+    "displayName": "\u7f8e\u7532",
+    "path": "02-sites\\niches\\meijia",
+    "url": "https://meijia-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "meirong",
+    "type": "niches",
+    "displayName": "\u7f8e\u5bb9",
+    "path": "02-sites\\niches\\meirong",
+    "url": "https://meirong-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "meishi",
+    "type": "niches",
+    "displayName": "\u7f8e\u98df",
+    "path": "02-sites\\niches\\meishi",
+    "url": "https://meishi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "muying",
+    "type": "niches",
+    "displayName": "\u6bcd\u5a74",
+    "path": "02-sites\\niches\\muying",
+    "url": "https://muying-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "paobu",
+    "type": "niches",
+    "displayName": "\u8dd1\u6b65",
+    "path": "02-sites\\niches\\paobu",
+    "url": "https://paobu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "pingpangqiu",
+    "type": "niches",
+    "displayName": "\u4e52\u4e53\u7403",
+    "path": "02-sites\\niches\\pingpangqiu",
+    "url": "https://pingpangqiu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "ppt",
+    "type": "niches",
+    "displayName": "PPT",
+    "path": "02-sites\\niches\\ppt",
+    "url": "https://ppt-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "puke",
+    "type": "niches",
+    "displayName": "\u6251\u514b",
+    "path": "02-sites\\niches\\puke",
+    "url": "https://puke-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "python",
+    "type": "niches",
+    "displayName": "Python",
+    "path": "02-sites\\niches\\python",
+    "url": "https://python-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "qianduan",
+    "type": "niches",
+    "displayName": "\u524d\u7aef\u5f00\u53d1",
+    "path": "02-sites\\niches\\qianduan",
+    "url": "https://qianduan-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "qiche",
+    "type": "niches",
+    "displayName": "\u6c7d\u8f66",
+    "path": "02-sites\\niches\\qiche",
+    "url": "https://qiche-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "seo",
+    "type": "niches",
+    "displayName": "SEO",
+    "path": "02-sites\\niches\\seo",
+    "url": "https://seo-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "shangbiao",
+    "type": "niches",
+    "displayName": "\u5546\u6807\u6ce8\u518c",
+    "path": "02-sites\\niches\\shangbiao",
+    "url": "https://shangbiao-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "sheji",
+    "type": "niches",
+    "displayName": "\u8bbe\u8ba1",
+    "path": "02-sites\\niches\\sheji",
+    "url": "https://sheji-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "sheying",
+    "type": "niches",
+    "displayName": "\u6444\u5f71",
+    "path": "02-sites\\niches\\sheying",
+    "url": "https://sheying-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "shiyedanwei",
+    "type": "niches",
+    "displayName": "\u4e8b\u4e1a\u5355\u4f4d\u8003\u8bd5",
+    "path": "02-sites\\niches\\shiyedanwei",
+    "url": "https://shiyedanwei-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "shougong",
+    "type": "niches",
+    "displayName": "\u624b\u5de5",
+    "path": "02-sites\\niches\\shougong",
+    "url": "https://shougong-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "shufa",
+    "type": "niches",
+    "displayName": "\u4e66\u6cd5",
+    "path": "02-sites\\niches\\shufa",
+    "url": "https://shufa-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "shuma",
+    "type": "niches",
+    "displayName": "\u6570\u7801",
+    "path": "02-sites\\niches\\shuma",
+    "url": "https://shuma-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "siji",
+    "type": "niches",
+    "displayName": "\u53f8\u673a",
+    "path": "02-sites\\niches\\siji",
+    "url": "https://siji-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "siliuji",
+    "type": "niches",
+    "displayName": "\u82f1\u8bed\u56db\u516d\u7ea7",
+    "path": "02-sites\\niches\\siliuji",
+    "url": "https://siliuji-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "touzi",
+    "type": "niches",
+    "displayName": "\u6295\u8d44\u7406\u8d22",
+    "path": "02-sites\\niches\\touzi",
+    "url": "https://touzi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "tuofu",
+    "type": "niches",
+    "displayName": "\u6258\u798f",
+    "path": "02-sites\\niches\\tuofu",
+    "url": "https://tuofu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "uisheji",
+    "type": "niches",
+    "displayName": "UI\u8bbe\u8ba1",
+    "path": "02-sites\\niches\\uisheji",
+    "url": "https://uisheji-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "waimai",
+    "type": "niches",
+    "displayName": "\u5916\u5356",
+    "path": "02-sites\\niches\\waimai",
+    "url": "https://waimai-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "weiqi",
+    "type": "niches",
+    "displayName": "\u56f4\u68cb",
+    "path": "02-sites\\niches\\weiqi",
+    "url": "https://weiqi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "weixiu",
+    "type": "niches",
+    "displayName": "\u7ef4\u4fee",
+    "path": "02-sites\\niches\\weixiu",
+    "url": "https://weixiu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "wenshen",
+    "type": "niches",
+    "displayName": "\u7eb9\u8eab",
+    "path": "02-sites\\niches\\wenshen",
+    "url": "https://wenshen-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "word",
+    "type": "niches",
+    "displayName": "Word",
+    "path": "02-sites\\niches\\word",
+    "url": "https://word-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "wudao",
+    "type": "niches",
+    "displayName": "\u821e\u8e48",
+    "path": "02-sites\\niches\\wudao",
+    "url": "https://wudao-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "xiangqi",
+    "type": "niches",
+    "displayName": "\u8c61\u68cb",
+    "path": "02-sites\\niches\\xiangqi",
+    "url": "https://xiangqi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "xiaohongshu",
+    "type": "niches",
+    "displayName": "\u5c0f\u7ea2\u4e66\u8fd0\u8425",
+    "path": "02-sites\\niches\\xiaohongshu",
+    "url": "https://xiaohongshu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "xinli",
+    "type": "niches",
+    "displayName": "\u5fc3\u7406\u54a8\u8be2",
+    "path": "02-sites\\niches\\xinli",
+    "url": "https://xinli-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "xinyongka",
+    "type": "niches",
+    "displayName": "\u4fe1\u7528\u5361",
+    "path": "02-sites\\niches\\xinyongka",
+    "url": "https://xinyongka-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yangsheng",
+    "type": "niches",
+    "displayName": "\u517b\u751f",
+    "path": "02-sites\\niches\\yangsheng",
+    "url": "https://yangsheng-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yasi",
+    "type": "niches",
+    "displayName": "\u96c5\u601d",
+    "path": "02-sites\\niches\\yasi",
+    "url": "https://yasi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yijian",
+    "type": "niches",
+    "displayName": "\u4e00\u7ea7\u5efa\u9020\u5e08",
+    "path": "02-sites\\niches\\yijian",
+    "url": "https://yijian-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yingshi",
+    "type": "niches",
+    "displayName": "\u5f71\u89c6",
+    "path": "02-sites\\niches\\yingshi",
+    "url": "https://yingshi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yinhangzhaopin",
+    "type": "niches",
+    "displayName": "\u94f6\u884c\u62db\u8058",
+    "path": "02-sites\\niches\\yinhangzhaopin",
+    "url": "https://yinhangzhaopin-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yinyue",
+    "type": "niches",
+    "displayName": "\u97f3\u4e50",
+    "path": "02-sites\\niches\\yinyue",
+    "url": "https://yinyue-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yishi",
+    "type": "niches",
+    "displayName": "\u533b\u5e08\u8d44\u683c\u8bc1",
+    "path": "02-sites\\niches\\yishi",
+    "url": "https://yishi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "youxi",
+    "type": "niches",
+    "displayName": "\u6e38\u620f",
+    "path": "02-sites\\niches\\youxi",
+    "url": "https://youxi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yuanyi",
+    "type": "niches",
+    "displayName": "\u56ed\u827a",
+    "path": "02-sites\\niches\\yuanyi",
+    "url": "https://yuanyi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yueqi",
+    "type": "niches",
+    "displayName": "\u4e50\u5668",
+    "path": "02-sites\\niches\\yueqi",
+    "url": "https://yueqi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yuer",
+    "type": "niches",
+    "displayName": "\u80b2\u513f",
+    "path": "02-sites\\niches\\yuer",
+    "url": "https://yuer-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yujia",
+    "type": "niches",
+    "displayName": "\u745c\u4f3d",
+    "path": "02-sites\\niches\\yujia",
+    "url": "https://yujia-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "yumaoqiu",
+    "type": "niches",
+    "displayName": "\u7fbd\u6bdb\u7403",
+    "path": "02-sites\\niches\\yumaoqiu",
+    "url": "https://yumaoqiu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhengxin",
+    "type": "niches",
+    "displayName": "\u5f81\u4fe1",
+    "path": "02-sites\\niches\\zhengxin",
+    "url": "https://zhengxin-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhongjikuaiji",
+    "type": "niches",
+    "displayName": "\u4e2d\u7ea7\u4f1a\u8ba1",
+    "path": "02-sites\\niches\\zhongjikuaiji",
+    "url": "https://zhongjikuaiji-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhongyi",
+    "type": "niches",
+    "displayName": "\u4e2d\u533b",
+    "path": "02-sites\\niches\\zhongyi",
+    "url": "https://zhongyi-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhuangxiu",
+    "type": "niches",
+    "displayName": "\u88c5\u4fee",
+    "path": "02-sites\\niches\\zhuangxiu",
+    "url": "https://zhuangxiu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zhuanli",
+    "type": "niches",
+    "displayName": "\u4e13\u5229\u7533\u8bf7",
+    "path": "02-sites\\niches\\zhuanli",
+    "url": "https://zhuanli-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  },
+  {
+    "name": "zuqiu",
+    "type": "niches",
+    "displayName": "\u8db3\u7403",
+    "path": "02-sites\\niches\\zuqiu",
+    "url": "https://zuqiu-nav.pages.dev",
+    "files": [
+      "config.json",
+      "index.html",
+      "robots.txt",
+      "script.js",
+      "sitemap.xml",
+      "style.css",
+      "_headers"
+    ]
+  }
+]

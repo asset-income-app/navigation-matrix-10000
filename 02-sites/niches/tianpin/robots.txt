@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tianpin-nav.pages.dev/sitemap.xml

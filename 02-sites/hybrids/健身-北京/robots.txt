@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://健身-北京.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://冲浪-焦作-nav.pages.dev/sitemap.xml

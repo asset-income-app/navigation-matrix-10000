@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "青年旅舍导航 - 最全的青年旅舍网站导航",
+  "description": "青年旅舍导航站，汇集青年旅舍最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "青年旅舍 - 最全的青年旅舍网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 24.98,
+    "longitude": 131.98
+  },
+  "url": "https://niche-青年旅舍 - 最全的青年旅舍网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "青年旅舍 - 最全的青年旅舍网站"
+  }
+}

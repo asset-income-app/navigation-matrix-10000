@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://殡葬-海口-nav.pages.dev/sitemap.xml

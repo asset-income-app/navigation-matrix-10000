@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yinxiang-nav.pages.dev/sitemap.xml

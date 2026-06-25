@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://餐厅-阜新-nav.pages.dev/sitemap.xml

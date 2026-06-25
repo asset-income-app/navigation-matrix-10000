@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://foshan-nav.pages.dev/sitemap.xml

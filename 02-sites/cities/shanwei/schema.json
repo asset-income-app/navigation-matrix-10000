@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "汕尾导航",
+  "description": "汕尾本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "汕尾",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 52.62,
+    "longitude": 121.62
+  },
+  "url": "https://city-汕尾.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "汕尾"
+  }
+}

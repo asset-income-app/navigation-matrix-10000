@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://搬家货运-朝阳.pages.dev/sitemap.xml

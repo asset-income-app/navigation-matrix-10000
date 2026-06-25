@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ruanjiangongchengshi-nav.pages.dev/sitemap.xml

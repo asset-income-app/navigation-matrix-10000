@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保洁-常州-nav.pages.dev/sitemap.xml

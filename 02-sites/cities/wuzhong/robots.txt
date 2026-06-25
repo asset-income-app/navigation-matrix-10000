@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wuzhong-nav.pages.dev/sitemap.xml

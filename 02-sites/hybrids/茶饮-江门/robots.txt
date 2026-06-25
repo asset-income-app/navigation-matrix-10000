@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://茶饮-江门-nav.pages.dev/sitemap.xml

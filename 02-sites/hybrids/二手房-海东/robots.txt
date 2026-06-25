@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://二手房-海东-nav.pages.dev/sitemap.xml

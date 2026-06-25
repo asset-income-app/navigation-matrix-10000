@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taiyupexun-nav.pages.dev/sitemap.xml

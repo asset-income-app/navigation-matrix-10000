@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://便利店-潮州-nav.pages.dev/sitemap.xml

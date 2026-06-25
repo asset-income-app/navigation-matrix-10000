@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanning-nav.pages.dev/sitemap.xml

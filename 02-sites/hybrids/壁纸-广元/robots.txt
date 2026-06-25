@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://壁纸-广元-nav.pages.dev/sitemap.xml

@@ -1,0 +1,155 @@
+{
+  "siteType": "hybrid",
+  "cityName": "贵阳",
+  "nicheName": "拔罐",
+  "sitePinyin": "拔罐-贵阳",
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "贵阳拔罐搜索",
+          "url": "https://www.baidu.com/s?wd=贵阳拔罐",
+          "desc": "搜索贵阳拔罐相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "贵阳本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "贵阳本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "拔罐经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=拔罐",
+          "desc": "拔罐视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "拔罐经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=拔罐工具",
+          "desc": "搜索拔罐相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "拔罐工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "拔罐交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "拔罐分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "拔罐贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=拔罐",
+          "desc": "拔罐热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=贵阳拔罐",
+          "desc": "搜索贵阳拔罐相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=贵阳拔罐",
+          "desc": "贵阳拔罐视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=贵阳拔罐",
+          "desc": "贵阳拔罐热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 26.647,
+      "lng": 106.6302,
+      "region": "西南",
+      "province": "贵州省"
+    },
+    "meta": {
+      "geo.region": "CN-贵州省",
+      "geo.placename": "贵阳",
+      "geo.position": "26.647;106.6302",
+      "ICBM": "26.647, 106.6302",
+      "geo.latitude": 26.647,
+      "geo.longitude": 106.6302,
+      "geo.city": "贵阳",
+      "geo.province": "贵州省",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "贵阳导航",
+      "贵阳网站",
+      "贵阳网址",
+      "贵阳本地服务",
+      "贵阳生活指南",
+      "贵阳便民服务",
+      "贵阳信息查询",
+      "贵阳在线服务",
+      "贵阳拔罐",
+      "拔罐贵阳"
+    ]
+  }
+}

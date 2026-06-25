@@ -1,0 +1,155 @@
+{
+  "siteType": "hybrid",
+  "cityName": "成都",
+  "nicheName": "按摩",
+  "sitePinyin": "按摩-成都",
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "成都按摩搜索",
+          "url": "https://www.baidu.com/s?wd=成都按摩",
+          "desc": "搜索成都按摩相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "成都本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "成都本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "按摩经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=按摩",
+          "desc": "按摩视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "按摩经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=按摩工具",
+          "desc": "搜索按摩相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "按摩工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "按摩交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "按摩分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "按摩贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=按摩",
+          "desc": "按摩热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=成都按摩",
+          "desc": "搜索成都按摩相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=成都按摩",
+          "desc": "成都按摩视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=成都按摩",
+          "desc": "成都按摩热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 30.5728,
+      "lng": 104.0668,
+      "region": "西南",
+      "province": "四川省"
+    },
+    "meta": {
+      "geo.region": "CN-四川省",
+      "geo.placename": "成都",
+      "geo.position": "30.5728;104.0668",
+      "ICBM": "30.5728, 104.0668",
+      "geo.latitude": 30.5728,
+      "geo.longitude": 104.0668,
+      "geo.city": "成都",
+      "geo.province": "四川省",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "成都导航",
+      "成都网站",
+      "成都网址",
+      "成都本地服务",
+      "成都生活指南",
+      "成都便民服务",
+      "成都信息查询",
+      "成都在线服务",
+      "成都按摩",
+      "按摩成都"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://房产-上海.pages.dev/sitemap.xml

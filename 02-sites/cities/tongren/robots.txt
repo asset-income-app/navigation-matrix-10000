@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tongren-nav.pages.dev/sitemap.xml

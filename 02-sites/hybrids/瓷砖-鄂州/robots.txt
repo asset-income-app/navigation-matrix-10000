@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://瓷砖-鄂州-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hunjieshoushi-nav.pages.dev/sitemap.xml

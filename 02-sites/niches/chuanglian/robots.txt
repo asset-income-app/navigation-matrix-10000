@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chuanglian-nav.pages.dev/sitemap.xml

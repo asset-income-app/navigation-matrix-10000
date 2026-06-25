@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shangrao-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://餐厅-广州-nav.pages.dev/sitemap.xml

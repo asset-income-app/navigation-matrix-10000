@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://游戏-深圳.pages.dev/sitemap.xml

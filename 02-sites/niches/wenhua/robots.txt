@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wenhua-nav.pages.dev/sitemap.xml

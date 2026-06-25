@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mudilingyuan-nav.pages.dev/sitemap.xml

@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "度假村",
+  "nichePinyin": "dujiacun",
+  "siteTitle": "度假村导航 - 最全的度假村网站导航",
+  "siteDescription": "度假村导航站，汇集度假村最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=度假村",
+          "desc": "搜索度假村相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "度假村经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "度假村经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=度假村",
+          "desc": "度假村视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "度假村问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "度假村交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=度假村工具",
+          "desc": "搜索度假村相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "度假村工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "度假村交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "度假村分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "度假村贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=度假村",
+          "desc": "百度搜索度假村相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=度假村",
+          "desc": "B站度假村视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=度假村",
+          "desc": "微博度假村热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 49.35,
+      "lng": 126.35,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "度假村 - 最全的度假村网站",
+      "geo.position": "49.35;126.35",
+      "ICBM": "49.35, 126.35",
+      "geo.latitude": 49.35,
+      "geo.longitude": 126.35,
+      "geo.city": "度假村 - 最全的度假村网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "度假村 - 最全的度假村网站导航",
+      "度假村 - 最全的度假村网站网站",
+      "度假村 - 最全的度假村网站网址",
+      "度假村 - 最全的度假村网站本地服务",
+      "度假村 - 最全的度假村网站生活指南",
+      "度假村 - 最全的度假村网站便民服务",
+      "度假村 - 最全的度假村网站信息查询",
+      "度假村 - 最全的度假村网站在线服务"
+    ]
+  }
+}

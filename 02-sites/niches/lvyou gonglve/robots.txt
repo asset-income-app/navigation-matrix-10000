@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lvyou gonglve-nav.pages.dev/sitemap.xml

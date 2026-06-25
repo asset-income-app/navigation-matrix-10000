@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "话剧导航 - 最全的话剧网站导航",
+  "description": "话剧导航站，汇集话剧最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "话剧 - 最全的话剧网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.75,
+    "longitude": 116.75
+  },
+  "url": "https://niche-话剧 - 最全的话剧网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "话剧 - 最全的话剧网站"
+  }
+}

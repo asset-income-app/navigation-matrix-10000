@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "电气工程师",
+  "cityName": "抚顺",
+  "siteTitle": "抚顺电气工程师导航 - 抚顺电气工程师最全网站导航",
+  "siteDescription": "抚顺电气工程师导航站，汇集抚顺电气工程师最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-green",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "抚顺电气工程师搜索",
+          "url": "https://www.baidu.com/s?wd=抚顺电气工程师",
+          "desc": "搜索抚顺电气工程师相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "抚顺本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "抚顺本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "电气工程师经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=电气工程师",
+          "desc": "电气工程师视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "电气工程师经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=电气工程师工具",
+          "desc": "搜索电气工程师相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "电气工程师工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "电气工程师交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "电气工程师分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "电气工程师贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=电气工程师",
+          "desc": "电气工程师热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=抚顺电气工程师",
+          "desc": "搜索抚顺电气工程师相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=抚顺电气工程师",
+          "desc": "抚顺电气工程师视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=抚顺电气工程师",
+          "desc": "抚顺电气工程师热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 31.77,
+      "lng": 118.77,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "抚顺",
+      "geo.position": "31.77;118.77",
+      "ICBM": "31.77, 118.77",
+      "geo.latitude": 31.77,
+      "geo.longitude": 118.77,
+      "geo.city": "抚顺",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "抚顺导航",
+      "抚顺网站",
+      "抚顺网址",
+      "抚顺本地服务",
+      "抚顺生活指南",
+      "抚顺便民服务",
+      "抚顺信息查询",
+      "抚顺在线服务",
+      "抚顺电气工程师",
+      "电气工程师抚顺"
+    ]
+  }
+}

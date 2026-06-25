@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://灯具-大连-nav.pages.dev/sitemap.xml

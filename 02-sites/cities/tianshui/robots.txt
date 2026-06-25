@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tianshui-nav.pages.dev/sitemap.xml

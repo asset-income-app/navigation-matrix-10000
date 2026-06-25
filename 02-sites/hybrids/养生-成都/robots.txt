@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://养生-成都.pages.dev/sitemap.xml

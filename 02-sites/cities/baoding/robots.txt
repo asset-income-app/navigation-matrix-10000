@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baoding-nav.pages.dev/sitemap.xml

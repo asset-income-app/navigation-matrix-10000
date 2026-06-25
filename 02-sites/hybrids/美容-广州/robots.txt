@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://美容-广州.pages.dev/sitemap.xml

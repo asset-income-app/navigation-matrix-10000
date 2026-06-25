@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://俄语培训-毕节-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bizhi-nav.pages.dev/sitemap.xml

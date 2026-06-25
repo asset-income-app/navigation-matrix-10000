@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jianshen yongpin-nav.pages.dev/sitemap.xml

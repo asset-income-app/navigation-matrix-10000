@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jianligongchengshi-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diyadai-nav.pages.dev/sitemap.xml

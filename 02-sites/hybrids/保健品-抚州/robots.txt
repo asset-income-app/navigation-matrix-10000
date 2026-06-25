@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保健品-抚州-nav.pages.dev/sitemap.xml

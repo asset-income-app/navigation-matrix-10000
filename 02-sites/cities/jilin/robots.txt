@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jilin-nav.pages.dev/sitemap.xml

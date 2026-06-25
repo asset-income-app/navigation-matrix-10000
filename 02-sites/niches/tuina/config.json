@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "推拿",
+  "nichePinyin": "tuina",
+  "siteTitle": "推拿导航 - 最全的推拿网站导航",
+  "siteDescription": "推拿导航站，汇集推拿最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=推拿",
+          "desc": "搜索推拿相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "推拿经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "推拿经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=推拿",
+          "desc": "推拿视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "推拿问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "推拿交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=推拿工具",
+          "desc": "搜索推拿相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "推拿工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "推拿交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "推拿分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "推拿贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=推拿",
+          "desc": "百度搜索推拿相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=推拿",
+          "desc": "B站推拿视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=推拿",
+          "desc": "微博推拿热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 25.11,
+      "lng": 76.11,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "推拿 - 最全的推拿网站",
+      "geo.position": "25.11;76.11",
+      "ICBM": "25.11, 76.11",
+      "geo.latitude": 25.11,
+      "geo.longitude": 76.11,
+      "geo.city": "推拿 - 最全的推拿网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "推拿 - 最全的推拿网站导航",
+      "推拿 - 最全的推拿网站网站",
+      "推拿 - 最全的推拿网站网址",
+      "推拿 - 最全的推拿网站本地服务",
+      "推拿 - 最全的推拿网站生活指南",
+      "推拿 - 最全的推拿网站便民服务",
+      "推拿 - 最全的推拿网站信息查询",
+      "推拿 - 最全的推拿网站在线服务"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "曲靖导航",
+  "description": "曲靖本地导航服务",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "曲靖",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 23.93,
+    "longitude": 102.93
+  },
+  "url": "https://city-曲靖.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "曲靖"
+  }
+}

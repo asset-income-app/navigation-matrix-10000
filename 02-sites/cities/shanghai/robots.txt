@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shanghai-nav.pages.dev/sitemap.xml

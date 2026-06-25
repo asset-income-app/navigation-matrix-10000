@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://搬家-赤峰.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://雕塑-赤峰-nav.pages.dev/sitemap.xml

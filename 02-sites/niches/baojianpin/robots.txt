@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baojianpin-nav.pages.dev/sitemap.xml

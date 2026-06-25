@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baojian-nav.pages.dev/sitemap.xml

@@ -1,0 +1,52 @@
+# 排除不必要的文件
+
+# 日志文件
+data/logs/
+04-monitor/
+
+# 备份文件
+backups/
+*.bak
+*.zip
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Node模块
+node_modules/
+
+# 环境文件
+.env
+.env.local
+
+# 部署临时文件
+05-deployed/*.zip
+05-deployed/temp/
+
+# 测试文件
+test_*.py
+*_test.py
+tests/
+
+# 文档临时文件
+*.md.bak
+docs/temp/

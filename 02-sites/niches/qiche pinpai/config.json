@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "汽车品牌",
+  "nichePinyin": "qiche pinpai",
+  "siteTitle": "汽车品牌导航 - 最全的汽车品牌网站导航",
+  "siteDescription": "汽车品牌导航站，汇集汽车品牌最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=汽车品牌",
+          "desc": "搜索汽车品牌相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "汽车品牌经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "汽车品牌经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=汽车品牌",
+          "desc": "汽车品牌视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "汽车品牌问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "汽车品牌交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=汽车品牌工具",
+          "desc": "搜索汽车品牌相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "汽车品牌工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "汽车品牌交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "汽车品牌分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "汽车品牌贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=汽车品牌",
+          "desc": "百度搜索汽车品牌相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=汽车品牌",
+          "desc": "B站汽车品牌视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=汽车品牌",
+          "desc": "微博汽车品牌热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 37.67,
+      "lng": 122.67,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "汽车品牌 - 最全的汽车品牌网站",
+      "geo.position": "37.67;122.67",
+      "ICBM": "37.67, 122.67",
+      "geo.latitude": 37.67,
+      "geo.longitude": 122.67,
+      "geo.city": "汽车品牌 - 最全的汽车品牌网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "汽车品牌 - 最全的汽车品牌网站导航",
+      "汽车品牌 - 最全的汽车品牌网站网站",
+      "汽车品牌 - 最全的汽车品牌网站网址",
+      "汽车品牌 - 最全的汽车品牌网站本地服务",
+      "汽车品牌 - 最全的汽车品牌网站生活指南",
+      "汽车品牌 - 最全的汽车品牌网站便民服务",
+      "汽车品牌 - 最全的汽车品牌网站信息查询",
+      "汽车品牌 - 最全的汽车品牌网站在线服务"
+    ]
+  }
+}

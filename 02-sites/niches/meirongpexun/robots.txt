@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meirongpexun-nav.pages.dev/sitemap.xml

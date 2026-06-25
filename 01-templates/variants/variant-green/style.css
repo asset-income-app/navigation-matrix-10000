@@ -1,0 +1,19 @@
+/* ===== 绿色变体 ===== */
+:root {
+    --primary-color: #059669;
+    --secondary-color: #047857;
+    --accent-color: #10b981;
+    --bg-color: #ecfdf5;
+    --card-bg: #ffffff;
+    --text-color: #1e293b;
+    --text-muted: #64748b;
+    --border-color: #a7f3d0;
+    --hover-color: #047857;
+    --header-bg: #ffffff;
+    --footer-bg: #064e3b;
+    --footer-text: #a7f3d0;
+    --ad-bg: #fef3c7;
+    --ad-text: #92400e;
+    --shadow: 0 2px 8px rgba(5,150,105,0.1);
+    --radius: 12px;
+}

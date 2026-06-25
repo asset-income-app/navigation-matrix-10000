@@ -1,0 +1,614 @@
+{
+  "siteType": "niche",
+  "nicheName": "婚庆",
+  "nichePinyin": "hunqing",
+  "siteTitle": "婚庆导航 - 最全的婚庆网站导航",
+  "siteDescription": "婚庆导航站，汇集婚庆最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "婚礼纪",
+          "url": "https://www.hunliji.com/",
+          "desc": "婚庆服务平台"
+        },
+        {
+          "name": "中国婚博会",
+          "url": "https://www.jiehun.com.cn/",
+          "desc": "婚庆展览平台"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "婚礼纪",
+          "url": "https://www.hunliji.com/",
+          "desc": "婚庆知识学习"
+        },
+        {
+          "name": "B站婚庆",
+          "url": "https://www.bilibili.com/",
+          "desc": "免费婚庆视频"
+        },
+        {
+          "name": "小红书婚礼",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "婚礼策划分享"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "婚礼纪APP",
+          "url": "https://www.hunliji.com/",
+          "desc": "婚庆服务APP"
+        },
+        {
+          "name": "婚庆请柬制作",
+          "url": "https://www.hunliji.com/",
+          "desc": "电子请柬工具"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "婚礼纪社区",
+          "url": "https://www.hunliji.com/",
+          "desc": "婚庆交流社区"
+        },
+        {
+          "name": "知乎婚庆话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "婚庆经验问答"
+        },
+        {
+          "name": "小红书婚礼",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "婚礼分享社区"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "婚礼纪资讯",
+          "url": "https://www.hunliji.com/",
+          "desc": "婚庆行业资讯"
+        },
+        {
+          "name": "中国婚博会资讯",
+          "url": "https://www.jiehun.com.cn/",
+          "desc": "婚庆行业新闻"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索婚庆",
+          "url": "https://www.baidu.com/s?wd=%E5%A9%9A%E5%BA%86",
+          "desc": "百度搜索婚庆相关信息"
+        },
+        {
+          "name": "B站婚庆视频",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A9%9A%E5%BA%86",
+          "desc": "B站婚庆视频教程"
+        },
+        {
+          "name": "微博婚庆",
+          "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%BA%86",
+          "desc": "微博婚庆热门话题"
+        },
+        {
+          "name": "豆瓣婚庆",
+          "url": "https://www.douban.com/search?q=%E5%A9%9A%E5%BA%86",
+          "desc": "豆瓣婚庆相关内容"
+        },
+        {
+          "name": "微信婚庆文章",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A9%9A%E5%BA%86",
+          "desc": "微信公众号婚庆文章"
+        },
+        {
+          "name": "头条婚庆",
+          "url": "https://www.toutiao.com/search/?keyword=%E5%A9%9A%E5%BA%86",
+          "desc": "今日头条婚庆资讯"
+        },
+        {
+          "name": "抖音婚庆",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86",
+          "desc": "抖音婚庆短视频"
+        },
+        {
+          "name": "淘宝婚庆",
+          "url": "https://s.taobao.com/search?q=%E5%A9%9A%E5%BA%86",
+          "desc": "淘宝婚庆相关商品"
+        },
+        {
+          "name": "京东婚庆",
+          "url": "https://search.jd.com/Search?keyword=%E5%A9%9A%E5%BA%86",
+          "desc": "京东婚庆相关商品"
+        },
+        {
+          "name": "拼多多婚庆",
+          "url": "https://www.pinduoduo.com/search?q=%E5%A9%9A%E5%BA%86",
+          "desc": "拼多多婚庆相关商品"
+        },
+        {
+          "name": "百度百科婚庆",
+          "url": "https://baike.baidu.com/item/%E5%A9%9A%E5%BA%86",
+          "desc": "百度百科婚庆词条"
+        },
+        {
+          "name": "维基百科婚庆",
+          "url": "https://zh.wikipedia.org/wiki/%E5%A9%9A%E5%BA%86",
+          "desc": "维基百科婚庆词条"
+        },
+        {
+          "name": "搜狗婚庆",
+          "url": "https://www.sogou.com/web?query=%E5%A9%9A%E5%BA%86",
+          "desc": "搜狗搜索婚庆"
+        },
+        {
+          "name": "360搜索搜索婚庆教程",
+          "url": "https://www.so.com/s?q=%E5%A9%9A%E5%BA%86%E6%95%99%E7%A8%8B",
+          "desc": "360搜索婚庆教程教程学习"
+        },
+        {
+          "name": "必应搜索婚庆教程",
+          "url": "https://www.bing.com/search?q=%E5%A9%9A%E5%BA%86%E6%95%99%E7%A8%8B",
+          "desc": "必应婚庆教程教程学习"
+        },
+        {
+          "name": "Google搜索婚庆教程",
+          "url": "https://www.google.com/search?q=%E5%A9%9A%E5%BA%86%E6%95%99%E7%A8%8B",
+          "desc": "Google婚庆教程教程学习"
+        }
+      ]
+    },
+    {
+      "name": "知识社区",
+      "links": [
+        {
+          "name": "知乎·婚庆",
+          "url": "https://www.zhihu.com/search?type=content&q=%E5%A9%9A%E5%BA%86",
+          "desc": "在知乎搜索婚庆综合信息"
+        }
+      ]
+    },
+    {
+      "name": "生活社区",
+      "links": [
+        {
+          "name": "小红书·婚庆",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A9%9A%E5%BA%86",
+          "desc": "在小红书搜索婚庆综合信息"
+        }
+      ]
+    },
+    {
+      "name": "短视频",
+      "links": [
+        {
+          "name": "抖音·婚庆教程",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E6%95%99%E7%A8%8B",
+          "desc": "在抖音搜索婚庆教程教程学习"
+        },
+        {
+          "name": "抖音·婚庆入门",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E5%85%A5%E9%97%A8",
+          "desc": "在抖音搜索婚庆入门入门指南"
+        },
+        {
+          "name": "抖音·婚庆学习",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E5%AD%A6%E4%B9%A0",
+          "desc": "在抖音搜索婚庆学习学习资源"
+        },
+        {
+          "name": "抖音·婚庆培训",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E5%9F%B9%E8%AE%AD",
+          "desc": "在抖音搜索婚庆培训培训课程"
+        },
+        {
+          "name": "抖音·婚庆论坛",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E8%AE%BA%E5%9D%9B",
+          "desc": "在抖音搜索婚庆论坛论坛社区"
+        },
+        {
+          "name": "抖音·婚庆社区",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E7%A4%BE%E5%8C%BA",
+          "desc": "在抖音搜索婚庆社区社区交流"
+        },
+        {
+          "name": "抖音·婚庆工具",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E5%B7%A5%E5%85%B7",
+          "desc": "在抖音搜索婚庆工具工具软件"
+        },
+        {
+          "name": "抖音·婚庆软件",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E8%BD%AF%E4%BB%B6",
+          "desc": "在抖音搜索婚庆软件软件推荐"
+        },
+        {
+          "name": "抖音·婚庆资料",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E8%B5%84%E6%96%99",
+          "desc": "在抖音搜索婚庆资料资料下载"
+        },
+        {
+          "name": "抖音·婚庆视频",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E8%A7%86%E9%A2%91",
+          "desc": "在抖音搜索婚庆视频视频教程"
+        },
+        {
+          "name": "抖音·婚庆书籍",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E4%B9%A6%E7%B1%8D",
+          "desc": "在抖音搜索婚庆书籍书籍推荐"
+        },
+        {
+          "name": "抖音·婚庆考试",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E8%80%83%E8%AF%95",
+          "desc": "在抖音搜索婚庆考试考试信息"
+        },
+        {
+          "name": "抖音·婚庆招聘",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E6%8B%9B%E8%81%98",
+          "desc": "在抖音搜索婚庆招聘招聘信息"
+        },
+        {
+          "name": "抖音·婚庆排名",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E6%8E%92%E5%90%8D",
+          "desc": "在抖音搜索婚庆排名排名推荐"
+        },
+        {
+          "name": "抖音·婚庆攻略",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E6%94%BB%E7%95%A5",
+          "desc": "在抖音搜索婚庆攻略攻略指南"
+        },
+        {
+          "name": "抖音·婚庆技巧",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E6%8A%80%E5%B7%A7",
+          "desc": "在抖音搜索婚庆技巧技巧方法"
+        },
+        {
+          "name": "抖音·婚庆APP",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86APP",
+          "desc": "在抖音搜索婚庆APP手机应用"
+        },
+        {
+          "name": "抖音·婚庆网站",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E7%BD%91%E7%AB%99",
+          "desc": "在抖音搜索婚庆网站网站推荐"
+        },
+        {
+          "name": "抖音·婚庆免费",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E5%85%8D%E8%B4%B9",
+          "desc": "在抖音搜索婚庆免费免费资源"
+        }
+      ]
+    },
+    {
+      "name": "更多搜索",
+      "links": [
+        {
+          "name": "百度·婚庆怎么学",
+          "url": "https://www.baidu.com/s?wd=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度搜索婚庆怎么学"
+        },
+        {
+          "name": "知乎·婚庆怎么学",
+          "url": "https://www.zhihu.com/search?type=content&q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎搜索婚庆怎么学"
+        },
+        {
+          "name": "B站·婚庆怎么学",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在B站搜索婚庆怎么学"
+        },
+        {
+          "name": "小红书·婚庆怎么学",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在小红书搜索婚庆怎么学"
+        },
+        {
+          "name": "微信·婚庆怎么学",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微信搜索婚庆怎么学"
+        },
+        {
+          "name": "头条·婚庆怎么学",
+          "url": "https://www.toutiao.com/search/?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在头条搜索婚庆怎么学"
+        },
+        {
+          "name": "抖音·婚庆怎么学",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在抖音搜索婚庆怎么学"
+        },
+        {
+          "name": "豆瓣·婚庆怎么学",
+          "url": "https://www.douban.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在豆瓣搜索婚庆怎么学"
+        },
+        {
+          "name": "淘宝·婚庆怎么学",
+          "url": "https://s.taobao.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在淘宝搜索婚庆怎么学"
+        },
+        {
+          "name": "京东·婚庆怎么学",
+          "url": "https://search.jd.com/Search?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在京东搜索婚庆怎么学"
+        },
+        {
+          "name": "360搜索·婚庆怎么学",
+          "url": "https://www.so.com/s?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在360搜索搜索婚庆怎么学"
+        },
+        {
+          "name": "必应·婚庆怎么学",
+          "url": "https://www.bing.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在必应搜索婚庆怎么学"
+        },
+        {
+          "name": "搜狗·婚庆怎么学",
+          "url": "https://www.sogou.com/web?query=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在搜狗搜索婚庆怎么学"
+        },
+        {
+          "name": "微博·婚庆怎么学",
+          "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在微博搜索婚庆怎么学"
+        },
+        {
+          "name": "喜马拉雅·婚庆怎么学",
+          "url": "https://www.ximalaya.com/search/%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在喜马拉雅搜索婚庆怎么学"
+        },
+        {
+          "name": "CSDN·婚庆怎么学",
+          "url": "https://so.csdn.net/so/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在CSDN搜索婚庆怎么学"
+        },
+        {
+          "name": "掘金·婚庆怎么学",
+          "url": "https://juejin.cn/search?query=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在掘金搜索婚庆怎么学"
+        },
+        {
+          "name": "简书·婚庆怎么学",
+          "url": "https://www.jianshu.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在简书搜索婚庆怎么学"
+        },
+        {
+          "name": "百度贴吧·婚庆怎么学",
+          "url": "https://tieba.baidu.com/f?kw=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在百度贴吧搜索婚庆怎么学"
+        },
+        {
+          "name": "知乎专栏·婚庆怎么学",
+          "url": "https://zhuanlan.zhihu.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E5%AD%A6",
+          "desc": "在知乎专栏搜索婚庆怎么学"
+        },
+        {
+          "name": "百度·婚庆怎么考",
+          "url": "https://www.baidu.com/s?wd=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度搜索婚庆怎么考"
+        },
+        {
+          "name": "知乎·婚庆怎么考",
+          "url": "https://www.zhihu.com/search?type=content&q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎搜索婚庆怎么考"
+        },
+        {
+          "name": "B站·婚庆怎么考",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在B站搜索婚庆怎么考"
+        },
+        {
+          "name": "小红书·婚庆怎么考",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在小红书搜索婚庆怎么考"
+        },
+        {
+          "name": "微信·婚庆怎么考",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微信搜索婚庆怎么考"
+        },
+        {
+          "name": "头条·婚庆怎么考",
+          "url": "https://www.toutiao.com/search/?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在头条搜索婚庆怎么考"
+        },
+        {
+          "name": "抖音·婚庆怎么考",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在抖音搜索婚庆怎么考"
+        },
+        {
+          "name": "豆瓣·婚庆怎么考",
+          "url": "https://www.douban.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在豆瓣搜索婚庆怎么考"
+        },
+        {
+          "name": "淘宝·婚庆怎么考",
+          "url": "https://s.taobao.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在淘宝搜索婚庆怎么考"
+        },
+        {
+          "name": "京东·婚庆怎么考",
+          "url": "https://search.jd.com/Search?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在京东搜索婚庆怎么考"
+        },
+        {
+          "name": "360搜索·婚庆怎么考",
+          "url": "https://www.so.com/s?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在360搜索搜索婚庆怎么考"
+        },
+        {
+          "name": "必应·婚庆怎么考",
+          "url": "https://www.bing.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在必应搜索婚庆怎么考"
+        },
+        {
+          "name": "搜狗·婚庆怎么考",
+          "url": "https://www.sogou.com/web?query=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在搜狗搜索婚庆怎么考"
+        },
+        {
+          "name": "微博·婚庆怎么考",
+          "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在微博搜索婚庆怎么考"
+        },
+        {
+          "name": "喜马拉雅·婚庆怎么考",
+          "url": "https://www.ximalaya.com/search/%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在喜马拉雅搜索婚庆怎么考"
+        },
+        {
+          "name": "CSDN·婚庆怎么考",
+          "url": "https://so.csdn.net/so/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在CSDN搜索婚庆怎么考"
+        },
+        {
+          "name": "掘金·婚庆怎么考",
+          "url": "https://juejin.cn/search?query=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在掘金搜索婚庆怎么考"
+        },
+        {
+          "name": "简书·婚庆怎么考",
+          "url": "https://www.jianshu.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在简书搜索婚庆怎么考"
+        },
+        {
+          "name": "百度贴吧·婚庆怎么考",
+          "url": "https://tieba.baidu.com/f?kw=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在百度贴吧搜索婚庆怎么考"
+        },
+        {
+          "name": "知乎专栏·婚庆怎么考",
+          "url": "https://zhuanlan.zhihu.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E8%80%83",
+          "desc": "在知乎专栏搜索婚庆怎么考"
+        },
+        {
+          "name": "百度·婚庆怎么报名",
+          "url": "https://www.baidu.com/s?wd=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在百度搜索婚庆怎么报名"
+        },
+        {
+          "name": "知乎·婚庆怎么报名",
+          "url": "https://www.zhihu.com/search?type=content&q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在知乎搜索婚庆怎么报名"
+        },
+        {
+          "name": "B站·婚庆怎么报名",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在B站搜索婚庆怎么报名"
+        },
+        {
+          "name": "小红书·婚庆怎么报名",
+          "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在小红书搜索婚庆怎么报名"
+        },
+        {
+          "name": "微信·婚庆怎么报名",
+          "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在微信搜索婚庆怎么报名"
+        },
+        {
+          "name": "头条·婚庆怎么报名",
+          "url": "https://www.toutiao.com/search/?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在头条搜索婚庆怎么报名"
+        },
+        {
+          "name": "抖音·婚庆怎么报名",
+          "url": "https://www.douyin.com/search/%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在抖音搜索婚庆怎么报名"
+        },
+        {
+          "name": "豆瓣·婚庆怎么报名",
+          "url": "https://www.douban.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在豆瓣搜索婚庆怎么报名"
+        },
+        {
+          "name": "淘宝·婚庆怎么报名",
+          "url": "https://s.taobao.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在淘宝搜索婚庆怎么报名"
+        },
+        {
+          "name": "京东·婚庆怎么报名",
+          "url": "https://search.jd.com/Search?keyword=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在京东搜索婚庆怎么报名"
+        },
+        {
+          "name": "360搜索·婚庆怎么报名",
+          "url": "https://www.so.com/s?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在360搜索搜索婚庆怎么报名"
+        },
+        {
+          "name": "必应·婚庆怎么报名",
+          "url": "https://www.bing.com/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在必应搜索婚庆怎么报名"
+        },
+        {
+          "name": "搜狗·婚庆怎么报名",
+          "url": "https://www.sogou.com/web?query=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在搜狗搜索婚庆怎么报名"
+        },
+        {
+          "name": "微博·婚庆怎么报名",
+          "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在微博搜索婚庆怎么报名"
+        },
+        {
+          "name": "喜马拉雅·婚庆怎么报名",
+          "url": "https://www.ximalaya.com/search/%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在喜马拉雅搜索婚庆怎么报名"
+        },
+        {
+          "name": "CSDN·婚庆怎么报名",
+          "url": "https://so.csdn.net/so/search?q=%E5%A9%9A%E5%BA%86%E6%80%8E%E4%B9%88%E6%8A%A5%E5%90%8D",
+          "desc": "在CSDN搜索婚庆怎么报名"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 38.12,
+      "lng": 113.12,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "婚庆 - 最全的婚庆网站",
+      "geo.position": "38.12;113.12",
+      "ICBM": "38.12, 113.12",
+      "geo.latitude": 38.12,
+      "geo.longitude": 113.12,
+      "geo.city": "婚庆 - 最全的婚庆网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "婚庆 - 最全的婚庆网站导航",
+      "婚庆 - 最全的婚庆网站网站",
+      "婚庆 - 最全的婚庆网站网址",
+      "婚庆 - 最全的婚庆网站本地服务",
+      "婚庆 - 最全的婚庆网站生活指南",
+      "婚庆 - 最全的婚庆网站便民服务",
+      "婚庆 - 最全的婚庆网站信息查询",
+      "婚庆 - 最全的婚庆网站在线服务"
+    ]
+  }
+}

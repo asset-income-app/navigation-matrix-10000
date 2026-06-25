@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "按摩",
+  "nichePinyin": "anmo",
+  "siteTitle": "按摩导航 - 最全的按摩网站导航",
+  "siteDescription": "按摩导航站，汇集按摩最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=按摩",
+          "desc": "搜索按摩相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "按摩经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "按摩经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=按摩",
+          "desc": "按摩视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "按摩问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "按摩交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=按摩工具",
+          "desc": "搜索按摩相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "按摩工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "按摩交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "按摩分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "按摩贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=按摩",
+          "desc": "百度搜索按摩相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=按摩",
+          "desc": "B站按摩视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=按摩",
+          "desc": "微博按摩热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 46.16,
+      "lng": 83.16,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "按摩 - 最全的按摩网站",
+      "geo.position": "46.16;83.16",
+      "ICBM": "46.16, 83.16",
+      "geo.latitude": 46.16,
+      "geo.longitude": 83.16,
+      "geo.city": "按摩 - 最全的按摩网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "按摩 - 最全的按摩网站导航",
+      "按摩 - 最全的按摩网站网站",
+      "按摩 - 最全的按摩网站网址",
+      "按摩 - 最全的按摩网站本地服务",
+      "按摩 - 最全的按摩网站生活指南",
+      "按摩 - 最全的按摩网站便民服务",
+      "按摩 - 最全的按摩网站信息查询",
+      "按摩 - 最全的按摩网站在线服务"
+    ]
+  }
+}

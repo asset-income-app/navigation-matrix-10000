@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://拔罐-防城港.pages.dev/sitemap.xml

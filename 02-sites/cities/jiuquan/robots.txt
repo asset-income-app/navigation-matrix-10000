@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiuquan-nav.pages.dev/sitemap.xml

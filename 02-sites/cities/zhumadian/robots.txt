@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhumadian-nav.pages.dev/sitemap.xml

@@ -1,0 +1,155 @@
+{
+  "siteType": "hybrid",
+  "cityName": "佛山",
+  "nicheName": "拔罐",
+  "sitePinyin": "拔罐-佛山",
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "佛山拔罐搜索",
+          "url": "https://www.baidu.com/s?wd=佛山拔罐",
+          "desc": "搜索佛山拔罐相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "佛山本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "佛山本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "拔罐经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=拔罐",
+          "desc": "拔罐视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "拔罐经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=拔罐工具",
+          "desc": "搜索拔罐相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "拔罐工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "拔罐交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "拔罐分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "拔罐贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=拔罐",
+          "desc": "拔罐热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=佛山拔罐",
+          "desc": "搜索佛山拔罐相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=佛山拔罐",
+          "desc": "佛山拔罐视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=佛山拔罐",
+          "desc": "佛山拔罐热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 22.84,
+      "lng": 79.84,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "佛山",
+      "geo.position": "22.84;79.84",
+      "ICBM": "22.84, 79.84",
+      "geo.latitude": 22.84,
+      "geo.longitude": 79.84,
+      "geo.city": "佛山",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "佛山导航",
+      "佛山网站",
+      "佛山网址",
+      "佛山本地服务",
+      "佛山生活指南",
+      "佛山便民服务",
+      "佛山信息查询",
+      "佛山在线服务",
+      "佛山拔罐",
+      "拔罐佛山"
+    ]
+  }
+}

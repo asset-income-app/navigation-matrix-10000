@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huoguo-nav.pages.dev/sitemap.xml

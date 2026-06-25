@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://抖音运营-百色-nav.pages.dev/sitemap.xml

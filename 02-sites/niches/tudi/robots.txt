@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tudi-nav.pages.dev/sitemap.xml

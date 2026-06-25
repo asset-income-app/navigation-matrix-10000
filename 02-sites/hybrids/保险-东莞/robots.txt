@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://保险-东莞-nav.pages.dev/sitemap.xml

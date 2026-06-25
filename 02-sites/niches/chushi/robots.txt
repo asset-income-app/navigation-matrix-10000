@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chushi-nav.pages.dev/sitemap.xml

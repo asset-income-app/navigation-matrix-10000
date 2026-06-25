@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://灯具-包头-nav.pages.dev/sitemap.xml

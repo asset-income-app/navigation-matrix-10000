@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "殡葬",
+  "cityName": "滁州",
+  "siteTitle": "滁州殡葬导航 - 滁州殡葬最全网站导航",
+  "siteDescription": "滁州殡葬导航站，汇集滁州殡葬最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-green",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "滁州殡葬搜索",
+          "url": "https://www.baidu.com/s?wd=滁州殡葬",
+          "desc": "搜索滁州殡葬相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "滁州本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "滁州本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "殡葬经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=殡葬",
+          "desc": "殡葬视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "殡葬经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=殡葬工具",
+          "desc": "搜索殡葬相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "殡葬工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "殡葬交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "殡葬分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "殡葬贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=殡葬",
+          "desc": "殡葬热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=滁州殡葬",
+          "desc": "搜索滁州殡葬相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=滁州殡葬",
+          "desc": "滁州殡葬视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=滁州殡葬",
+          "desc": "滁州殡葬热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 40.34,
+      "lng": 93.34,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "滁州",
+      "geo.position": "40.34;93.34",
+      "ICBM": "40.34, 93.34",
+      "geo.latitude": 40.34,
+      "geo.longitude": 93.34,
+      "geo.city": "滁州",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "滁州导航",
+      "滁州网站",
+      "滁州网址",
+      "滁州本地服务",
+      "滁州生活指南",
+      "滁州便民服务",
+      "滁州信息查询",
+      "滁州在线服务",
+      "滁州殡葬",
+      "殡葬滁州"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://banjiahuoyun-nav.pages.dev/sitemap.xml

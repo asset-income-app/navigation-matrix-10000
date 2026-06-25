@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://典当公司-东营-nav.pages.dev/sitemap.xml

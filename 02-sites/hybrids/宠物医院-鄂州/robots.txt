@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://宠物医院-鄂州-nav.pages.dev/sitemap.xml

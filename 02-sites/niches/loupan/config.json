@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "楼盘",
+  "nichePinyin": "loupan",
+  "siteTitle": "楼盘导航 - 最全的楼盘网站导航",
+  "siteDescription": "楼盘导航站，汇集楼盘最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=楼盘",
+          "desc": "搜索楼盘相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "楼盘经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "楼盘经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=楼盘",
+          "desc": "楼盘视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "楼盘问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "楼盘交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=楼盘工具",
+          "desc": "搜索楼盘相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "楼盘工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "楼盘交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "楼盘分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "楼盘贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=楼盘",
+          "desc": "百度搜索楼盘相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=楼盘",
+          "desc": "B站楼盘视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=楼盘",
+          "desc": "微博楼盘热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 23.69,
+      "lng": 108.69,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "楼盘 - 最全的楼盘网站",
+      "geo.position": "23.69;108.69",
+      "ICBM": "23.69, 108.69",
+      "geo.latitude": 23.69,
+      "geo.longitude": 108.69,
+      "geo.city": "楼盘 - 最全的楼盘网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "楼盘 - 最全的楼盘网站导航",
+      "楼盘 - 最全的楼盘网站网站",
+      "楼盘 - 最全的楼盘网站网址",
+      "楼盘 - 最全的楼盘网站本地服务",
+      "楼盘 - 最全的楼盘网站生活指南",
+      "楼盘 - 最全的楼盘网站便民服务",
+      "楼盘 - 最全的楼盘网站信息查询",
+      "楼盘 - 最全的楼盘网站在线服务"
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "siteType": "niche",
+  "nicheName": "地毯",
+  "nichePinyin": "ditan",
+  "siteTitle": "地毯导航 - 最全的地毯网站导航",
+  "siteDescription": "地毯导航站，汇集地毯最优质的官方网站和资源，一站式满足您的所有需求。",
+  "categories": [
+    {
+      "name": "官方网站",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=地毯",
+          "desc": "搜索地毯相关信息"
+        },
+        {
+          "name": "知乎话题",
+          "url": "https://www.zhihu.com/",
+          "desc": "地毯经验问答"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "地毯经验分享"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=地毯",
+          "desc": "地毯视频教程"
+        },
+        {
+          "name": "知乎问答",
+          "url": "https://www.zhihu.com/",
+          "desc": "地毯问答社区"
+        },
+        {
+          "name": "豆瓣小组",
+          "url": "https://www.douban.com/",
+          "desc": "地毯交流小组"
+        }
+      ]
+    },
+    {
+      "name": "工具软件",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=地毯工具",
+          "desc": "搜索地毯相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "地毯工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区论坛",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "地毯交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "地毯分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "地毯贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯媒体",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=地毯",
+          "desc": "百度搜索地毯相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=地毯",
+          "desc": "B站地毯视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=地毯",
+          "desc": "微博地毯热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 42.76,
+      "lng": 131.76,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "地毯 - 最全的地毯网站",
+      "geo.position": "42.76;131.76",
+      "ICBM": "42.76, 131.76",
+      "geo.latitude": 42.76,
+      "geo.longitude": 131.76,
+      "geo.city": "地毯 - 最全的地毯网站",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "地毯 - 最全的地毯网站导航",
+      "地毯 - 最全的地毯网站网站",
+      "地毯 - 最全的地毯网站网址",
+      "地毯 - 最全的地毯网站本地服务",
+      "地毯 - 最全的地毯网站生活指南",
+      "地毯 - 最全的地毯网站便民服务",
+      "地毯 - 最全的地毯网站信息查询",
+      "地毯 - 最全的地毯网站在线服务"
+    ]
+  }
+}

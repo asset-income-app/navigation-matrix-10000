@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jianzhi-nav.pages.dev/sitemap.xml

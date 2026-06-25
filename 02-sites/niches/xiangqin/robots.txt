@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiangqin-nav.pages.dev/sitemap.xml

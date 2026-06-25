@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "养老院导航 - 最全的养老院网站导航",
+  "description": "养老院导航站，汇集养老院最优质的官方网站和资源，一站式满足您的所有需求。",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "养老院 - 最全的养老院网站",
+    "addressRegion": "中国",
+    "addressCountry": "CN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.75,
+    "longitude": 76.75
+  },
+  "url": "https://niche-养老院 - 最全的养老院网站.com",
+  "telephone": "+86-400-888-8888",
+  "openingHours": "Mo-Su 00:00-23:59",
+  "priceRange": "$$",
+  "areaServed": {
+    "@type": "City",
+    "name": "养老院 - 最全的养老院网站"
+  }
+}

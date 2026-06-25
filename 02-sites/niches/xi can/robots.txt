@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xi can-nav.pages.dev/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://耳鼻喉-蚌埠-nav.pages.dev/sitemap.xml

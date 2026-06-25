@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://panjin-nav.pages.dev/sitemap.xml

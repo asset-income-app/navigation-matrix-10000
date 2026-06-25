@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deyupexun-nav.pages.dev/sitemap.xml

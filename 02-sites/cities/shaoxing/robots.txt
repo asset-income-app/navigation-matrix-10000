@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shaoxing-nav.pages.dev/sitemap.xml

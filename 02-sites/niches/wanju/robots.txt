@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wanju-nav.pages.dev/sitemap.xml

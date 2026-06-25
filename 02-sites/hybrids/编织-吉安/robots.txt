@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://编织-吉安-nav.pages.dev/sitemap.xml

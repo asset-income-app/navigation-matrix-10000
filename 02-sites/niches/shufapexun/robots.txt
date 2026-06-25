@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shufapexun-nav.pages.dev/sitemap.xml

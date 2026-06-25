@@ -1,0 +1,161 @@
+{
+  "siteType": "hybrid",
+  "nicheName": "财务顾问",
+  "cityName": "阜阳",
+  "siteTitle": "阜阳财务顾问导航 - 阜阳财务顾问最全网站导航",
+  "siteDescription": "阜阳财务顾问导航站，汇集阜阳财务顾问最优质的官方网站和资源，一站式满足您的所有需求。",
+  "variant": "variant-orange",
+  "contact": {
+    "email": "931249697@qq.com",
+    "qq": "931249697"
+  },
+  "categories": [
+    {
+      "name": "本地服务",
+      "links": [
+        {
+          "name": "阜阳财务顾问搜索",
+          "url": "https://www.baidu.com/s?wd=阜阳财务顾问",
+          "desc": "搜索阜阳财务顾问相关信息"
+        },
+        {
+          "name": "美团",
+          "url": "https://www.meituan.com/",
+          "desc": "阜阳本地服务"
+        },
+        {
+          "name": "58同城",
+          "url": "https://www.58.com/",
+          "desc": "阜阳本地信息"
+        }
+      ]
+    },
+    {
+      "name": "学习资源",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "财务顾问经验问答"
+        },
+        {
+          "name": "B站",
+          "url": "https://search.bilibili.com/all?keyword=财务顾问",
+          "desc": "财务顾问视频教程"
+        },
+        {
+          "name": "小红书",
+          "url": "https://www.xiaohongshu.com/",
+          "desc": "财务顾问经验分享"
+        }
+      ]
+    },
+    {
+      "name": "工具平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=财务顾问工具",
+          "desc": "搜索财务顾问相关工具"
+        },
+        {
+          "name": "知乎推荐",
+          "url": "https://www.zhihu.com/",
+          "desc": "财务顾问工具推荐"
+        }
+      ]
+    },
+    {
+      "name": "社区交流",
+      "links": [
+        {
+          "name": "知乎",
+          "url": "https://www.zhihu.com/",
+          "desc": "财务顾问交流社区"
+        },
+        {
+          "name": "豆瓣",
+          "url": "https://www.douban.com/",
+          "desc": "财务顾问分享社区"
+        },
+        {
+          "name": "贴吧",
+          "url": "https://tieba.baidu.com/",
+          "desc": "财务顾问贴吧"
+        }
+      ]
+    },
+    {
+      "name": "资讯动态",
+      "links": [
+        {
+          "name": "人民网",
+          "url": "http://www.people.com.cn/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "新华网",
+          "url": "http://www.xinhuanet.com/",
+          "desc": "新闻资讯"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=财务顾问",
+          "desc": "财务顾问热门话题"
+        }
+      ]
+    },
+    {
+      "name": "综合平台",
+      "links": [
+        {
+          "name": "百度搜索",
+          "url": "https://www.baidu.com/s?wd=阜阳财务顾问",
+          "desc": "搜索阜阳财务顾问相关信息"
+        },
+        {
+          "name": "B站视频",
+          "url": "https://search.bilibili.com/all?keyword=阜阳财务顾问",
+          "desc": "阜阳财务顾问视频教程"
+        },
+        {
+          "name": "微博",
+          "url": "https://s.weibo.com/weibo?q=阜阳财务顾问",
+          "desc": "阜阳财务顾问热门话题"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "geo": {
+    "coordinates": {
+      "lat": 19.65,
+      "lng": 108.65,
+      "region": "中国",
+      "province": "中国"
+    },
+    "meta": {
+      "geo.region": "CN-中国",
+      "geo.placename": "阜阳",
+      "geo.position": "19.65;108.65",
+      "ICBM": "19.65, 108.65",
+      "geo.latitude": 19.65,
+      "geo.longitude": 108.65,
+      "geo.city": "阜阳",
+      "geo.province": "中国",
+      "geo.country": "中国"
+    },
+    "localKeywords": [
+      "阜阳导航",
+      "阜阳网站",
+      "阜阳网址",
+      "阜阳本地服务",
+      "阜阳生活指南",
+      "阜阳便民服务",
+      "阜阳信息查询",
+      "阜阳在线服务",
+      "阜阳财务顾问",
+      "财务顾问阜阳"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://公务员-深圳.pages.dev/sitemap.xml
