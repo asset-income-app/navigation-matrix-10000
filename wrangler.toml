@@ -1,8 +1,0 @@
-
-name = "navigation-matrix-unified"
-compatibility_date = "2024-01-01"
-pages_build_output_dir = "02-sites"
-
-# 部署配置
-[site]
-bucket = "./02-sites"
