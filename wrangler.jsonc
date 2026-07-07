@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "navigation-matrix-10000",
+  "compatibility_date": "2026-07-07",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "03-central-hub"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
