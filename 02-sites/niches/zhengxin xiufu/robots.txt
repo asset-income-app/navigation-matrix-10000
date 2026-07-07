@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://zhengxin xiufu-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://保险顾问-大同-nav.pages.dev/sitemap.xml

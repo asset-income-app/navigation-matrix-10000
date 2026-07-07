@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://搬家货运-鹤岗.pages.dev/sitemap.xml

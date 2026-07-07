@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://美食-上海.pages.dev/sitemap.xml

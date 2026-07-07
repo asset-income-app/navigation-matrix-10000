@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://壁纸-白山-nav.pages.dev/sitemap.xml

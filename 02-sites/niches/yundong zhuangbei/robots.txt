@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://yundong zhuangbei-nav.pages.dev/sitemap.xml

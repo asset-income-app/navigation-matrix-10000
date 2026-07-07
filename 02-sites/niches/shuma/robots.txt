@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://shuma-nav.pages.dev/sitemap.xml

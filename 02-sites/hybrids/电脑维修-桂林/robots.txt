@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://电脑维修-桂林-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://财务顾问-防城港-nav.pages.dev/sitemap.xml

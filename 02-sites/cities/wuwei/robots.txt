@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://wuwei-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://钓鱼-菏泽-nav.pages.dev/sitemap.xml

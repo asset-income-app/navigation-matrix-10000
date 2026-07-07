@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://财税咨询-达州-nav.pages.dev/sitemap.xml

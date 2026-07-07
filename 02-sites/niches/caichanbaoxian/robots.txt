@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://caichanbaoxian-nav.pages.dev/sitemap.xml

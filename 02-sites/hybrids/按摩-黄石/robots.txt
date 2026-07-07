@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://按摩-黄石.pages.dev/sitemap.xml

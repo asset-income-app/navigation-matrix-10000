@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://二手车-惠州-nav.pages.dev/sitemap.xml

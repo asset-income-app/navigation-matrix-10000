@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://艾灸-达州.pages.dev/sitemap.xml

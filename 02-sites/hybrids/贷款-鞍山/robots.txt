@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://贷款-鞍山-nav.pages.dev/sitemap.xml

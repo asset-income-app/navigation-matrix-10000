@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://壁纸-阜新-nav.pages.dev/sitemap.xml

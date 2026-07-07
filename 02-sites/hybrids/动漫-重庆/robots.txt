@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://动漫-重庆-nav.pages.dev/sitemap.xml

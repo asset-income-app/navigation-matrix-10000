@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://fangchan touzi-nav.pages.dev/sitemap.xml

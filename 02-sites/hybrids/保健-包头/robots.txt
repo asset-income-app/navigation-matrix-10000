@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://保健-包头.pages.dev/sitemap.xml

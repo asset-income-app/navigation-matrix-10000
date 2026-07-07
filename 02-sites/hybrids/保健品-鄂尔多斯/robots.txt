@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://保健品-鄂尔多斯-nav.pages.dev/sitemap.xml

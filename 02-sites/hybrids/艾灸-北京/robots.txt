@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://艾灸-北京.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://搬家-安庆.pages.dev/sitemap.xml

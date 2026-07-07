@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://保姆月嫂-黄山-nav.pages.dev/sitemap.xml

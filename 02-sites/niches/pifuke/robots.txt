@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://pifuke-nav.pages.dev/sitemap.xml

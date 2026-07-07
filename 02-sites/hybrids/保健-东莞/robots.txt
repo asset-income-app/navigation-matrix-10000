@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://保健-东莞.pages.dev/sitemap.xml

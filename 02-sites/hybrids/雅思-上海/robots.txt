@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://雅思-上海.pages.dev/sitemap.xml

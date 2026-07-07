@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://dujiacun-nav.pages.dev/sitemap.xml

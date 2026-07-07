@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://抵押贷-阜新-nav.pages.dev/sitemap.xml

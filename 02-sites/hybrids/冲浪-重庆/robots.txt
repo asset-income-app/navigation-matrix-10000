@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://冲浪-重庆-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://儿童用品-白山-nav.pages.dev/sitemap.xml

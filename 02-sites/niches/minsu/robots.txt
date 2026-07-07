@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://minsu-nav.pages.dev/sitemap.xml

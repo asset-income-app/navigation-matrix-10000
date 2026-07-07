@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://耳鼻喉-怀化-nav.pages.dev/sitemap.xml

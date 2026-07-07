@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://spa-nav.pages.dev/sitemap.xml

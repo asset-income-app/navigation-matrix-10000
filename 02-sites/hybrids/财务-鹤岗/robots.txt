@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://财务-鹤岗-nav.pages.dev/sitemap.xml

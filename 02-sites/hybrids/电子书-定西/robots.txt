@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://电子书-定西-nav.pages.dev/sitemap.xml

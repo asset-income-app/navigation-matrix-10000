@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://厂房-东营-nav.pages.dev/sitemap.xml

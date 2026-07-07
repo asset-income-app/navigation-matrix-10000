@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://茶饮-淮安-nav.pages.dev/sitemap.xml

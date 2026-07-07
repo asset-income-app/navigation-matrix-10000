@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://财务-滨州-nav.pages.dev/sitemap.xml

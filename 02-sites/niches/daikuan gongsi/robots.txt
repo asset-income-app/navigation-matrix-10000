@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://daikuan gongsi-nav.pages.dev/sitemap.xml

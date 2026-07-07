@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://suzhou-nav.pages.dev/sitemap.xml

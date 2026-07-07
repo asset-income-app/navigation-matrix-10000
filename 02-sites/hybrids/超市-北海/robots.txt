@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://超市-北海-nav.pages.dev/sitemap.xml

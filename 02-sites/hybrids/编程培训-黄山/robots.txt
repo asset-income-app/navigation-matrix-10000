@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://编程培训-黄山-nav.pages.dev/sitemap.xml

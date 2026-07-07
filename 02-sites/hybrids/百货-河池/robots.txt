@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://百货-河池.pages.dev/sitemap.xml

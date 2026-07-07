@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://erji-nav.pages.dev/sitemap.xml

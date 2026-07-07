@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://安全工程师-鹤壁.pages.dev/sitemap.xml

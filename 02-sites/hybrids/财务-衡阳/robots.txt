@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://财务-衡阳-nav.pages.dev/sitemap.xml

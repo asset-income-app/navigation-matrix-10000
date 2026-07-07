@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bieshu-nav.pages.dev/sitemap.xml

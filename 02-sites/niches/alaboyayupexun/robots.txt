@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://alaboyayupexun-nav.pages.dev/sitemap.xml

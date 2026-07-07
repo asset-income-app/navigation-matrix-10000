@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://sanmenxia-nav.pages.dev/sitemap.xml

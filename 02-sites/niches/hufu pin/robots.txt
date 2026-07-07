@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://hufu pin-nav.pages.dev/sitemap.xml

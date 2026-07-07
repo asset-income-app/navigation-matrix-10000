@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://quzhou-nav.pages.dev/sitemap.xml

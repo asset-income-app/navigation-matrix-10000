@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://灯具-焦作-nav.pages.dev/sitemap.xml

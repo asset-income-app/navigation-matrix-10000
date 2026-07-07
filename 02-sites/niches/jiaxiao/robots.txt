@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jiaxiao-nav.pages.dev/sitemap.xml

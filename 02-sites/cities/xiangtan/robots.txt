@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://xiangtan-nav.pages.dev/sitemap.xml

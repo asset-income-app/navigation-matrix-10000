@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://excel-怀化-nav.pages.dev/sitemap.xml

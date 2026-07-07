@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://宠物寄养-亳州-nav.pages.dev/sitemap.xml

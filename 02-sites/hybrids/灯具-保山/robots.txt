@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://灯具-保山-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://注册会计师-呼和浩特-nav.pages.dev/sitemap.xml

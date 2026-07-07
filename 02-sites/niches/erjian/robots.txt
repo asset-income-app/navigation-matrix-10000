@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://erjian-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://xingtai-nav.pages.dev/sitemap.xml

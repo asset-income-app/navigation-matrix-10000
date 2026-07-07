@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://搬家-长沙.pages.dev/sitemap.xml

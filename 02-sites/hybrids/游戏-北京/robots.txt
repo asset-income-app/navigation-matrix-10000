@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://游戏-北京.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://qitaihe-nav.pages.dev/sitemap.xml

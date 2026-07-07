@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://百货-贺州.pages.dev/sitemap.xml

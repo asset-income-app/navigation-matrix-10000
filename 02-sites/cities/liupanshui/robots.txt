@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://liupanshui-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://摄影-北京.pages.dev/sitemap.xml

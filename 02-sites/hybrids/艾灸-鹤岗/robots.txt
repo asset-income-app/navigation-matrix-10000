@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://艾灸-鹤岗.pages.dev/sitemap.xml

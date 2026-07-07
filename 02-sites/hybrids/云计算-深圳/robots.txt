@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://云计算-深圳.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ershouche-nav.pages.dev/sitemap.xml

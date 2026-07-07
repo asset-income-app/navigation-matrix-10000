@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://度假村-阜阳-nav.pages.dev/sitemap.xml

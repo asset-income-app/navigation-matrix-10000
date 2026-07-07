@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://yidaliyupexun-nav.pages.dev/sitemap.xml

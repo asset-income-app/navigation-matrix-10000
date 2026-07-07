@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://投资-北京.pages.dev/sitemap.xml

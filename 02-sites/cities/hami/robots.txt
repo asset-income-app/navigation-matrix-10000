@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://hami-nav.pages.dev/sitemap.xml

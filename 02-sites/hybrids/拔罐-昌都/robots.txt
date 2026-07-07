@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://拔罐-昌都.pages.dev/sitemap.xml

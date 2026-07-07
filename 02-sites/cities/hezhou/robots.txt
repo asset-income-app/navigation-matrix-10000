@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://hezhou-nav.pages.dev/sitemap.xml

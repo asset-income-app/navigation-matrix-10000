@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://大数据培训-本溪-nav.pages.dev/sitemap.xml

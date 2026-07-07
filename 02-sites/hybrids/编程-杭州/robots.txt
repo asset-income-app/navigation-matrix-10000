@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://编程-杭州.pages.dev/sitemap.xml

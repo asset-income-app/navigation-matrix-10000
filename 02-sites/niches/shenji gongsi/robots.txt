@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://shenji gongsi-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://人工智能-上海.pages.dev/sitemap.xml

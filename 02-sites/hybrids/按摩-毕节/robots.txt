@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://按摩-毕节.pages.dev/sitemap.xml

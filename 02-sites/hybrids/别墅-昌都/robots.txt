@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://别墅-昌都-nav.pages.dev/sitemap.xml

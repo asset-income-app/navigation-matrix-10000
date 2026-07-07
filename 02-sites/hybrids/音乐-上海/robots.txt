@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://音乐-上海.pages.dev/sitemap.xml

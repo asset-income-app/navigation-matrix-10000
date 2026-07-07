@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://保姆月嫂-河池-nav.pages.dev/sitemap.xml

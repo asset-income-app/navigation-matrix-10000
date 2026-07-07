@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://拔罐-达州.pages.dev/sitemap.xml

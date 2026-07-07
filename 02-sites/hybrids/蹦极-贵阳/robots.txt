@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://蹦极-贵阳-nav.pages.dev/sitemap.xml

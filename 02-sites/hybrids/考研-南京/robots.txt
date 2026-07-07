@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://考研-南京.pages.dev/sitemap.xml

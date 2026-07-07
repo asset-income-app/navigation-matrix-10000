@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://壁纸-广安-nav.pages.dev/sitemap.xml

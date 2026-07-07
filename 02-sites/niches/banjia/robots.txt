@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://banjia-nav.pages.dev/sitemap.xml

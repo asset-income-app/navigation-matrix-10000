@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://搬家-常德.pages.dev/sitemap.xml

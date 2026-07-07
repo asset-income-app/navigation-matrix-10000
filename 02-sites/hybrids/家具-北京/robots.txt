@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://家具-北京.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://财务报表-鄂州-nav.pages.dev/sitemap.xml

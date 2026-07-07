@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://餐厅-哈密-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://百货-嘉兴.pages.dev/sitemap.xml

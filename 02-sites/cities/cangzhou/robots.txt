@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://cangzhou-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://hunli siyi-nav.pages.dev/sitemap.xml

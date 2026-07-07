@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://编织-黑河-nav.pages.dev/sitemap.xml

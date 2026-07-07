@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://zhangjiajie-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://fangwuzhuangxiu-nav.pages.dev/sitemap.xml

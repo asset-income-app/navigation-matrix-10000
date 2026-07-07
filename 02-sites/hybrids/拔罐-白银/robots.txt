@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://拔罐-白银.pages.dev/sitemap.xml

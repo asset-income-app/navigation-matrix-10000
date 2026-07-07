@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://餐厅-淮南-nav.pages.dev/sitemap.xml

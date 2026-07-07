@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://雕塑-定西-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://艾灸-固原.pages.dev/sitemap.xml

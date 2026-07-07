@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://拔罐-巴彦淖尔.pages.dev/sitemap.xml

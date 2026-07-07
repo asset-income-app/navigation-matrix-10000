@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://emba-nav.pages.dev/sitemap.xml

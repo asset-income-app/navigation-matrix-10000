@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://编程-鹤壁-nav.pages.dev/sitemap.xml

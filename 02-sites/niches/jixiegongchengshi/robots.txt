@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jixiegongchengshi-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://gupiaofenxi-nav.pages.dev/sitemap.xml

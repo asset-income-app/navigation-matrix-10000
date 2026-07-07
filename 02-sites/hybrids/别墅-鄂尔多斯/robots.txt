@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://别墅-鄂尔多斯-nav.pages.dev/sitemap.xml

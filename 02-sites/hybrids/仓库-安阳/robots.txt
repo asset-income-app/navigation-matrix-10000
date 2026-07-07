@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://仓库-安阳-nav.pages.dev/sitemap.xml

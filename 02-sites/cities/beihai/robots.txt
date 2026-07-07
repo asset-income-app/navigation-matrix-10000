@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://beihai-nav.pages.dev/sitemap.xml

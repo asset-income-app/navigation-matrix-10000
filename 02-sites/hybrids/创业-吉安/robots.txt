@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://创业-吉安-nav.pages.dev/sitemap.xml

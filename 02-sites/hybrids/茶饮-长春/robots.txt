@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://茶饮-长春-nav.pages.dev/sitemap.xml

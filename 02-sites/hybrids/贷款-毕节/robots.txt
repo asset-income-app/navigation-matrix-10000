@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://贷款-毕节-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://xinche-nav.pages.dev/sitemap.xml

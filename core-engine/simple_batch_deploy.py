@@ -86,8 +86,10 @@ def deploy_batch(batch_dir, batch_number):
         print("正在部署...")
         
         # 使用wrangler pages deploy命令
+        wrangler_path = "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\wrangler.cmd"
+        project_name = f"navigation-matrix-{batch_number}"
         result = subprocess.run(
-            ["wrangler", "pages", "deploy", str(batch_dir), "--project-name=navigation-matrix-{batch_number}"],
+            [wrangler_path, "pages", "deploy", str(batch_dir), "--project-name", project_name],
             capture_output=True,
             text=True,
             cwd=PROJECT_ROOT
@@ -124,8 +126,9 @@ def deploy_hub():
     try:
         print("正在部署超级总站...")
         
+        wrangler_path = "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\wrangler.cmd"
         result = subprocess.run(
-            ["wrangler", "pages", "deploy", str(hub_dir), "--project-name=navigation-matrix-hub"],
+            [wrangler_path, "pages", "deploy", str(hub_dir), "--project-name=navigation-matrix-hub"],
             capture_output=True,
             text=True,
             cwd=PROJECT_ROOT
@@ -173,12 +176,7 @@ def main():
     print("  批次5: 2000站 (组合站1800)")
     print("  超级总站: 链接所有批次")
     
-    print("\n是否开始部署？(y/n)")
-    choice = input().strip().lower()
-    
-    if choice != 'y':
-        print("取消部署")
-        return
+    print("\n开始部署...")
     
     # 创建批次
     batches = [

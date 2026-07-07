@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jiazhengbaojie-nav.pages.dev/sitemap.xml

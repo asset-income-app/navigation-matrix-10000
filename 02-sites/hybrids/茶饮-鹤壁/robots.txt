@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://茶饮-鹤壁-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://贷款申请-赤峰-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://hengshui-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://冲浪-鄂尔多斯-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://chongwumeirong-nav.pages.dev/sitemap.xml

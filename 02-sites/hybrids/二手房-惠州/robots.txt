@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://二手房-惠州-nav.pages.dev/sitemap.xml

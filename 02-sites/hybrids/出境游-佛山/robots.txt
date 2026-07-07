@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://出境游-佛山-nav.pages.dev/sitemap.xml

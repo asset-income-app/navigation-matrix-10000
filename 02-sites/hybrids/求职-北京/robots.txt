@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://求职-北京.pages.dev/sitemap.xml

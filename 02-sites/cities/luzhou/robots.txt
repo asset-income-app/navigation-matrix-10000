@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://luzhou-nav.pages.dev/sitemap.xml

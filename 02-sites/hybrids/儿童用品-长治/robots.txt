@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://儿童用品-长治-nav.pages.dev/sitemap.xml

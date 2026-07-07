@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://wu ren ji-nav.pages.dev/sitemap.xml

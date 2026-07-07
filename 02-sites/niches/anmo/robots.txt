@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://anmo-nav.pages.dev/sitemap.xml

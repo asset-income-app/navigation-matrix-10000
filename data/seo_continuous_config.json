@@ -1,0 +1,13 @@
+{
+  "seo_continuous": {
+    "enabled": true,
+    "version": "1.0",
+    "update_interval": 86400,
+    "strategies": [
+      "keywords",
+      "content",
+      "technical",
+      "backlinks"
+    ]
+  }
+}

@@ -1,237 +1,129 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-流量分析系统 - traffic_analyzer.py
-分析站点流量数据，优化流量策略
+流量分析脚本 - 分析站点流量数据，生成流量报告
 """
 
-import os
 import json
+import os
+import sys
+from datetime import datetime
 from pathlib import Path
-from datetime import datetime, timedelta
-import random
 
 ROOT_DIR = Path(__file__).parent.parent
-SITES_DIR = ROOT_DIR / "02-sites"
 DATA_DIR = ROOT_DIR / "data"
 
-def generate_mock_traffic_data():
-    """生成模拟流量数据（用于测试）"""
-    print("\n" + "="*60)
-    print("📊 流量分析系统 - 生成模拟数据")
-    print("="*60)
+def analyze_traffic_potential():
+    """分析流量潜力"""
+    print("=" * 60)
+    print("流量潜力分析报告")
+    print("=" * 60)
+    print(f"分析时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print()
     
-    traffic_data = {
-        "timestamp": datetime.now().isoformat(),
-        "sites": []
-    }
+    # 站点流量潜力估算
+    print("站点流量潜力估算:")
+    print("-" * 60)
     
-    for site_type in ['cities', 'niches', 'hybrids']:
-        type_dir = SITES_DIR / site_type
-        if not type_dir.exists():
-            continue
-        
-        sites = [d for d in type_dir.iterdir() if d.is_dir() and not d.name.startswith('.')]
-        
-        for site_dir in sites:
-            # 模拟流量数据
-            daily_visitors = random.randint(50, 500)
-            daily_page_views = daily_visitors * random.randint(2, 5)
-            bounce_rate = random.uniform(0.3, 0.7)
-            avg_session_duration = random.randint(30, 300)
+    # 城市站流量潜力
+    cities_file = DATA_DIR / 'cities.json'
+    if cities_file.exists():
+        try:
+            with open(cities_file, 'r', encoding='utf-8') as f:
+                cities = json.load(f)
             
-            traffic_data["sites"].append({
-                "site_name": site_dir.name,
-                "site_type": site_type,
-                "daily_visitors": daily_visitors,
-                "daily_page_views": daily_page_views,
-                "bounce_rate": round(bounce_rate, 2),
-                "avg_session_duration": avg_session_duration,
-                "traffic_sources": {
-                    "direct": random.randint(10, 30),
-                    "organic_search": random.randint(30, 60),
-                    "social_media": random.randint(5, 20),
-                    "referral": random.randint(5, 15)
-                },
-                "top_pages": [
-                    {"path": "/", "views": random.randint(20, 100)},
-                    {"path": "/#services", "views": random.randint(10, 50)},
-                    {"path": "/#education", "views": random.randint(10, 50)}
-                ]
-            })
+            city_count = len(cities)
+            # 估算流量：每个城市站平均100-500访问/天
+            estimated_city_traffic = city_count * 200  # 平均200访问/天
+            print(f"城市站: {city_count}个")
+            print(f"估算日流量: {estimated_city_traffic}访问")
+            print(f"估算月流量: {estimated_city_traffic * 30}访问")
+            
+        except Exception as e:
+            print(f"城市站文件解析错误: {e}")
     
-    # 保存流量数据
-    traffic_file = DATA_DIR / "logs" / "traffic_data.json"
-    traffic_file.parent.mkdir(parents=True, exist_ok=True)
-    traffic_file.write_text(json.dumps(traffic_data, indent=2))
+    print()
     
-    print(f"✅ 已生成模拟流量数据")
-    print(f"  站点数: {len(traffic_data['sites'])}")
-    print(f"  文件: {traffic_file}")
-    print("="*60)
+    # 行业站流量潜力
+    niches_file = DATA_DIR / 'niches.json'
+    if niches_file.exists():
+        try:
+            with open(niches_file, 'r', encoding='utf-8') as f:
+                niches = json.load(f)
+            
+            niche_count = len(niches)
+            # 估算流量：每个行业站平均50-300访问/天
+            estimated_niche_traffic = niche_count * 100  # 平均100访问/天
+            print(f"行业站: {niche_count}个")
+            print(f"估算日流量: {estimated_niche_traffic}访问")
+            print(f"估算月流量: {estimated_niche_traffic * 30}访问")
+            
+        except Exception as e:
+            print(f"行业站文件解析错误: {e}")
     
-    return traffic_data
-
-def analyze_traffic_data():
-    """分析流量数据"""
-    print("\n" + "="*60)
-    print("📈 流量数据分析")
-    print("="*60)
+    print()
     
-    traffic_file = DATA_DIR / "logs" / "traffic_data.json"
+    # 组合站流量潜力
+    hybrids_file = DATA_DIR / 'hybrids.json'
+    if hybrids_file.exists():
+        try:
+            with open(hybrids_file, 'r', encoding='utf-8') as f:
+                hybrids = json.load(f)
+            
+            hybrid_count = len(hybrids)
+            # 估算流量：每个组合站平均30-200访问/天
+            estimated_hybrid_traffic = hybrid_count * 80  # 平均80访问/天
+            print(f"组合站: {hybrid_count}个")
+            print(f"估算日流量: {estimated_hybrid_traffic}访问")
+            print(f"估算月流量: {estimated_hybrid_traffic * 30}访问")
+            
+        except Exception as e:
+            print(f"组合站文件解析错误: {e}")
     
-    if not traffic_file.exists():
-        print("⚠️  流量数据不存在，生成模拟数据...")
-        traffic_data = generate_mock_traffic_data()
-    else:
-        traffic_data = json.loads(traffic_file.read_text())
+    print()
     
-    # 计算统计数据
-    total_visitors = sum(s['daily_visitors'] for s in traffic_data['sites'])
-    total_page_views = sum(s['daily_page_views'] for s in traffic_data['sites'])
-    avg_bounce_rate = sum(s['bounce_rate'] for s in traffic_data['sites']) / len(traffic_data['sites'])
-    avg_session_duration = sum(s['avg_session_duration'] for s in traffic_data['sites']) / len(traffic_data['sites'])
+    # 总流量潜力
+    print("总流量潜力估算:")
+    print("-" * 60)
     
-    # 按站点类型统计
-    type_stats = {}
-    for site_type in ['cities', 'niches', 'hybrids']:
-        type_sites = [s for s in traffic_data['sites'] if s['site_type'] == site_type]
-        if type_sites:
-            type_stats[site_type] = {
-                "count": len(type_sites),
-                "total_visitors": sum(s['daily_visitors'] for s in type_sites),
-                "avg_visitors": sum(s['daily_visitors'] for s in type_sites) / len(type_sites),
-                "total_page_views": sum(s['daily_page_views'] for s in type_sites)
-            }
+    total_daily_traffic = estimated_city_traffic + estimated_niche_traffic + estimated_hybrid_traffic
+    total_monthly_traffic = total_daily_traffic * 30
+    total_yearly_traffic = total_daily_traffic * 365
     
-    # 找出高流量站点
-    high_traffic_sites = sorted(traffic_data['sites'], key=lambda x: x['daily_visitors'], reverse=True)[:10]
+    print(f"总站点: {city_count + niche_count + hybrid_count}个")
+    print(f"估算日总流量: {total_daily_traffic}访问")
+    print(f"估算月总流量: {total_monthly_traffic}访问")
+    print(f"估算年总流量: {total_yearly_traffic}访问")
     
-    # 找出低流量站点
-    low_traffic_sites = sorted(traffic_data['sites'], key=lambda x: x['daily_visitors'])[:10]
+    print()
     
-    # 生成分析报告
-    report = {
-        "timestamp": datetime.now().isoformat(),
-        "summary": {
-            "total_sites": len(traffic_data['sites']),
-            "total_visitors": total_visitors,
-            "total_page_views": total_page_views,
-            "avg_bounce_rate": round(avg_bounce_rate, 2),
-            "avg_session_duration": round(avg_session_duration, 2)
-        },
-        "type_stats": type_stats,
-        "high_traffic_sites": [{"site_name": s['site_name'], "visitors": s['daily_visitors']} for s in high_traffic_sites],
-        "low_traffic_sites": [{"site_name": s['site_name'], "visitors": s['daily_visitors']} for s in low_traffic_sites],
-        "recommendations": []
-    }
+    # 流量优化建议
+    print("流量优化建议:")
+    print("-" * 60)
+    print("1. SEO优化：提升关键词排名，增加自然流量")
+    print("2. 内容优化：增加内容丰富度，提升用户停留时间")
+    print("3. 社交推广：通过社交媒体推广，增加外部流量")
+    print("4. 广告投放：精准投放广告，增加付费流量")
+    print("5. 站点扩展：增加站点数量，扩大流量覆盖")
     
-    # 生成优化建议
-    if avg_bounce_rate > 0.5:
-        report["recommendations"].append("跳出率偏高，建议优化首页内容和导航结构")
+    print()
     
-    if avg_session_duration < 60:
-        report["recommendations"].append("用户停留时间短，建议增加互动内容和引导")
+    # 流量来源分析
+    print("流量来源分析:")
+    print("-" * 60)
+    print("自然流量（SEO）：预计占比 60-70%")
+    print("直接流量（品牌）：预计占比 20-30%")
+    print("社交流量（推广）：预计占比 5-10%")
+    print("广告流量（付费）：预计占比 1-5%")
     
-    if total_visitors < 10000:
-        report["recommendations"].append("总流量偏低，建议加强SEO优化和社交媒体推广")
-    
-    # 保存分析报告
-    report_file = DATA_DIR / "logs" / "traffic_analysis_report.json"
-    report_file.write_text(json.dumps(report, indent=2))
-    
-    print("\n📊 流量统计:")
-    print(f"  总站点数: {len(traffic_data['sites'])}")
-    print(f"  总访问量: {total_visitors} 人/天")
-    print(f"  总浏览量: {total_page_views} 页/天")
-    print(f"  平均跳出率: {round(avg_bounce_rate * 100, 2)}%")
-    print(f"  平均停留时间: {round(avg_session_duration, 2)}秒")
-    
-    print("\n📈 类型统计:")
-    for site_type, stats in type_stats.items():
-        print(f"  {site_type}: {stats['count']}站, {stats['total_visitors']}人/天, 平均{round(stats['avg_visitors'], 2)}人/站")
-    
-    print("\n🔥 高流量站点 (前10):")
-    for site in high_traffic_sites:
-        print(f"  {site['site_name']}: {site['daily_visitors']} 人/天")
-    
-    print("\n⚠️  低流量站点 (前10):")
-    for site in low_traffic_sites:
-        print(f"  {site['site_name']}: {site['daily_visitors']} 人/天")
-    
-    print("\n💡 优化建议:")
-    for rec in report["recommendations"]:
-        print(f"  - {rec}")
-    
-    print(f"\n报告文件: {report_file}")
-    print("="*60)
-    
-    return report
-
-def generate_traffic_forecast():
-    """生成流量预测"""
-    print("\n" + "="*60)
-    print("🔮 流量预测")
-    print("="*60)
-    
-    traffic_file = DATA_DIR / "logs" / "traffic_data.json"
-    
-    if not traffic_file.exists():
-        print("⚠️  流量数据不存在，请先运行流量分析")
-        return
-    
-    traffic_data = json.loads(traffic_file.read_text())
-    
-    # 基于当前数据预测未来7天流量
-    current_visitors = sum(s['daily_visitors'] for s in traffic_data['sites'])
-    
-    forecast = {
-        "timestamp": datetime.now().isoformat(),
-        "current_daily_visitors": current_visitors,
-        "predictions": []
-    }
-    
-    # 简单预测模型（假设每天增长5%）
-    for i in range(1, 8):
-        predicted_visitors = current_visitors * (1 + 0.05 * i)
-        forecast["predictions"].append({
-            "day": i,
-            "date": (datetime.now() + timedelta(days=i)).strftime("%Y-%m-%d"),
-            "predicted_visitors": round(predicted_visitors),
-            "growth_rate": f"{5*i}%"
-        })
-    
-    # 保存预测数据
-    forecast_file = DATA_DIR / "logs" / "traffic_forecast.json"
-    forecast_file.write_text(json.dumps(forecast, indent=2))
-    
-    print(f"当前日访问量: {current_visitors} 人")
-    print("\n未来7天预测:")
-    for pred in forecast["predictions"]:
-        print(f"  第{pred['day']}天 ({pred['date']}): {pred['predicted_visitors']} 人 (增长{pred['growth_rate']})")
-    
-    print(f"\n预测文件: {forecast_file}")
-    print("="*60)
+    print()
+    print("=" * 60)
+    print("流量分析报告完成")
+    print("=" * 60)
 
 def main():
     """主函数"""
-    import sys
-    
-    if len(sys.argv) > 1:
-        command = sys.argv[1]
-        
-        if command == "analyze":
-            analyze_traffic_data()
-        elif command == "forecast":
-            generate_traffic_forecast()
-        elif command == "mock":
-            generate_mock_traffic_data()
-        else:
-            print("用法: python traffic_analyzer.py [analyze|forecast|mock]")
-    else:
-        # 默认执行分析
-        analyze_traffic_data()
-        generate_traffic_forecast()
+    analyze_traffic_potential()
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

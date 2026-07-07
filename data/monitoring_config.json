@@ -1,0 +1,186 @@
+{
+  "real_time_monitor": {
+    "enabled": true,
+    "version": "1.0",
+    "created_date": "2026-06-27 11:10:01",
+    "health_monitor": {
+      "check_interval": 300,
+      "alert_threshold": {
+        "health_score_below": 90,
+        "error_rate_above": 5,
+        "link_failure_above": 10
+      },
+      "notification": {
+        "enabled": true,
+        "channels": [
+          "console",
+          "file"
+        ],
+        "priority": "high"
+      }
+    },
+    "performance_monitor": {
+      "check_interval": 600,
+      "metrics": [
+        "response_time",
+        "load_time",
+        "throughput",
+        "error_rate"
+      ],
+      "thresholds": {
+        "response_time_above": 2.0,
+        "load_time_above": 5.0,
+        "error_rate_above": 1.0
+      }
+    },
+    "traffic_monitor": {
+      "check_interval": 1800,
+      "metrics": [
+        "daily_traffic",
+        "hourly_traffic",
+        "traffic_source",
+        "conversion_rate"
+      ],
+      "alert_rules": {
+        "traffic_drop_above": 20,
+        "traffic_spike_above": 200
+      }
+    },
+    "revenue_monitor": {
+      "check_interval": 3600,
+      "metrics": [
+        "daily_revenue",
+        "hourly_revenue",
+        "revenue_source",
+        "conversion_rate"
+      ],
+      "alert_rules": {
+        "revenue_drop_above": 15,
+        "revenue_spike_above": 150
+      }
+    },
+    "system_monitor": {
+      "check_interval": 600,
+      "metrics": [
+        "cpu_usage",
+        "memory_usage",
+        "disk_usage",
+        "network_status"
+      ],
+      "thresholds": {
+        "cpu_usage_above": 80,
+        "memory_usage_above": 85,
+        "disk_usage_above": 90
+      }
+    }
+  },
+  "alert_system": {
+    "enabled": true,
+    "channels": {
+      "console": {
+        "enabled": true,
+        "min_priority": "low"
+      },
+      "file": {
+        "enabled": true,
+        "log_file": "E:\\50\\navigation-matrix-unified\\04-monitor\\alerts.log",
+        "min_priority": "medium"
+      },
+      "email": {
+        "enabled": false,
+        "recipients": [],
+        "min_priority": "high"
+      }
+    },
+    "alert_levels": {
+      "low": {
+        "description": "轻微问题",
+        "color": "yellow",
+        "action": "记录日志"
+      },
+      "medium": {
+        "description": "中度问题",
+        "color": "orange",
+        "action": "发送通知"
+      },
+      "high": {
+        "description": "严重问题",
+        "color": "red",
+        "action": "立即响应"
+      },
+      "critical": {
+        "description": "紧急问题",
+        "color": "black",
+        "action": "紧急处理"
+      }
+    },
+    "alert_rules": [
+      {
+        "rule_id": "health_score_low",
+        "condition": "health_score < 90",
+        "level": "medium",
+        "message": "站点健康度低于90分"
+      },
+      {
+        "rule_id": "traffic_drop",
+        "condition": "traffic_drop > 20%",
+        "level": "high",
+        "message": "流量下降超过20%"
+      },
+      {
+        "rule_id": "revenue_drop",
+        "condition": "revenue_drop > 15%",
+        "level": "high",
+        "message": "收入下降超过15%"
+      },
+      {
+        "rule_id": "system_resource_high",
+        "condition": "cpu_usage > 80%",
+        "level": "medium",
+        "message": "系统资源使用过高"
+      }
+    ]
+  },
+  "monitoring_dashboard": {
+    "enabled": true,
+    "refresh_interval": 60,
+    "widgets": [
+      {
+        "name": "站点健康概览",
+        "type": "health_score",
+        "position": "top-left",
+        "size": "large"
+      },
+      {
+        "name": "实时流量监控",
+        "type": "traffic_chart",
+        "position": "top-right",
+        "size": "large"
+      },
+      {
+        "name": "收入趋势图",
+        "type": "revenue_chart",
+        "position": "middle-left",
+        "size": "medium"
+      },
+      {
+        "name": "系统性能监控",
+        "type": "performance_chart",
+        "position": "middle-right",
+        "size": "medium"
+      },
+      {
+        "name": "报警通知列表",
+        "type": "alert_list",
+        "position": "bottom",
+        "size": "full"
+      }
+    ]
+  },
+  "statistics": {
+    "total_checks": 0,
+    "alerts_triggered": 0,
+    "issues_resolved": 0,
+    "uptime": "100%"
+  }
+}

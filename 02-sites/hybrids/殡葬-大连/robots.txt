@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://殡葬-大连-nav.pages.dev/sitemap.xml

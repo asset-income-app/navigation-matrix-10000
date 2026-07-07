@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://haikou-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bowuguan-nav.pages.dev/sitemap.xml

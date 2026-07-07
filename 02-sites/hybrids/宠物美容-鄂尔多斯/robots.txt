@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://宠物美容-鄂尔多斯-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://zhaoqing-nav.pages.dev/sitemap.xml

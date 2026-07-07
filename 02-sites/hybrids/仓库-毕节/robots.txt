@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://仓库-毕节-nav.pages.dev/sitemap.xml

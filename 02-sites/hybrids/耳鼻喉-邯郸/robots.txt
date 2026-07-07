@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://耳鼻喉-邯郸-nav.pages.dev/sitemap.xml

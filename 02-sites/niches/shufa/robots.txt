@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://shufa-nav.pages.dev/sitemap.xml

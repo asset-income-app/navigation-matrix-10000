@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://儿科-本溪-nav.pages.dev/sitemap.xml

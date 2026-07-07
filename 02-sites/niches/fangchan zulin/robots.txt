@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://fangchan zulin-nav.pages.dev/sitemap.xml

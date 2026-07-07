@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://编织-惠州-nav.pages.dev/sitemap.xml

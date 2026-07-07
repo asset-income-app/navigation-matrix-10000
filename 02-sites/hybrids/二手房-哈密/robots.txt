@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://二手房-哈密-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ankang-nav.pages.dev/sitemap.xml

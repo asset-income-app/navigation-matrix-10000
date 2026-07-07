@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://yuxi-nav.pages.dev/sitemap.xml

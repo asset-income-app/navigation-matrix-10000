@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://基金-深圳.pages.dev/sitemap.xml

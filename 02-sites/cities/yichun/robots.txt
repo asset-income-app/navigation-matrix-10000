@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://yichun-nav.pages.dev/sitemap.xml

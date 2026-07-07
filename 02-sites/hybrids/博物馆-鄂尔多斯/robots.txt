@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://博物馆-鄂尔多斯-nav.pages.dev/sitemap.xml

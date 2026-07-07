@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jinan-nav.pages.dev/sitemap.xml

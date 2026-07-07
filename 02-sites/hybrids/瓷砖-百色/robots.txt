@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://瓷砖-百色-nav.pages.dev/sitemap.xml

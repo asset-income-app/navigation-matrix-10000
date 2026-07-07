@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://厂房-池州-nav.pages.dev/sitemap.xml

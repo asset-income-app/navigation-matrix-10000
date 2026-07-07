@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://拔罐-呼和浩特.pages.dev/sitemap.xml

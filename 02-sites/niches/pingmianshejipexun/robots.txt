@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://pingmianshejipexun-nav.pages.dev/sitemap.xml

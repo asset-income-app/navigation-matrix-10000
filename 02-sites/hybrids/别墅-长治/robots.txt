@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://别墅-长治-nav.pages.dev/sitemap.xml

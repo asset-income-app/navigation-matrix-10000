@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://德语培训-东营-nav.pages.dev/sitemap.xml

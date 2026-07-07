@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://保洁服务-邯郸-nav.pages.dev/sitemap.xml

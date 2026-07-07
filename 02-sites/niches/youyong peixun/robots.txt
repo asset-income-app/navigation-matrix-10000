@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://youyong peixun-nav.pages.dev/sitemap.xml

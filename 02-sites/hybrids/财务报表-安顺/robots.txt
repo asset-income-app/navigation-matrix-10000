@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://财务报表-安顺-nav.pages.dev/sitemap.xml

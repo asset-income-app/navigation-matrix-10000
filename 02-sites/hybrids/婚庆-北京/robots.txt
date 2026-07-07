@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://婚庆-北京.pages.dev/sitemap.xml

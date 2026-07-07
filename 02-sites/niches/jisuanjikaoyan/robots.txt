@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jisuanjikaoyan-nav.pages.dev/sitemap.xml

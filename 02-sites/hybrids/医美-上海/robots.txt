@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://医美-上海.pages.dev/sitemap.xml

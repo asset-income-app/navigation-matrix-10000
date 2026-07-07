@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://财务顾问-广州-nav.pages.dev/sitemap.xml

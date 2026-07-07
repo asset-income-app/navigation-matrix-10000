@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://德语培训-达州-nav.pages.dev/sitemap.xml

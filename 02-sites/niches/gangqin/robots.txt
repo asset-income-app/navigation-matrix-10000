@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://gangqin-nav.pages.dev/sitemap.xml

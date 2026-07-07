@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://动画设计培训-哈密-nav.pages.dev/sitemap.xml

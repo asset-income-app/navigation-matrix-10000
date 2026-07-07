@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://二级建造师-安阳-nav.pages.dev/sitemap.xml

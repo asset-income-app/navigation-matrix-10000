@@ -1,0 +1,12 @@
+{
+  "ops_platform": {
+    "enabled": true,
+    "version": "1.0",
+    "features": [
+      "status_check",
+      "maintenance",
+      "report"
+    ],
+    "automation_level": 95
+  }
+}

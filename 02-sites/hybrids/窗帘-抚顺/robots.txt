@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://窗帘-抚顺-nav.pages.dev/sitemap.xml

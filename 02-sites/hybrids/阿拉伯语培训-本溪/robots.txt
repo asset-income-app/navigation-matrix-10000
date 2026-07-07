@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://阿拉伯语培训-本溪.pages.dev/sitemap.xml

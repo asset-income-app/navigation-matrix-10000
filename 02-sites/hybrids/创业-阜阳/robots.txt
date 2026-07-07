@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://创业-阜阳-nav.pages.dev/sitemap.xml

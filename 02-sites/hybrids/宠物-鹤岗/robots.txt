@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://宠物-鹤岗-nav.pages.dev/sitemap.xml

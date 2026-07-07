@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://huzhou-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://贷款公司-菏泽-nav.pages.dev/sitemap.xml

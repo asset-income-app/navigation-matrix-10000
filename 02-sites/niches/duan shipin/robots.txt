@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://duan shipin-nav.pages.dev/sitemap.xml

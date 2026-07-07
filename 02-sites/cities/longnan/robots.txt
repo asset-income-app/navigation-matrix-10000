@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://longnan-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://jixuexuexipexun-nav.pages.dev/sitemap.xml

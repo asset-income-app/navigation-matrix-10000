@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://电商运营-蚌埠-nav.pages.dev/sitemap.xml

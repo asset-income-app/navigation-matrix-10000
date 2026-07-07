@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://耳机-毕节-nav.pages.dev/sitemap.xml

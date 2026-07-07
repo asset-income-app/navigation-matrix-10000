@@ -1,153 +1,3979 @@
 {
-  "city/baoding": "variant-green",
-  "city/cangzhou": "variant-green",
-  "city/changde": "variant-purple",
-  "city/chuzhou": "variant-dark",
-  "city/eerduosi": "variant-dark",
-  "city/fuyang": "variant-purple",
-  "city/ganzhou": "variant-purple",
-  "city/guilin": "variant-dark",
-  "city/haikou": "variant-dark",
-  "city/handan": "variant-green",
-  "city/hengyang": "variant-blue",
-  "city/huaian": "variant-dark",
-  "city/huzhou": "variant-orange",
-  "city/jiangmen": "variant-dark",
-  "city/jining": "variant-orange",
-  "city/jiujiang": "variant-purple",
-  "city/langfang": "variant-purple",
-  "city/lanzhou": "variant-orange",
-  "city/lianyungang": "variant-orange",
-  "city/linyi": "variant-green",
-  "city/liuzhou": "variant-dark",
-  "city/longyan": "variant-purple",
-  "city/luoyang": "variant-green",
-  "city/mianyang": "variant-blue",
-  "city/nanyang": "variant-blue",
-  "city/ningde": "variant-dark",
-  "city/putian": "variant-purple",
-  "city/shangrao": "variant-orange",
-  "city/shantou": "variant-blue",
-  "city/suqian": "variant-purple",
-  "city/taizhou": "variant-blue",
-  "city/tangshan": "variant-green",
-  "city/weifang": "variant-blue",
-  "city/weihai": "variant-dark",
-  "city/wuhu": "variant-blue",
-  "city/xiangyang": "variant-blue",
-  "city/xianyang": "variant-blue",
-  "city/xinxiang": "variant-orange",
-  "city/yancheng": "variant-dark",
-  "city/yibin": "variant-purple",
-  "city/yichang": "variant-blue",
-  "city/yinchuan": "variant-dark",
-  "city/yueyang": "variant-green",
-  "city/yulin": "variant-purple",
-  "city/zhangzhou": "variant-blue",
-  "city/zhanjiang": "variant-purple",
-  "city/zhaoqing": "variant-blue",
-  "city/zhenjiang": "variant-purple",
-  "city/zhuzhou": "variant-dark",
-  "city/zibo": "variant-orange",
-  "city/zunyi": "variant-green",
-  "niche/banjia": "variant-blue",
-  "niche/baojie": "variant-purple",
-  "niche/baoxian": "variant-orange",
-  "niche/biancheng": "variant-blue",
-  "niche/caishui": "variant-dark",
-  "niche/chongwu": "variant-green",
-  "niche/chuangye": "variant-purple",
-  "niche/chujikuaiji": "variant-purple",
-  "niche/chushi": "variant-purple",
-  "niche/cpa": "variant-orange",
-  "niche/daikuan": "variant-orange",
-  "niche/diangong": "variant-dark",
-  "niche/dianshangyunying": "variant-green",
-  "niche/dianzishu": "variant-blue",
-  "niche/diaoyu": "variant-purple",
-  "niche/dongman": "variant-dark",
-  "niche/douyunyinying": "variant-green",
-  "niche/erjian": "variant-orange",
-  "niche/excel": "variant-purple",
-  "niche/falv": "variant-blue",
-  "niche/falvzx": "variant-dark",
-  "niche/fangchan": "variant-green",
-  "niche/fuye": "variant-blue",
-  "niche/gangqin": "variant-purple",
-  "niche/gongwuyuan": "variant-purple",
-  "niche/hangong": "variant-green",
-  "niche/huazhuang": "variant-dark",
-  "niche/huihua": "variant-dark",
-  "niche/hunqing": "variant-green",
-  "niche/hushi": "variant-blue",
-  "niche/java": "variant-purple",
-  "niche/jiaju": "variant-dark",
-  "niche/jianfei": "variant-orange",
-  "niche/jianshen": "variant-dark",
-  "niche/jiaoshimianshi": "variant-orange",
-  "niche/jiaoshizige": "variant-green",
-  "niche/jiazheng": "variant-green",
-  "niche/jita": "variant-orange",
-  "niche/kaoyan": "variant-blue",
-  "niche/kaoyanyingyu": "variant-dark",
-  "niche/kaoyanzhengzhi": "variant-orange",
-  "niche/kuaidi": "variant-orange",
-  "niche/kuaiji": "variant-green",
-  "niche/lanqiu": "variant-purple",
-  "niche/lvyou": "variant-purple",
-  "niche/majiang": "variant-purple",
-  "niche/meifa": "variant-blue",
-  "niche/meijia": "variant-dark",
-  "niche/meirong": "variant-orange",
-  "niche/meishi": "variant-blue",
-  "niche/muying": "variant-blue",
-  "niche/paobu": "variant-green",
-  "niche/pingpangqiu": "variant-orange",
-  "niche/ppt": "variant-dark",
-  "niche/puke": "variant-purple",
-  "niche/python": "variant-orange",
-  "niche/qianduan": "variant-blue",
-  "niche/qiche": "variant-dark",
-  "niche/seo": "variant-orange",
-  "niche/shangbiao": "variant-green",
-  "niche/sheji": "variant-blue",
-  "niche/sheying": "variant-dark",
-  "niche/shiyedanwei": "variant-orange",
-  "niche/shougong": "variant-orange",
-  "niche/shufa": "variant-blue",
-  "niche/shuma": "variant-orange",
-  "niche/siji": "variant-dark",
-  "niche/siliuji": "variant-blue",
-  "niche/touzi": "variant-dark",
-  "niche/tuofu": "variant-purple",
-  "niche/uisheji": "variant-blue",
-  "niche/waimai": "variant-blue",
-  "niche/weiqi": "variant-purple",
-  "niche/weixiu": "variant-orange",
-  "niche/wenshen": "variant-dark",
-  "niche/word": "variant-blue",
-  "niche/wudao": "variant-purple",
-  "niche/xiangqi": "variant-green",
-  "niche/xiaohongshu": "variant-purple",
-  "niche/xinli": "variant-orange",
-  "niche/xinyongka": "variant-orange",
-  "niche/yangsheng": "variant-blue",
-  "niche/yasi": "variant-orange",
-  "niche/yijian": "variant-purple",
-  "niche/yingshi": "variant-green",
-  "niche/yinhangzhaopin": "variant-green",
-  "niche/yinyue": "variant-purple",
-  "niche/yishi": "variant-dark",
-  "niche/youxi": "variant-blue",
-  "niche/yuanyi": "variant-orange",
-  "niche/yueqi": "variant-orange",
-  "niche/yuer": "variant-orange",
-  "niche/yujia": "variant-blue",
-  "niche/yumaoqiu": "variant-dark",
-  "niche/zhengxin": "variant-dark",
-  "niche/zhongjikuaiji": "variant-dark",
-  "niche/zhongyi": "variant-orange",
-  "niche/zhuangxiu": "variant-dark",
-  "niche/zhuanli": "variant-dark",
-  "niche/zuqiu": "variant-purple"
+  "timestamp": "2026-07-06",
+  "cities": [
+    {
+      "cityName": "安康",
+      "cityPinyin": "ankang",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "安庆",
+      "cityPinyin": "anqing",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "鞍山",
+      "cityPinyin": "anshan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "安顺",
+      "cityPinyin": "anshun",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "安阳",
+      "cityPinyin": "anyang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "白城",
+      "cityPinyin": "baicheng",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "百色",
+      "cityPinyin": "baise",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "白山",
+      "cityPinyin": "baishan",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "白银",
+      "cityPinyin": "baiyin",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "保定",
+      "cityPinyin": "baoding",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "宝鸡",
+      "cityPinyin": "baoji",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "保山",
+      "cityPinyin": "baoshan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "包头",
+      "cityPinyin": "baotou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "巴彦淖尔",
+      "cityPinyin": "bayannaoer",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "巴中",
+      "cityPinyin": "bazhong",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "北海",
+      "cityPinyin": "beihai",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "北京",
+      "cityPinyin": "beijing",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "蚌埠",
+      "cityPinyin": "bengbu",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "本溪",
+      "cityPinyin": "benxi",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "毕节",
+      "cityPinyin": "bijie",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "滨州",
+      "cityPinyin": "binzhou",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "亳州",
+      "cityPinyin": "bozhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "沧州",
+      "cityPinyin": "cangzhou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "长春",
+      "cityPinyin": "changchun",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "常德",
+      "cityPinyin": "changde",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "昌都",
+      "cityPinyin": "changdu",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "长沙",
+      "cityPinyin": "changsha",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "长治",
+      "cityPinyin": "changzhi",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "常州",
+      "cityPinyin": "changzhou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "朝阳",
+      "cityPinyin": "chaoyang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "潮州",
+      "cityPinyin": "chaozhou",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "承德",
+      "cityPinyin": "chengde",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "成都",
+      "cityPinyin": "chengdu",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "郴州",
+      "cityPinyin": "chenzhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "赤峰",
+      "cityPinyin": "chifeng",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "池州",
+      "cityPinyin": "chizhou",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "重庆",
+      "cityPinyin": "chongqing",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "崇左",
+      "cityPinyin": "chongzuo",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "滁州",
+      "cityPinyin": "chuzhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "大连",
+      "cityPinyin": "dalian",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "丹东",
+      "cityPinyin": "dandong",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "儋州",
+      "cityPinyin": "danzhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "大庆",
+      "cityPinyin": "daqing",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "大同",
+      "cityPinyin": "datong",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "达州",
+      "cityPinyin": "dazhou",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "德阳",
+      "cityPinyin": "deyang",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "德州",
+      "cityPinyin": "dezhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "定西",
+      "cityPinyin": "dingxi",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "东莞",
+      "cityPinyin": "dongguan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "东营",
+      "cityPinyin": "dongying",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "鄂尔多斯",
+      "cityPinyin": "eerduosi",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "鄂州",
+      "cityPinyin": "ezhou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "防城港",
+      "cityPinyin": "fangchenggang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "佛山",
+      "cityPinyin": "foshan",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "抚顺",
+      "cityPinyin": "fushun",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "阜新",
+      "cityPinyin": "fuxin",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "阜阳",
+      "cityPinyin": "fuyang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "抚州",
+      "cityPinyin": "fuzhou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "赣州",
+      "cityPinyin": "ganzhou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "广安",
+      "cityPinyin": "guangan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "广元",
+      "cityPinyin": "guangyuan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "广州",
+      "cityPinyin": "guangzhou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "贵港",
+      "cityPinyin": "guigang",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "桂林",
+      "cityPinyin": "guilin",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "贵阳",
+      "cityPinyin": "guiyang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "固原",
+      "cityPinyin": "guyuan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "哈尔滨",
+      "cityPinyin": "haerbin",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "海东",
+      "cityPinyin": "haidong",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "海口",
+      "cityPinyin": "haikou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "哈密",
+      "cityPinyin": "hami",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "邯郸",
+      "cityPinyin": "handan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "杭州",
+      "cityPinyin": "hangzhou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "汉中",
+      "cityPinyin": "hanzhong",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "鹤壁",
+      "cityPinyin": "hebi",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "河池",
+      "cityPinyin": "hechi",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "合肥",
+      "cityPinyin": "hefei",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "鹤岗",
+      "cityPinyin": "hegang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "黑河",
+      "cityPinyin": "heihe",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "衡水",
+      "cityPinyin": "hengshui",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "衡阳",
+      "cityPinyin": "hengyang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "河源",
+      "cityPinyin": "heyuan",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "菏泽",
+      "cityPinyin": "heze",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "贺州",
+      "cityPinyin": "hezhou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "淮安",
+      "cityPinyin": "huaian",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "淮北",
+      "cityPinyin": "huaibei",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "怀化",
+      "cityPinyin": "huaihua",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "淮南",
+      "cityPinyin": "huainan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "黄冈",
+      "cityPinyin": "huanggang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "黄山",
+      "cityPinyin": "huangshan",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "黄石",
+      "cityPinyin": "huangshi",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "呼和浩特",
+      "cityPinyin": "huhehaote",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "惠州",
+      "cityPinyin": "huizhou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "葫芦岛",
+      "cityPinyin": "huludao",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "呼伦贝尔",
+      "cityPinyin": "hulunbeier",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "湖州",
+      "cityPinyin": "huzhou",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "佳木斯",
+      "cityPinyin": "jiamusi",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "吉安",
+      "cityPinyin": "jian",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "江门",
+      "cityPinyin": "jiangmen",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "焦作",
+      "cityPinyin": "jiaozuo",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "嘉兴",
+      "cityPinyin": "jiaxing",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "嘉峪关",
+      "cityPinyin": "jiayuguan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "揭阳",
+      "cityPinyin": "jieyang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "吉林",
+      "cityPinyin": "jilin",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "济南",
+      "cityPinyin": "jinan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "金昌",
+      "cityPinyin": "jinchang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "晋城",
+      "cityPinyin": "jincheng",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "景德镇",
+      "cityPinyin": "jingdezhen",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "荆门",
+      "cityPinyin": "jingmen",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "荆州",
+      "cityPinyin": "jingzhou",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "金华",
+      "cityPinyin": "jinhua",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "济宁",
+      "cityPinyin": "jining",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "晋中",
+      "cityPinyin": "jinzhong",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "锦州",
+      "cityPinyin": "jinzhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "九江",
+      "cityPinyin": "jiujiang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "酒泉",
+      "cityPinyin": "jiuquan",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "鸡西",
+      "cityPinyin": "jixi",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "开封",
+      "cityPinyin": "kaifeng",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "克拉玛依",
+      "cityPinyin": "kelamayi",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "昆明",
+      "cityPinyin": "kunming",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "来宾",
+      "cityPinyin": "laibin",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "廊坊",
+      "cityPinyin": "langfang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "兰州",
+      "cityPinyin": "lanzhou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "拉萨",
+      "cityPinyin": "lasa",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "乐山",
+      "cityPinyin": "leshan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "连云港",
+      "cityPinyin": "lianyungang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "聊城",
+      "cityPinyin": "liaocheng",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "辽阳",
+      "cityPinyin": "liaoyang",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "辽源",
+      "cityPinyin": "liaoyuan",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "丽江",
+      "cityPinyin": "lijiang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "临沧",
+      "cityPinyin": "lincang",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "临汾",
+      "cityPinyin": "linfen",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "临沂",
+      "cityPinyin": "linyi",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "临沂",
+      "cityPinyin": "linyi",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "林芝",
+      "cityPinyin": "linzhi",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "丽水",
+      "cityPinyin": "lishui",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "六盘水",
+      "cityPinyin": "liupanshui",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "柳州",
+      "cityPinyin": "liuzhou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "陇南",
+      "cityPinyin": "longnan",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "龙岩",
+      "cityPinyin": "longyan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "娄底",
+      "cityPinyin": "loudi",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "六安",
+      "cityPinyin": "luan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "漯河",
+      "cityPinyin": "luohe",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "洛阳",
+      "cityPinyin": "luoyang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "泸州",
+      "cityPinyin": "luzhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "吕梁",
+      "cityPinyin": "lvliang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "马鞍山",
+      "cityPinyin": "maanshan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "茂名",
+      "cityPinyin": "maoming",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "眉山",
+      "cityPinyin": "meishan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "梅州",
+      "cityPinyin": "meizhou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "绵阳",
+      "cityPinyin": "mianyang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "牡丹江",
+      "cityPinyin": "mudanjiang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "南昌",
+      "cityPinyin": "nanchang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "南充",
+      "cityPinyin": "nanchong",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "南京",
+      "cityPinyin": "nanjing",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "南宁",
+      "cityPinyin": "nanning",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "南平",
+      "cityPinyin": "nanping",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "南通",
+      "cityPinyin": "nantong",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "南阳",
+      "cityPinyin": "nanyang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "那曲",
+      "cityPinyin": "naqu",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "内江",
+      "cityPinyin": "neijiang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "宁波",
+      "cityPinyin": "ningbo",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "宁德",
+      "cityPinyin": "ningde",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "盘锦",
+      "cityPinyin": "panjin",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "攀枝花",
+      "cityPinyin": "panzhihua",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "平顶山",
+      "cityPinyin": "pingdingshan",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "平凉",
+      "cityPinyin": "pingliang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "萍乡",
+      "cityPinyin": "pingxiang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "普洱",
+      "cityPinyin": "puer",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "莆田",
+      "cityPinyin": "putian",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "濮阳",
+      "cityPinyin": "puyang",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "青岛",
+      "cityPinyin": "qingdao",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "庆阳",
+      "cityPinyin": "qingyang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "清远",
+      "cityPinyin": "qingyuan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "秦皇岛",
+      "cityPinyin": "qinhuangdao",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "钦州",
+      "cityPinyin": "qinzhou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "齐齐哈尔",
+      "cityPinyin": "qiqihaer",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "七台河",
+      "cityPinyin": "qitaihe",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "泉州",
+      "cityPinyin": "quanzhou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "曲靖",
+      "cityPinyin": "qujing",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "衢州",
+      "cityPinyin": "quzhou",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "日喀则",
+      "cityPinyin": "rikaze",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "日照",
+      "cityPinyin": "rizhao",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "三门峡",
+      "cityPinyin": "sanmenxia",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "三明",
+      "cityPinyin": "sanming",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "三沙",
+      "cityPinyin": "sansha",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "三亚",
+      "cityPinyin": "sanya",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "上海",
+      "cityPinyin": "shanghai",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "商洛",
+      "cityPinyin": "shangluo",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "商丘",
+      "cityPinyin": "shangqiu",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "上饶",
+      "cityPinyin": "shangrao",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "山南",
+      "cityPinyin": "shannan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "汕头",
+      "cityPinyin": "shantou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "汕尾",
+      "cityPinyin": "shanwei",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "韶关",
+      "cityPinyin": "shaoguan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "绍兴",
+      "cityPinyin": "shaoxing",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "邵阳",
+      "cityPinyin": "shaoyang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "沈阳",
+      "cityPinyin": "shenyang",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "深圳",
+      "cityPinyin": "shenzhen",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "石家庄",
+      "cityPinyin": "shijiazhuang",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "十堰",
+      "cityPinyin": "shiyan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "石嘴山",
+      "cityPinyin": "shizuishan",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "双鸭山",
+      "cityPinyin": "shuangyashan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "朔州",
+      "cityPinyin": "shuozhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "四平",
+      "cityPinyin": "siping",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "松原",
+      "cityPinyin": "songyuan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "绥化",
+      "cityPinyin": "suihua",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "遂宁",
+      "cityPinyin": "suining",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "随州",
+      "cityPinyin": "suizhou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "宿迁",
+      "cityPinyin": "suqian",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "宿州",
+      "cityPinyin": "suzhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "泰安",
+      "cityPinyin": "taian",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "太原",
+      "cityPinyin": "taiyuan",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "台州",
+      "cityPinyin": "taizhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "唐山",
+      "cityPinyin": "tangshan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "天津",
+      "cityPinyin": "tianjin",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "天水",
+      "cityPinyin": "tianshui",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "铁岭",
+      "cityPinyin": "tieling",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "铜川",
+      "cityPinyin": "tongchuan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "通化",
+      "cityPinyin": "tonghua",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "通辽",
+      "cityPinyin": "tongliao",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "铜陵",
+      "cityPinyin": "tongling",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "铜仁",
+      "cityPinyin": "tongren",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "吐鲁番",
+      "cityPinyin": "tulufan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "潍坊",
+      "cityPinyin": "weifang",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "威海",
+      "cityPinyin": "weihai",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "渭南",
+      "cityPinyin": "weinan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "温州",
+      "cityPinyin": "wenzhou",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "乌海",
+      "cityPinyin": "wuhai",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "武汉",
+      "cityPinyin": "wuhan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "芜湖",
+      "cityPinyin": "wuhu",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "乌兰察布",
+      "cityPinyin": "wulanchabu",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "乌鲁木齐",
+      "cityPinyin": "wulumuqi",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "武威",
+      "cityPinyin": "wuwei",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "无锡",
+      "cityPinyin": "wuxi",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "吴忠",
+      "cityPinyin": "wuzhong",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "梧州",
+      "cityPinyin": "wuzhou",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "厦门",
+      "cityPinyin": "xiamen",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "西安",
+      "cityPinyin": "xian",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "湘潭",
+      "cityPinyin": "xiangtan",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "襄阳",
+      "cityPinyin": "xiangyang",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "咸宁",
+      "cityPinyin": "xianning",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "咸阳",
+      "cityPinyin": "xianyang",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "孝感",
+      "cityPinyin": "xiaogan",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "邢台",
+      "cityPinyin": "xingtai",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "西宁",
+      "cityPinyin": "xining",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "新乡",
+      "cityPinyin": "xinxiang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "信阳",
+      "cityPinyin": "xinyang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "新余",
+      "cityPinyin": "xinyu",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "忻州",
+      "cityPinyin": "xinzhou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "宣城",
+      "cityPinyin": "xuancheng",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "许昌",
+      "cityPinyin": "xuchang",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "徐州",
+      "cityPinyin": "xuzhou",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "雅安",
+      "cityPinyin": "yaan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "延安",
+      "cityPinyin": "yanan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "盐城",
+      "cityPinyin": "yancheng",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "阳江",
+      "cityPinyin": "yangjiang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "阳泉",
+      "cityPinyin": "yangquan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "扬州",
+      "cityPinyin": "yangzhou",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "烟台",
+      "cityPinyin": "yantai",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "宜宾",
+      "cityPinyin": "yibin",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "宜昌",
+      "cityPinyin": "yichang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "宜春",
+      "cityPinyin": "yichun",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "银川",
+      "cityPinyin": "yinchuan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "营口",
+      "cityPinyin": "yingkou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "鹰潭",
+      "cityPinyin": "yingtan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "益阳",
+      "cityPinyin": "yiyang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "永州",
+      "cityPinyin": "yongzhou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "岳阳",
+      "cityPinyin": "yueyang",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "榆林",
+      "cityPinyin": "yulin",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "运城",
+      "cityPinyin": "yuncheng",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "云浮",
+      "cityPinyin": "yunfu",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "玉溪",
+      "cityPinyin": "yuxi",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "枣庄",
+      "cityPinyin": "zaozhuang",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "张家界",
+      "cityPinyin": "zhangjiajie",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "张家口",
+      "cityPinyin": "zhangjiakou",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "张掖",
+      "cityPinyin": "zhangye",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "漳州",
+      "cityPinyin": "zhangzhou",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "湛江",
+      "cityPinyin": "zhanjiang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "肇庆",
+      "cityPinyin": "zhaoqing",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "昭通",
+      "cityPinyin": "zhaotong",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "郑州",
+      "cityPinyin": "zhengzhou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "镇江",
+      "cityPinyin": "zhenjiang",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "中山",
+      "cityPinyin": "zhongshan",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "中卫",
+      "cityPinyin": "zhongwei",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "周口",
+      "cityPinyin": "zhoukou",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "舟山",
+      "cityPinyin": "zhoushan",
+      "variant": "variant-green"
+    },
+    {
+      "cityName": "珠海",
+      "cityPinyin": "zhuhai",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "驻马店",
+      "cityPinyin": "zhumadian",
+      "variant": "variant-purple"
+    },
+    {
+      "cityName": "株洲",
+      "cityPinyin": "zhuzhou",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "淄博",
+      "cityPinyin": "zibo",
+      "variant": "variant-dark"
+    },
+    {
+      "cityName": "自贡",
+      "cityPinyin": "zigong",
+      "variant": "variant-blue"
+    },
+    {
+      "cityName": "资阳",
+      "cityPinyin": "ziyang",
+      "variant": "variant-orange"
+    },
+    {
+      "cityName": "遵义",
+      "cityPinyin": "zunyi",
+      "variant": "variant-green"
+    }
+  ],
+  "niches": [
+    {
+      "nicheName": "艾灸",
+      "nichePinyin": "aijiu",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "阿拉伯语培训",
+      "nichePinyin": "alaboyayupexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "按摩",
+      "nichePinyin": "anmo",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "安全工程师",
+      "nichePinyin": "anquangongchengshi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "拔罐",
+      "nichePinyin": "baguan",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "百货",
+      "nichePinyin": "baihuo",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "搬家",
+      "nichePinyin": "banjia",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "搬家货运",
+      "nichePinyin": "banjiahuoyun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "保健",
+      "nichePinyin": "baojian",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "保健食品",
+      "nichePinyin": "baojian shipin",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "保健品",
+      "nichePinyin": "baojianpin",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "保洁",
+      "nichePinyin": "baojie",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "保洁服务",
+      "nichePinyin": "baojiefuwu",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "保姆月嫂",
+      "nichePinyin": "baomuyuesao",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "保险",
+      "nichePinyin": "baoxian",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "保险公司",
+      "nichePinyin": "baoxian gongsi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "保险顾问",
+      "nichePinyin": "baoxian guwen",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "保险规划",
+      "nichePinyin": "baoxianguihua",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "蹦极",
+      "nichePinyin": "bengji",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "编程",
+      "nichePinyin": "biancheng",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "编程培训",
+      "nichePinyin": "bianchengpexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "便利店",
+      "nichePinyin": "bianli dian",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "编织",
+      "nichePinyin": "bianzhi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "别墅",
+      "nichePinyin": "bieshu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "殡葬",
+      "nichePinyin": "binzang",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "殡葬服务",
+      "nichePinyin": "binzangfuwu",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "壁纸",
+      "nichePinyin": "bizhi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "博物馆",
+      "nichePinyin": "bowuguan",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "财产险",
+      "nichePinyin": "caichanbaoxian",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "财税咨询",
+      "nichePinyin": "caishui",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "财务",
+      "nichePinyin": "caiwu",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "财务报表",
+      "nichePinyin": "caiwu baobiao",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "财务管理",
+      "nichePinyin": "caiwu guanli",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "财务顾问",
+      "nichePinyin": "caiwu guwen",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "仓库",
+      "nichePinyin": "cangku",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "餐厅",
+      "nichePinyin": "canting",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "厂房",
+      "nichePinyin": "changfang",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "超市",
+      "nichePinyin": "chaoshi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "茶饮",
+      "nichePinyin": "chayin",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "车险",
+      "nichePinyin": "chebaoxian",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "车贷",
+      "nichePinyin": "chedai",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "冲浪",
+      "nichePinyin": "chonglang",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "宠物",
+      "nichePinyin": "chongwu",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "宠物寄养",
+      "nichePinyin": "chongwujiyang",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "宠物美容",
+      "nichePinyin": "chongwumeirong",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "宠物医院",
+      "nichePinyin": "chongwuyiyuan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "窗帘",
+      "nichePinyin": "chuanglian",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "创业",
+      "nichePinyin": "chuangye",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "厨房",
+      "nichePinyin": "chufang",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "初级会计",
+      "nichePinyin": "chujikuaiji",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "出境游",
+      "nichePinyin": "chujingyou",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "厨师",
+      "nichePinyin": "chushi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "刺绣",
+      "nichePinyin": "cixiu",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "瓷砖",
+      "nichePinyin": "cizhuan",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "注册会计师",
+      "nichePinyin": "cpa",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "贷款",
+      "nichePinyin": "daikuan",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "贷款公司",
+      "nichePinyin": "daikuan gongsi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "贷款顾问",
+      "nichePinyin": "daikuan guwen",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "贷款申请",
+      "nichePinyin": "daikuan shenqing",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "担保公司",
+      "nichePinyin": "danbao gongsi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "大数据培训",
+      "nichePinyin": "dashujupexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "灯具",
+      "nichePinyin": "dengju",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "德语培训",
+      "nichePinyin": "deyupexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "典当公司",
+      "nichePinyin": "dian dang gongsi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "电工",
+      "nichePinyin": "diangong",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "电脑",
+      "nichePinyin": "diannao",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "电脑维修",
+      "nichePinyin": "diannaoweixiu",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "电气工程师",
+      "nichePinyin": "dianqigongchengshi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "电商运营",
+      "nichePinyin": "dianshangyunying",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "电影",
+      "nichePinyin": "dianying",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "电子书",
+      "nichePinyin": "dianzishu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "雕塑",
+      "nichePinyin": "diaosu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "钓鱼",
+      "nichePinyin": "diaoyu",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "地板",
+      "nichePinyin": "diban",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "地毯",
+      "nichePinyin": "ditan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "抵押贷",
+      "nichePinyin": "diyadai",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "动画设计培训",
+      "nichePinyin": "donghuashejipexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "动漫",
+      "nichePinyin": "dongman",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "抖音运营",
+      "nichePinyin": "douyunyinying",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "短视频",
+      "nichePinyin": "duan shipin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "度假村",
+      "nichePinyin": "dujiacun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "EMBA",
+      "nichePinyin": "emba",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "耳鼻喉",
+      "nichePinyin": "erbihou",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "耳机",
+      "nichePinyin": "erji",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "二级建造师",
+      "nichePinyin": "erjian",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "儿科",
+      "nichePinyin": "erke",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "二手车",
+      "nichePinyin": "ershouche",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "二手房",
+      "nichePinyin": "ershoufang",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "儿童用品",
+      "nichePinyin": "ertong yongpin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "Excel",
+      "nichePinyin": "excel",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "俄语培训",
+      "nichePinyin": "eyupexun",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "法律",
+      "nichePinyin": "falv",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "法律硕士",
+      "nichePinyin": "falvshuoshi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "法律咨询",
+      "nichePinyin": "falvzx",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "饭店",
+      "nichePinyin": "fandian",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "房产",
+      "nichePinyin": "fangchan",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "房产管理",
+      "nichePinyin": "fangchan guanli",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "房产交易",
+      "nichePinyin": "fangchan jiaoyi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "房产评估",
+      "nichePinyin": "fangchan pinggu",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "房产投资",
+      "nichePinyin": "fangchan touzi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "房产中介",
+      "nichePinyin": "fangchan zhongjie",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "房产租赁",
+      "nichePinyin": "fangchan zulin",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "房贷",
+      "nichePinyin": "fangdai",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "房屋装修",
+      "nichePinyin": "fangwuzhuangxiu",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "法语培训",
+      "nichePinyin": "fayupexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "妇产科",
+      "nichePinyin": "fuchanke",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "副业",
+      "nichePinyin": "fuye",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "服装",
+      "nichePinyin": "fuzhuang",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "服装设计培训",
+      "nichePinyin": "fuzhuangshejipexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "钢琴",
+      "nichePinyin": "gangqin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "钢琴培训",
+      "nichePinyin": "gangqinpexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "干洗服务",
+      "nichePinyin": "ganxifuwu",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "歌剧",
+      "nichePinyin": "geju",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "跟团游",
+      "nichePinyin": "gentuanyou",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "公务员考试",
+      "nichePinyin": "gongwuyuan",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "工业设计培训",
+      "nichePinyin": "gongyeshejipexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "公证处",
+      "nichePinyin": "gongzhengchu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "购物",
+      "nichePinyin": "gouwu",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "挂号",
+      "nichePinyin": "guahao",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "管理考研",
+      "nichePinyin": "guanlikaoyan",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "刮痧",
+      "nichePinyin": "guasha",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "骨科",
+      "nichePinyin": "guke",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "国内游",
+      "nichePinyin": "guoneiyou",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "国学培训",
+      "nichePinyin": "guoxuepexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "股票",
+      "nichePinyin": "gupiao",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "股票分析",
+      "nichePinyin": "gupiaofenxi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "海鲜",
+      "nichePinyin": "haixian",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "韩餐",
+      "nichePinyin": "han can",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "焊工",
+      "nichePinyin": "hangong",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "韩语培训",
+      "nichePinyin": "hanyupexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "后端培训",
+      "nichePinyin": "houduanpexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "绘画培训",
+      "nichePinyin": "huahuapexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "话剧",
+      "nichePinyin": "huaju",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "滑雪",
+      "nichePinyin": "huaxue",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "花园",
+      "nichePinyin": "huayuan",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "化妆",
+      "nichePinyin": "huazhuang",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "化妆品",
+      "nichePinyin": "huazhuang pin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "化妆培训",
+      "nichePinyin": "huazhuangpexun",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "护肤",
+      "nichePinyin": "hufu",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "护肤品",
+      "nichePinyin": "hufu pin",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "护工",
+      "nichePinyin": "hugong",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "绘画",
+      "nichePinyin": "huihua",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "婚介",
+      "nichePinyin": "hunjie",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "婚戒首饰",
+      "nichePinyin": "hunjieshoushi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "婚礼蛋糕",
+      "nichePinyin": "hunli dangao",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "婚礼司仪",
+      "nichePinyin": "hunli siyi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "婚礼鲜花",
+      "nichePinyin": "hunli xianhua",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "婚恋",
+      "nichePinyin": "hunlian",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "婚礼场地",
+      "nichePinyin": "hunlichangdi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "婚礼车队",
+      "nichePinyin": "hunliche dui",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "婚礼跟拍",
+      "nichePinyin": "hunligenpai",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "婚礼请柬",
+      "nichePinyin": "hunliqingjian",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "婚礼摄影",
+      "nichePinyin": "hunlisheying",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "婚礼用品",
+      "nichePinyin": "hunliyongpin",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "婚礼主持",
+      "nichePinyin": "hunlizhuchi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "婚庆",
+      "nichePinyin": "hunqing",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "婚庆策划",
+      "nichePinyin": "hunqingcehua",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "婚纱礼服",
+      "nichePinyin": "hunshalifu",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "婚纱摄影",
+      "nichePinyin": "hunshasheying",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "火锅",
+      "nichePinyin": "huoguo",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "护士资格证",
+      "nichePinyin": "hushi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "户外运动",
+      "nichePinyin": "huwai yundong",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "Java",
+      "nichePinyin": "java",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "Java培训",
+      "nichePinyin": "javapexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "家电",
+      "nichePinyin": "jiadian",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "家电清洗",
+      "nichePinyin": "jiadianqingxi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "家电维修",
+      "nichePinyin": "jiadianweixiu",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "家居",
+      "nichePinyin": "jiaju",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "建材",
+      "nichePinyin": "jiancai",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "减肥",
+      "nichePinyin": "jianfei",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "减肥产品",
+      "nichePinyin": "jianfei chanpin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "健康险",
+      "nichePinyin": "jiankangbaoxian",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "健康饮食",
+      "nichePinyin": "jiankangyinshi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "监理工程师",
+      "nichePinyin": "jianligongchengshi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "健身",
+      "nichePinyin": "jianshen",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "健身器材",
+      "nichePinyin": "jianshen qixie",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "健身用品",
+      "nichePinyin": "jianshen yongpin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "健身房",
+      "nichePinyin": "jianshenfang",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "健身教练",
+      "nichePinyin": "jianshenjiaolian",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "健身培训",
+      "nichePinyin": "jianshenpexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "剪纸",
+      "nichePinyin": "jianzhi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "建筑设计培训",
+      "nichePinyin": "jianzhushejipexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "教师",
+      "nichePinyin": "jiaoshi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "教师资格证面试",
+      "nichePinyin": "jiaoshimianshi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "教师资格证",
+      "nichePinyin": "jiaoshizige",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "交友",
+      "nichePinyin": "jiaoyou",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "教育学考研",
+      "nichePinyin": "jiaoyuxuekaoyan",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "驾校",
+      "nichePinyin": "jiaxiao",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "驾照",
+      "nichePinyin": "jiazhao",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "家政",
+      "nichePinyin": "jiazheng",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "家政保洁",
+      "nichePinyin": "jiazhengbaojie",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "家政服务",
+      "nichePinyin": "jiazhengfuwu",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "家装",
+      "nichePinyin": "jiazhuang",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "基金",
+      "nichePinyin": "jijin",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "基金投资",
+      "nichePinyin": "jijintouzi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "景点",
+      "nichePinyin": "jingdian",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "景区",
+      "nichePinyin": "jingqu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "经营贷",
+      "nichePinyin": "jingyingdai",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "金融考研",
+      "nichePinyin": "jinrongkaoyan",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "计算机考研",
+      "nichePinyin": "jisuanjikaoyan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "吉他",
+      "nichePinyin": "jita",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "吉他培训",
+      "nichePinyin": "jitapexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "酒吧",
+      "nichePinyin": "jiuba",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "酒店",
+      "nichePinyin": "jiudian",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "酒水",
+      "nichePinyin": "jiushui",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "机械工程师",
+      "nichePinyin": "jixiegongchengshi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "机器学习培训",
+      "nichePinyin": "jixuexuexipexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "居家养老",
+      "nichePinyin": "jujiyanglao",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "咖啡",
+      "nichePinyin": "kafei",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "开荒保洁",
+      "nichePinyin": "kaihuangbaojie",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "康复",
+      "nichePinyin": "kangfu",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "考研",
+      "nichePinyin": "kaoyan",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "考研数学",
+      "nichePinyin": "kaoyanshuxue",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "考研英语",
+      "nichePinyin": "kaoyanyingyu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "考研政治",
+      "nichePinyin": "kaoyanzhengzhi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "科技",
+      "nichePinyin": "keji",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "客栈",
+      "nichePinyin": "kezhan",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "空调维修",
+      "nichePinyin": "kongtiaoweixiu",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "口腔",
+      "nichePinyin": "kouqiang",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "快餐",
+      "nichePinyin": "kuai can",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "快递",
+      "nichePinyin": "kuaidi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "快递物流",
+      "nichePinyin": "kuaidiwuliu",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "会计",
+      "nichePinyin": "kuaiji",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "会计师事务所",
+      "nichePinyin": "kuaiji shiwu suo",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "篮球",
+      "nichePinyin": "lanqiu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "理财",
+      "nichePinyin": "licai",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "理财公司",
+      "nichePinyin": "licai gongsi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "理财顾问",
+      "nichePinyin": "licai guwen",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "理财规划",
+      "nichePinyin": "licaiguihua",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "楼盘",
+      "nichePinyin": "loupan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "楼梯",
+      "nichePinyin": "louti",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "律师事务所",
+      "nichePinyin": "lvshi shiwu suo",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "旅行",
+      "nichePinyin": "lvxing",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "旅行社",
+      "nichePinyin": "lvxingshe",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "旅游",
+      "nichePinyin": "lvyou",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "旅游攻略",
+      "nichePinyin": "lvyou gonglve",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "旅游路线",
+      "nichePinyin": "lvyou luxian",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "旅游团",
+      "nichePinyin": "lvyou tuan",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "绿植",
+      "nichePinyin": "lvzhi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "卖车",
+      "nichePinyin": "maiche",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "卖房",
+      "nichePinyin": "maifang",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "麻将",
+      "nichePinyin": "majiang",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "马拉松",
+      "nichePinyin": "malasong",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "漫画",
+      "nichePinyin": "manhua",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "MBA",
+      "nichePinyin": "mba",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "美发",
+      "nichePinyin": "meifa",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "美发培训",
+      "nichePinyin": "meifapexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "美甲",
+      "nichePinyin": "meijia",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "美甲培训",
+      "nichePinyin": "meijiapeixun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "美容",
+      "nichePinyin": "meirong",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "美容培训",
+      "nichePinyin": "meirongpexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "美食",
+      "nichePinyin": "meishi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "美术教师",
+      "nichePinyin": "meishujiaoshi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "门窗",
+      "nichePinyin": "menchuang",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "门票",
+      "nichePinyin": "menpiao",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "民宿",
+      "nichePinyin": "minsu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "MPA",
+      "nichePinyin": "mpa",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "墓地陵园",
+      "nichePinyin": "mudilingyuan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "母婴",
+      "nichePinyin": "muying",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "母婴用品",
+      "nichePinyin": "muyingyongpin",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "拍卖公司",
+      "nichePinyin": "paimai gongsi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "攀岩",
+      "nichePinyin": "panyan",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "跑步",
+      "nichePinyin": "paobu",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "跑步装备",
+      "nichePinyin": "paobu zhuangbei",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "皮肤科",
+      "nichePinyin": "pifuke",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "平板",
+      "nichePinyin": "pingban",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "评估公司",
+      "nichePinyin": "pinggu gongsi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "平面设计培训",
+      "nichePinyin": "pingmianshejipexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "乒乓球",
+      "nichePinyin": "pingpangqiu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "PPT",
+      "nichePinyin": "ppt",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "扑克",
+      "nichePinyin": "puke",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "葡萄牙语培训",
+      "nichePinyin": "putaoyayupexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "Python",
+      "nichePinyin": "python",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "Python培训",
+      "nichePinyin": "pythonpexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "前端开发",
+      "nichePinyin": "qianduan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "前端培训",
+      "nichePinyin": "qianduanpexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "潜水",
+      "nichePinyin": "qianshui",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "汽车",
+      "nichePinyin": "qiche",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "汽车报价",
+      "nichePinyin": "qiche baojia",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "汽车保险",
+      "nichePinyin": "qiche baoxian",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "汽车保养",
+      "nichePinyin": "qiche baoyang",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "汽车贷款",
+      "nichePinyin": "qiche daikuan",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "汽车导购",
+      "nichePinyin": "qiche daogou",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "汽车改装",
+      "nichePinyin": "qiche gaizhuang",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "汽车美容",
+      "nichePinyin": "qiche meirong",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "汽车配件",
+      "nichePinyin": "qiche peijian",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "汽车评测",
+      "nichePinyin": "qiche pingce",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "汽车品牌",
+      "nichePinyin": "qiche pinpai",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "汽车用品",
+      "nichePinyin": "qiche yongpin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "汽车租赁",
+      "nichePinyin": "qiche zulin",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "汽车维修",
+      "nichePinyin": "qicheweixiu",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "期货",
+      "nichePinyin": "qihuo",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "期货交易",
+      "nichePinyin": "qihuojiaoyi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "青年旅舍",
+      "nichePinyin": "qingnian lvshe",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "棋牌",
+      "nichePinyin": "qipai",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "球类",
+      "nichePinyin": "qiulei",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "骑行",
+      "nichePinyin": "qixing",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "全栈培训",
+      "nichePinyin": "quanzhanpexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "区块链培训",
+      "nichePinyin": "qukuailianpexun",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "人工智能培训",
+      "nichePinyin": "rengongzhinengpexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "日料",
+      "nichePinyin": "riliao",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "日语培训",
+      "nichePinyin": "riyupexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "软件工程师",
+      "nichePinyin": "ruanjiangongchengshi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "SEO",
+      "nichePinyin": "seo",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "商标注册",
+      "nichePinyin": "shangbiao",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "商城",
+      "nichePinyin": "shangcheng",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "商铺",
+      "nichePinyin": "shangpu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "烧烤",
+      "nichePinyin": "shaokao",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "设计",
+      "nichePinyin": "sheji",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "深度保洁",
+      "nichePinyin": "shendubaojie",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "深度学习培训",
+      "nichePinyin": "shenduxuexipexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "声乐培训",
+      "nichePinyin": "shenglepexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "审计",
+      "nichePinyin": "shenji",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "审计公司",
+      "nichePinyin": "shenji gongsi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "摄影",
+      "nichePinyin": "sheying",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "摄影培训",
+      "nichePinyin": "sheyingpexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "室内设计培训",
+      "nichePinyin": "shineishejipexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "饰品",
+      "nichePinyin": "shipin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "视频剪辑培训",
+      "nichePinyin": "shipinjianjipexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "事业单位考试",
+      "nichePinyin": "shiyedanwei",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "寿险",
+      "nichePinyin": "shoubaoxian",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "手表",
+      "nichePinyin": "shoubiao",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "手工",
+      "nichePinyin": "shougong",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "手机",
+      "nichePinyin": "shouji",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "手机维修",
+      "nichePinyin": "shoujiweixiu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "书法",
+      "nichePinyin": "shufa",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "书法培训",
+      "nichePinyin": "shufapexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "水电维修",
+      "nichePinyin": "shuidianweixiu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "税务",
+      "nichePinyin": "shuiwu",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "税务筹划",
+      "nichePinyin": "shuiwu chouhua",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "税务顾问",
+      "nichePinyin": "shuiwu guwen",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "税务申报",
+      "nichePinyin": "shuiwu shenbao",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "数据分析培训",
+      "nichePinyin": "shujufenxipexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "数码",
+      "nichePinyin": "shuma",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "司机",
+      "nichePinyin": "siji",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "英语四六级",
+      "nichePinyin": "siliuji",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "SPA",
+      "nichePinyin": "spa",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "泰语培训",
+      "nichePinyin": "taiyupexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "陶艺",
+      "nichePinyin": "taoyi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "甜品",
+      "nichePinyin": "tianpin",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "调解机构",
+      "nichePinyin": "tiaojie jiguan",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "跳伞",
+      "nichePinyin": "tiaosan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "体检",
+      "nichePinyin": "tijian",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "体育考研",
+      "nichePinyin": "tikakaoyan",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "体育",
+      "nichePinyin": "tiyu",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "同城配送",
+      "nichePinyin": "tongchengpeisong",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "投资理财",
+      "nichePinyin": "touzi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "投资公司",
+      "nichePinyin": "touzi gongsi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "投资顾问",
+      "nichePinyin": "touzi guwen",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "投资理财",
+      "nichePinyin": "touzi licai",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "土地",
+      "nichePinyin": "tudi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "推拿",
+      "nichePinyin": "tuina",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "托福",
+      "nichePinyin": "tuofu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "图书",
+      "nichePinyin": "tushu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "UI设计",
+      "nichePinyin": "uisheji",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "UI设计培训",
+      "nichePinyin": "uishejipexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "外汇",
+      "nichePinyin": "waihui",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "外卖",
+      "nichePinyin": "waimai",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "外卖订餐",
+      "nichePinyin": "waimaidingcan",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "网络安全培训",
+      "nichePinyin": "wangluoanquanpexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "网络工程师",
+      "nichePinyin": "wangluogongchengshi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "玩具",
+      "nichePinyin": "wanju",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "围棋",
+      "nichePinyin": "weiqi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "维修",
+      "nichePinyin": "weixiu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "卫浴",
+      "nichePinyin": "weiyu",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "文化",
+      "nichePinyin": "wenhua",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "文具",
+      "nichePinyin": "wenju",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "纹身",
+      "nichePinyin": "wenshen",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "纹绣培训",
+      "nichePinyin": "wenxiupexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "问诊",
+      "nichePinyin": "wenzhen",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "Word",
+      "nichePinyin": "word",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "无人机",
+      "nichePinyin": "wu ren ji",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "舞蹈",
+      "nichePinyin": "wudao",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "舞蹈教练",
+      "nichePinyin": "wudaojiaolian",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "舞蹈培训",
+      "nichePinyin": "wudaopexun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "西餐",
+      "nichePinyin": "xi can",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "箱包",
+      "nichePinyin": "xiangbao",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "相机",
+      "nichePinyin": "xiangji",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "象棋",
+      "nichePinyin": "xiangqi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "相亲",
+      "nichePinyin": "xiangqin",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "香水",
+      "nichePinyin": "xiangshui",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "小吃",
+      "nichePinyin": "xiaochi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "消防工程师",
+      "nichePinyin": "xiaofanggongchengshi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "消费贷",
+      "nichePinyin": "xiaofeidai",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "小红书运营",
+      "nichePinyin": "xiaohongshu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "小区",
+      "nichePinyin": "xiaoqu",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "小说",
+      "nichePinyin": "xiaoshuo",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "西班牙语培训",
+      "nichePinyin": "xibanyayupexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "鞋帽",
+      "nichePinyin": "xie mao",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "写字楼",
+      "nichePinyin": "xiezilou",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "戏剧",
+      "nichePinyin": "xiju",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "新车",
+      "nichePinyin": "xinche",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "新房",
+      "nichePinyin": "xinfang",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "心理咨询",
+      "nichePinyin": "xinli",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "心理健康",
+      "nichePinyin": "xinlijiankang",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "心理学考研",
+      "nichePinyin": "xinlixuekaoyan",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "心理咨询",
+      "nichePinyin": "xinlizixun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "心理咨询师",
+      "nichePinyin": "xinlizixunshi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "心血管",
+      "nichePinyin": "xinxueguan",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "信用贷",
+      "nichePinyin": "xinyongdai",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "信用卡",
+      "nichePinyin": "xinyongka",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "戏曲",
+      "nichePinyin": "xiqu",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "休闲",
+      "nichePinyin": "xiuxian",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "西医",
+      "nichePinyin": "xiyi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "养老",
+      "nichePinyin": "yanglao",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "养老院",
+      "nichePinyin": "yanglaoyuan",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "养生",
+      "nichePinyin": "yangsheng",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "阳台",
+      "nichePinyin": "yangtai",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "眼镜",
+      "nichePinyin": "yanjing",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "眼科",
+      "nichePinyin": "yanke",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "药店",
+      "nichePinyin": "yaodian",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "药房",
+      "nichePinyin": "yaofang",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "药师资格证",
+      "nichePinyin": "yaoshizigezheng",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "雅思",
+      "nichePinyin": "yasi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "夜宵",
+      "nichePinyin": "ye xiao",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "意大利语培训",
+      "nichePinyin": "yidaliyupexun",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "一级建造师",
+      "nichePinyin": "yijian",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "医疗器械",
+      "nichePinyin": "yiliaoqixie",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "医疗设备",
+      "nichePinyin": "yiliaoshebei",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "医疗用品",
+      "nichePinyin": "yiliaoyongpin",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "医美",
+      "nichePinyin": "yimei",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "疫苗",
+      "nichePinyin": "yimiao",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "影视",
+      "nichePinyin": "yingshi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "影视后期培训",
+      "nichePinyin": "yingshihouqipexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "营养品",
+      "nichePinyin": "yingyangpin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "营养师",
+      "nichePinyin": "yingyangshi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "营养饮食",
+      "nichePinyin": "yingyangyinshi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "英语培训",
+      "nichePinyin": "yingyupexun",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "银行",
+      "nichePinyin": "yinhang",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "银行招聘",
+      "nichePinyin": "yinhangzhaopin",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "饮品",
+      "nichePinyin": "yinpin",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "音箱",
+      "nichePinyin": "yinxiang",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "音乐",
+      "nichePinyin": "yinyue",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "音乐会",
+      "nichePinyin": "yinyue hui",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "音乐教师",
+      "nichePinyin": "yinyuejiaoshi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "音乐培训",
+      "nichePinyin": "yinyuepexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "医师资格证",
+      "nichePinyin": "yishi",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "艺术",
+      "nichePinyin": "yishu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "艺术考研",
+      "nichePinyin": "yishukaoyan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "意外险",
+      "nichePinyin": "yiwaibaoxian",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "医学考研",
+      "nichePinyin": "yixuekaoyan",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "油漆",
+      "nichePinyin": "youqi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "游戏",
+      "nichePinyin": "youxi",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "游戏设计培训",
+      "nichePinyin": "youxishejipexun",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "游泳",
+      "nichePinyin": "youyong",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "游泳馆",
+      "nichePinyin": "youyong guan",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "游泳培训",
+      "nichePinyin": "youyong peixun",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "游泳装备",
+      "nichePinyin": "youyong zhuangbei",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "园林设计培训",
+      "nichePinyin": "yuanlinshejipexun",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "园艺",
+      "nichePinyin": "yuanyi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "越南语培训",
+      "nichePinyin": "yuenanyupexun",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "乐器",
+      "nichePinyin": "yueqi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "育儿",
+      "nichePinyin": "yuer",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "育儿知识",
+      "nichePinyin": "yuerzhishi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "月子中心",
+      "nichePinyin": "yuezi zhongxin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "瑜伽",
+      "nichePinyin": "yujia",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "瑜伽馆",
+      "nichePinyin": "yujia guan",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "瑜伽用品",
+      "nichePinyin": "yujia yongpin",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "瑜伽培训",
+      "nichePinyin": "yujiapexun",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "瑜伽教练",
+      "nichePinyin": "yujiiajiaolian",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "娱乐",
+      "nichePinyin": "yule",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "羽毛球",
+      "nichePinyin": "yumaoqiu",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "运动",
+      "nichePinyin": "yundong",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "运动装备",
+      "nichePinyin": "yundong zhuangbei",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "云计算培训",
+      "nichePinyin": "yunjisuanpexun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "早餐",
+      "nichePinyin": "zao can",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "造价工程师",
+      "nichePinyin": "zaojiagongchengshi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "早教中心",
+      "nichePinyin": "zaojiaozhongxin",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "债券",
+      "nichePinyin": "zhaiquan",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "展览",
+      "nichePinyin": "zhanlan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "证券",
+      "nichePinyin": "zhengquan",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "征信",
+      "nichePinyin": "zhengxin",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "征信查询",
+      "nichePinyin": "zhengxin chaxun",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "征信修复",
+      "nichePinyin": "zhengxin xiufu",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "整形",
+      "nichePinyin": "zhengxing",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "针灸",
+      "nichePinyin": "zhenjiu",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "直播",
+      "nichePinyin": "zhibo",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "智能穿戴",
+      "nichePinyin": "zhineng chuandai",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "智能家居",
+      "nichePinyin": "zhineng jiaju",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "智能设备",
+      "nichePinyin": "zhineng shebei",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "智能手表",
+      "nichePinyin": "zhineng shoubiao",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "智能眼镜",
+      "nichePinyin": "zhineng yanjing",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "中餐",
+      "nichePinyin": "zhong can",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "仲裁机构",
+      "nichePinyin": "zhongcai jiguan",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "钟点工",
+      "nichePinyin": "zhongdian gong",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "中级会计",
+      "nichePinyin": "zhongjikuaiji",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "肿瘤",
+      "nichePinyin": "zhongliu",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "中医",
+      "nichePinyin": "zhongyi",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "中医养生",
+      "nichePinyin": "zhongyi yangsheng",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "周边游",
+      "nichePinyin": "zhoubianyou",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "装修",
+      "nichePinyin": "zhuangxiu",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "专利申请",
+      "nichePinyin": "zhuanli",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "珠宝",
+      "nichePinyin": "zhubao",
+      "variant": "variant-blue"
+    },
+    {
+      "nicheName": "注册会计师",
+      "nichePinyin": "zhucekuaiji shi",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "自驾游",
+      "nichePinyin": "zijia you",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "自由行",
+      "nichePinyin": "ziyouxing",
+      "variant": "variant-orange"
+    },
+    {
+      "nicheName": "综艺",
+      "nichePinyin": "zongyi",
+      "variant": "variant-purple"
+    },
+    {
+      "nicheName": "租房",
+      "nichePinyin": "zufang",
+      "variant": "variant-green"
+    },
+    {
+      "nicheName": "足疗",
+      "nichePinyin": "zuliao",
+      "variant": "variant-dark"
+    },
+    {
+      "nicheName": "足球",
+      "nichePinyin": "zuqiu",
+      "variant": "variant-orange"
+    }
+  ],
+  "templateCounts": {
+    "variant-green": 161,
+    "variant-blue": 161,
+    "variant-purple": 145,
+    "variant-orange": 164,
+    "variant-dark": 162
+  }
 }

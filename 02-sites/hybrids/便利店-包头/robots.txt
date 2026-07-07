@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://便利店-包头-nav.pages.dev/sitemap.xml

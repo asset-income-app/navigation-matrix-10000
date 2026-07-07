@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://geju-nav.pages.dev/sitemap.xml

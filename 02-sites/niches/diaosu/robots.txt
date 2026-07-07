@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://diaosu-nav.pages.dev/sitemap.xml

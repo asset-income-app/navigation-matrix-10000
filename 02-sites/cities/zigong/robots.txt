@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://zigong-nav.pages.dev/sitemap.xml

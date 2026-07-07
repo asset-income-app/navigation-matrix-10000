@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://电影-海口-nav.pages.dev/sitemap.xml

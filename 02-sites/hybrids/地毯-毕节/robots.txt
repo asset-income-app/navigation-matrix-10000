@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://地毯-毕节-nav.pages.dev/sitemap.xml

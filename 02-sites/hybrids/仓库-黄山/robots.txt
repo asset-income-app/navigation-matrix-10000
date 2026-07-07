@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://仓库-黄山-nav.pages.dev/sitemap.xml

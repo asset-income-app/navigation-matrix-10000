@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://抖音运营-毕节-nav.pages.dev/sitemap.xml

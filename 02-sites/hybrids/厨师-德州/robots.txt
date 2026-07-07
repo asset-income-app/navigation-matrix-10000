@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://厨师-德州-nav.pages.dev/sitemap.xml

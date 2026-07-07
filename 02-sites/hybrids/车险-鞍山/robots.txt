@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://车险-鞍山-nav.pages.dev/sitemap.xml

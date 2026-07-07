@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://hunlizhuchi-nav.pages.dev/sitemap.xml

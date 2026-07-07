@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://shuiwu-nav.pages.dev/sitemap.xml

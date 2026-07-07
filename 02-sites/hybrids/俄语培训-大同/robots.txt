@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://俄语培训-大同-nav.pages.dev/sitemap.xml

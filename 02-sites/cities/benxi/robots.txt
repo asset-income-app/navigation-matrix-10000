@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://benxi-nav.pages.dev/sitemap.xml

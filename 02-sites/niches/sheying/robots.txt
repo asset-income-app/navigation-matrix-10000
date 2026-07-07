@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://sheying-nav.pages.dev/sitemap.xml

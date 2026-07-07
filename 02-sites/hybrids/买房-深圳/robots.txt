@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://买房-深圳.pages.dev/sitemap.xml

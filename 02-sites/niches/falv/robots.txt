@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://falv-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://贷款顾问-赤峰-nav.pages.dev/sitemap.xml

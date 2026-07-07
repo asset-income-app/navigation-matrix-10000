@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://xining-nav.pages.dev/sitemap.xml

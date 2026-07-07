@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://耳鼻喉-黄冈-nav.pages.dev/sitemap.xml

@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://厂房-菏泽-nav.pages.dev/sitemap.xml

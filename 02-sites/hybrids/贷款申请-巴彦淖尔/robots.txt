@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://贷款申请-巴彦淖尔-nav.pages.dev/sitemap.xml

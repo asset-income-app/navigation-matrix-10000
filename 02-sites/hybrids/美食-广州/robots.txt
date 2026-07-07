@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://美食-广州.pages.dev/sitemap.xml

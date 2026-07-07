@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://按摩-白城.pages.dev/sitemap.xml

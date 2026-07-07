@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://财产险-安庆-nav.pages.dev/sitemap.xml

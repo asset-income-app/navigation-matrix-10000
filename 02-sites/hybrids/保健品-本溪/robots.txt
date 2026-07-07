@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://保健品-本溪-nav.pages.dev/sitemap.xml

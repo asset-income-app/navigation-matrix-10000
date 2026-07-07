@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://大数据培训-海东-nav.pages.dev/sitemap.xml

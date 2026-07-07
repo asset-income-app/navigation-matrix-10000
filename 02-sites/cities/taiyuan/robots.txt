@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://taiyuan-nav.pages.dev/sitemap.xml
